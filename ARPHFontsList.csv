@@ -1,0 +1,759 @@
+font_id,name,name_en,language,trial,codepage
+1473748272345,AR NewHebeSansHe,AR NewHebeSansHe,Hebrew,是,codepage 1255
+1473749021092,AR NewHebeSansHe BD,AR NewHebeSansHe BD,Hebrew,是,codepage 1255
+1473748868489,AR NewHebeSansHe DB,AR NewHebeSansHe DB,Hebrew,是,codepage 1255
+1473749126292,AR NewHebeSansHe EB,AR NewHebeSansHe EB,Hebrew,是,codepage 1255
+1473749196116,AR NewHebeSansHe HV,AR NewHebeSansHe HV,Hebrew,是,codepage 1255
+1442390372404,AR UD 晶熙ゴシック体Aktiv_D,AR UDJingXiHeiAktivJP DB,Japanese,是,JIS 0208
+1442390470677,AR UD 晶熙ゴシック体Aktiv_E,AR UDJingXiHeiAktivJP EB,Japanese,是,JIS 0208
+1442390543233,AR UD 晶熙ゴシック体Aktiv_H,AR UDJingXiHeiAktivJP HV,Japanese,是,JIS 0208
+1442390265136,AR UD 晶熙ゴシック体Aktiv_L,AR UDJingXiHeiAktivJP LT,Japanese,是,JIS 0208
+1451525504800,ARUD 晶熙ゴシック体_B,AR UDJingXiHeiJP BD,Japanese,否,JIS 0208
+1451525389032,ARUD 晶熙ゴシック体_D,AR UDJingXiHeiJP DB,Japanese,否,JIS 0208
+1451525572402,ARUD 晶熙ゴシック体_E,AR UDJingXiHeiJP EB,Japanese,否,JIS 0208
+1451525639879,ARUD 晶熙ゴシック体_H,AR UDJingXiHeiJP HV,Japanese,否,JIS 0208
+1451524895102,ARUD 晶熙ゴシック体_M,AR UDJingXiHeiJP MD,Japanese,否,JIS 0208
+1440994248638,AR 顏眞楷書体 H,Arphic Gansinkaisho Heavy JIS,Japanese,否,JIS 0208
+1440994576394,AR ゴシック体 M,Arphic Gothic Medium JIS,Japanese,否,JIS 0208
+1440994721857,AR 行楷書体 H,Arphic Gyokaisho Heavy JIS,Japanese,否,JIS 0208
+1440994623913,AR 行書体 B,Arphic Gyosho Bold JIS,Japanese,否,JIS 0208
+1440994487317,AR 楷書体 M,Arphic Kaisho Medium JIS,Japanese,否,JIS 0208
+1440994531660,AR マーカー体 E,Arphic Marker-Tai Extra JIS,Japanese,否,JIS 0208
+1440992436281,AR 明朝体 L,Arphic Mincho Light JIS,Japanese,否,JIS 0208
+1440992707192,AR 明朝体 U,Arphic Mincho Ultra JIS,Japanese,否,JIS 0208
+1440994793955,AR ペン行楷書体 M,Arphic Pengyokaisho Medium JIS,Japanese,否,JIS 0208
+1440994756875,ARＰＯＰ５H,Arphic POP5 Heavy JIS,Japanese,否,JIS 0208
+1440994446678,AR 丸ゴシック体 E,Arphic Round-Gothic Extra JIS,Japanese,否,JIS 0208
+1440994404560,AR 丸ゴシック体 M,Arphic Round-Gothic Medium JIS,Japanese,否,JIS 0208
+1457344435270,AR GothicKR5 BD,AR GothicKR5 BD,Korean,是,KS X 1005
+1457344280605,AR GothicKR5 MD,AR GothicKR5 MD,Korean,是,KS X 1005
+1457343158305,AR MyungjoKR MD,AR MyungjoKR MD,Korean,是,KS X 1001 (Hangul Only)
+1457344093562,GungSeo Medium,GungSeo Medium,Korean,是,KS X 1001 (Hangul Only)
+1444030633725,Sandoll GothicNeo1 03 Light,Sandoll GothicNeo1 03 Light,Korean,是,KS X 1001 (Hangul Only)
+1444030687435,Sandoll GothicNeo1 05 Medium,Sandoll GothicNeo1 05 Medium,Korean,是,KS X 1001 (Hangul Only)
+1444030767249,Sandoll GothicNeo1 06 SemiBold,Sandoll GothicNeo1 06 SemiBold,Korean,是,KS X 1001 (Hangul Only)
+1444030836799,Sandoll GothicNeo1 07 Bold,Sandoll GothicNeo1 07 Bold,Korean,是,KS X 1001 (Hangul Only)
+1444030883329,Sandoll GothicNeo1 08 ExtraBold,Sandoll GothicNeo1 08 ExtraBold,Korean,是,KS X 1001 (Hangul Only)
+1434441592831,AR ACTION,AR ACTION,Latin,是,ASCII
+1434441768690,AR ADEPT,AR ADEPT,Latin,是,ASCII
+1434441787253,AR ADRIANA,AR ADRIANA,Latin,是,ASCII
+1434441834143,AR AILEEN,AR AILEEN,Latin,是,ASCII
+1434441863758,AR AKEEM,AR AKEEM,Latin,是,ASCII
+1434441881227,AR ALBERT,AR ALBERT,Latin,是,ASCII
+1434441896336,AR ALEXA,AR ALEXA,Latin,是,ASCII
+1434441930273,AR ALEXANDRA,AR ALEXANDRA,Latin,是,ASCII
+1434441951836,AR ALFONSO,AR ALFONSO,Latin,是,ASCII
+1434441980211,AR ALICE,AR ALICE,Latin,是,ASCII
+1434442000898,AR AMBER,AR AMBER,Latin,是,ASCII
+1431673943893,AR Brush1 Bold Italic,AR Brush1 Bold Italic,Latin,是,ASCII
+1434442032070,AR Brush1 Extrabold Italic,AR Brush1 Extrabold Italic,Latin,是,ASCII
+1434442065211,AR Brush1 Heavy Italic,AR Brush1 Heavy Italic,Latin,是,ASCII
+1373599425313,AR Brush2 Ultra,AR Brush2 Ultra,Latin,是,ASCII
+1373600499238,AR Brush3 Bold,AR Brush3 Bold,Latin,是,ASCII
+1434442273383,AR Brush3 Demibold,AR Brush3 Demibold,Latin,是,ASCII
+1434442293133,AR Brush3 Medium,AR Brush3 Medium,Latin,是,ASCII
+1434442329789,AR Brush4 Heavy,AR Brush4 Heavy,Latin,是,ASCII
+1434442348008,AR Brush4 Ultra,AR Brush4 Ultra,Latin,是,ASCII
+1434442359133,AR Brush5 Bold,AR Brush5 Bold,Latin,是,ASCII
+1373607341903,AR Brush7 Bold,AR Brush7 Bold,Latin,是,ASCII
+1426229062084,AR Dori Sans,AR Dori Sans,Latin,是,WGL4
+1426230337128,AR Dori Sans Black,AR Dori Sans Black,Latin,是,WGL4
+1426410476735,AR Dori Sans Bold,AR Dori Sans Bold,Latin,是,WGL4
+1426410606325,AR Dori Sans Demibold,AR Dori Sans Demibold,Latin,是,WGL4
+1426410774945,AR Dori Sans Extrabold,AR Dori Sans Extrabold,Latin,是,WGL4
+1426410915018,AR Dori Sans Extraheavy,AR Dori Sans Extraheavy,Latin,是,WGL4
+1426410979596,AR Dori Sans Heavy,AR Dori Sans Heavy,Latin,是,WGL4
+1426411045279,AR Dori Sans Light,AR Dori Sans Light,Latin,是,WGL4
+1426411103890,AR Dori Sans Ultra,AR Dori Sans Ultra,Latin,是,WGL4
+1373874445499,AR Fruda Sans,AR Fruda Sans,Latin,否,ASCII
+1434442480805,AR Gothic1 Bold,AR Gothic1 Bold,Latin,是,ASCII
+1434442499586,AR Gothic1 Extrabold,AR Gothic1 Extrabold,Latin,是,ASCII
+1434442513211,AR Gothic1 Heavy,AR Gothic1 Heavy,Latin,是,ASCII
+1434442527414,AR Gothic1 Light,AR Gothic1 Light,Latin,是,ASCII
+1373594688278,AR Gothic1 Medium,AR Gothic1 Medium,Latin,是,ASCII
+1434442617492,AR Gothic2 Ultra,AR Gothic2 Ultra,Latin,是,ASCII
+1373598193850,AR Gothic2 Ultra Distended,AR Gothic2 Ultra Distended,Latin,是,ASCII
+1426411196401,AR New Hebe Sans,AR New Hebe Sans,Latin,是,WGL4
+1426411361110,AR New Hebe Sans Black,AR New Hebe Sans Black,Latin,是,WGL4
+1426411536317,AR New Hebe Sans Bold,AR New Hebe Sans Bold,Latin,是,WGL4
+1426411663120,AR New Hebe Sans Demibold,AR New Hebe Sans Demibold,Latin,是,WGL4
+1426411782073,AR New Hebe Sans Extrabold,AR New Hebe Sans Extrabold,Latin,是,WGL4
+1426411928834,AR New Hebe Sans Extraheavy,AR New Hebe Sans Extraheavy,Latin,是,WGL4
+1426412039369,AR New Hebe Sans Heavy,AR New Hebe Sans Heavy,Latin,是,WGL4
+1426412093560,AR New Hebe Sans Light,AR New Hebe Sans Light,Latin,是,WGL4
+1426412157557,AR New Hebe Sans Ultra,AR New Hebe Sans Ultra,Latin,是,WGL4
+1434442654180,AR RGothic1 Bold,AR RGothic1 Bold,Latin,是,ASCII
+1434442676664,AR RGothic1 Extrabold,AR RGothic1 Extrabold,Latin,是,ASCII
+1434442694461,AR RGothic1 Heavy,AR RGothic1 Heavy,Latin,是,ASCII
+1434442708227,AR RGothic1 Light,AR RGothic1 Light,Latin,是,ASCII
+1373598943192,AR RGothic1 Medium,AR RGothic1 Medium,Latin,是,ASCII
+1434442757102,AR RGothic1 Ultra,AR RGothic1 Ultra,Latin,是,ASCII
+1434442778992,AR RGothic2 Ultra Outline,AR RGothic2 Ultra Outline,Latin,是,ASCII
+1434442792258,AR RGothic2 Ultra Stencil,AR RGothic2 Ultra Stencil,Latin,是,ASCII
+1373607748436,AR Roman1 Bold,AR Roman1 Bold,Latin,是,ASCII
+1434442827023,AR Roman1 Extrabold,AR Roman1 Extrabold,Latin,是,ASCII
+1434442846727,AR Roman1 FS Bold,AR Roman1 FS Bold,Latin,是,ASCII
+1434442860508,AR Roman1 FS Light,AR Roman1 FS Light,Latin,是,ASCII
+1434442880695,AR Roman1 FS Medium,AR Roman1 FS Medium,Latin,是,ASCII
+1434442892711,AR Roman1 Heavy,AR Roman1 Heavy,Latin,是,ASCII
+1434442904461,AR Roman1 Kai Bold,AR Roman1 Kai Bold,Latin,是,ASCII
+1434442919930,AR Roman1 Kai Light,AR Roman1 Kai Light,Latin,是,ASCII
+1434442931820,AR Roman1 Kai Medium,AR Roman1 Kai Medium,Latin,是,ASCII
+1434442953961,AR Roman1 Light,AR Roman1 Light,Latin,是,ASCII
+1434442971898,AR Roman1 Medium,AR Roman1 Medium,Latin,是,ASCII
+1434442990820,AR Roman1 SHS Light,AR Roman1 SHS Light,Latin,是,ASCII
+1434443004555,AR Roman2 Ultra,AR Roman2 Ultra,Latin,是,ASCII
+1434443254508,AR Script1 Bold,AR Script1 Bold,Latin,是,ASCII
+1434443281492,AR Script1 Light,AR Script1 Light,Latin,是,ASCII
+1434443294789,AR Script2 Medium,AR Script2 Medium,Latin,是,ASCII
+1434443329695,AR Script3 Bold,AR Script3 Bold,Latin,是,ASCII
+1373867610217,AR Script5 Bold,AR Script5 Bold,Latin,是,ASCII
+1434443412289,AR Script6 Bold,AR Script6 Bold,Latin,是,ASCII
+1434612323607,文鼎彩云_U,AR CaiYunGB UL,Simplified Chinese,是,GB2312
+1434612431082,文鼎齿轮体_M,AR ChiLunGB MD,Simplified Chinese,是,GB2312
+1434617244605,文鼎晶栩粗黑G30,AR CrystalHeiG30 BD,Simplified Chinese,是,GB18030
+1434617285477,文鼎晶栩中粗黑G30,AR CrystalHeiG30 DB,Simplified Chinese,是,GB18030
+1434617320818,文鼎晶栩中黑G30,AR CrystalHeiG30 MD,Simplified Chinese,是,GB18030
+1434613657801,文鼎晶栩黑体_B,AR CrystalHeiGB BD,Simplified Chinese,是,GB2312
+1434613695399,文鼎晶栩黑体_D,AR CrystalHeiGB DB,Simplified Chinese,是,GB2312
+1434613727051,文鼎晶栩黑体_M,AR CrystalHeiGB MD,Simplified Chinese,是,GB2312
+1465874000380,文鼎粗黑上汉语拼音C1,AR CuheiSHC1GB Bd,Simplified Chinese,否,GB2312
+1465875347374,文鼎粗黑上汉语拼音L1,AR CuheiSHL1GB Bd,Simplified Chinese,否,GB2312
+1465875476291,文鼎粗黑下汉语拼音C1,AR CuheiXHC1GB Bd,Simplified Chinese,否,GB2312
+1465875579154,文鼎粗黑下汉语拼音L1,AR CuheiXHL1GB Bd,Simplified Chinese,否,GB2312
+1469605710504,文鼎DC陈森田MORITA_B,AR DCCSTMoritaGB BD,Simplified Chinese,是,GB2312+GB12345
+1458111021297,文鼎DC黄阳尖魏体_B,AR DCHYJianWeiGB BD,Simplified Chinese,否,GB2312+GB12345
+1436923366415,文鼎DC老外宋G30,AR DCLaoWaiSongG30,Simplified Chinese,是,GB18030
+1444716098606,文鼎DC庆科静雅体_M,AR DCQKJingYaGB MD,Simplified Chinese,是,GB2312
+1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese,是,GB2312+GB12345
+1434612532924,文鼎雕刻体_B,AR DiaoKeGB BD,Simplified Chinese,是,GB2312
+1434612607360,文鼎粗仿宋,AR FangSongGB BD,Simplified Chinese,是,GB2312
+1434612692059,文鼎细仿宋,AR FangSongGB LT,Simplified Chinese,是,GB2312
+1431675089031,文鼎中仿宋,AR FangSongGB MD,Simplified Chinese,是,GB2312
+1434616586986,文鼎粗鋼筆行楷G30,AR GangBiXingKaiG30 BD,Simplified Chinese,否,GB18030
+1434612753402,文鼎粗钢笔行楷,AR GangBiXingKaiGB BD,Simplified Chinese,否,GB2312
+1434612844212,文鼎大钢笔行楷,AR GangBiXingKaiGB EB,Simplified Chinese,是,GB2312
+1434612875330,文鼎细钢笔行楷,AR GangBiXingKaiGB LT,Simplified Chinese,是,GB2312
+1434612913561,文鼎中钢笔行楷,AR GangBiXingKaiGB MD,Simplified Chinese,是,GB2312
+1434613025942,文鼎粗广告体,AR GuangGaoGB BD,Simplified Chinese,是,GB2312
+1434613060451,文鼎大广告体,AR GuangGaoGB EB,Simplified Chinese,是,GB2312
+1394004388511,文鼎古印体_B,AR GuYinGB BD,Simplified Chinese,是,GB2312
+1434613296881,文鼎海报体_B,AR HaiBaoGB BD,Simplified Chinese,是,GB2312
+1397464661124,文鼎黑体_B,AR HeiGB BD,Simplified Chinese,是,GB2312
+1434613366229,文鼎黑体_L,AR HeiGB LT,Simplified Chinese,是,GB2312
+1397464046588,文鼎黑体_M,AR HeiGB MD,Simplified Chinese,是,GB2312
+1434613431415,文鼎花瓣体_U,AR HuaBanGB UL,Simplified Chinese,是,GB2312
+1434613475506,文鼎火柴体_B,AR HuoChaiGB BD,Simplified Chinese,是,GB2312
+1434613521734,文鼎琥珀_U,AR HuPoGB UL,Simplified Chinese,是,GB2312
+1434613576485,文鼎胡子体_E,AR HuZiGB EB,Simplified Chinese,是,GB2312
+1434613621594,文鼎贱狗体_B,AR JianGouGB BD,Simplified Chinese,是,GB2312
+1434614455941,文鼎荆棘体_M,AR JingJiGB MD,Simplified Chinese,是,GB2312
+1434617351262,文鼎中楷體G30,AR KaiG30 MD,Simplified Chinese,是,GB18030
+1431675513335,文鼎中楷体,AR KaiGB MD,Simplified Chinese,是,GB2312
+1465875682533,文鼎中楷上汉语拼音C1,AR KaiSHC1GB Md,Simplified Chinese,否,GB2312
+1465875788535,文鼎中楷上汉语拼音L1,AR KaiSHL1GB Md,Simplified Chinese,否,GB2312
+1465875915363,文鼎中楷下汉语拼音C1,AR KaiXHC1GB Md,Simplified Chinese,否,GB2312
+1465875997680,文鼎中楷下汉语拼音L1,AR KaiXHL1GB Md,Simplified Chinese,否,GB2312
+1434613772441,文鼎粗勘亭流体,AR KanTingLiuGB BD,Simplified Chinese,是,GB2312
+1434613815896,文鼎特勘亭流体,AR KanTingLiuGB HV,Simplified Chinese,是,GB2312
+1434613846679,文鼎特粗勘亭流体,AR KanTingLiuGB UL,Simplified Chinese,是,GB2312
+1431675023146,文鼎老上海宋_L,AR LaoShangHaiSongGB LT,Simplified Chinese,是,GB2312
+1431675591484,文鼎中隶,AR LiShuGB MD,Simplified Chinese,是,GB2312
+1434613901181,文鼎粗毛楷体,AR MaoKaiGB BD,Simplified Chinese,是,GB2312
+1434613946780,文鼎大毛楷体,AR MaoKaiGB EB,Simplified Chinese,是,GB2312
+1434613979065,文鼎特毛楷体,AR MaoKaiGB HV,Simplified Chinese,是,GB2312
+1458021766840,文鼎奈谷米POP体_B,AR NaGoMiPOPGB BD,Simplified Chinese,否,GB2312
+1434614158616,文鼎妞妞体_B,AR NiuNiuGB BD,Simplified Chinese,是,GB2312
+1434614208138,文鼎霹雳体_U,AR PiLiGB UL,Simplified Chinese,是,GB2312
+1471585984103,文鼎立体像素20_M,AR Pixel3D20GB MD,Simplified Chinese,是,GB2312
+1461226816065,文鼎斜线像素12_M,AR PixelDiagonal12GB MD,Simplified Chinese,是,GB2312
+1461226476391,文鼎横线像素12_M,AR PixelHBar12GB MD,Simplified Chinese,是,GB2312
+1476327621145,文鼎拼贴像素20_M,AR PixelMontage20GB MD,Simplified Chinese,是,GB2312
+1471586393360,文鼎渐层方点像素20_M,AR PixelSquShad20GB MD,Simplified Chinese,是,GB2312
+1434614520537,文鼎ＰＯＰ－４体_B,AR Pop4GB BD,Simplified Chinese,是,GB2312
+1434617385214,文鼎大簽字筆體G30,AR QianZiBiG30 EB,Simplified Chinese,否,GB18030
+1434614575895,文鼎大签字笔体,AR QianZiBiGB EB,Simplified Chinese,否,GB2312
+1434615802214,文鼎上海宋G30_L,AR ShangHaiSongG30 LT,Simplified Chinese,是,GB18030
+1431676130255,文鼎上海宋_B,AR ShangHaiSongGB BD,Simplified Chinese,是,GB2312
+1434611677420,文鼎上海宋_L,AR ShangHaiSongGB LT,Simplified Chinese,是,GB2312
+1431675659083,文鼎上海宋_M,AR ShangHaiSongGB MD,Simplified Chinese,是,GB2312
+1434614640938,文鼎谁的字体_M,AR SheiDeZiGB MD,Simplified Chinese,是,GB2312
+1434614692162,文鼎水管体_B,AR ShuiGuanGB BD,Simplified Chinese,是,GB2312
+1434614837787,文鼎书林黑体_L,AR ShuLinHeiGB LT,Simplified Chinese,是,GB2312
+1434614867751,文鼎书林黑体_M,AR ShuLinHeiGB MD,Simplified Chinese,是,GB2312
+1434612101472,文鼎书林宋体_B,AR ShuLinSongGB BD,Simplified Chinese,是,GB2312
+1465956535305,文鼎书林宋体_E,AR ShuLinSongGB EB,Simplified Chinese,是,GB2312
+1434612267839,文鼎书林宋体_H,AR ShuLinSongGB HV,Simplified Chinese,是,GB2312
+1465956062024,文鼎书林宋体_L,AR ShuLinSongGB LT,Simplified Chinese,是,GB2312
+1465956317945,文鼎书林宋体_M,AR ShuLinSongGB MD,Simplified Chinese,是,GB2312
+1434614939278,文鼎书林宋体_U,AR ShuLinSongGB UL,Simplified Chinese,是,GB2312
+1434614906536,文鼎书宋,AR ShuSongGB MD,Simplified Chinese,是,GB2312
+1434614994316,文鼎石头体_E,AR StoneGB EB,Simplified Chinese,是,GB2312
+1434615021801,文鼎弹簧体_B,AR TanHuangGB BD,Simplified Chinese,是,GB2312
+1434615075425,文鼎粗甜妞体,AR TianNiuGB BD,Simplified Chinese,是,GB2312
+1434615110836,文鼎特甜妞体,AR TianNiuGB HV,Simplified Chinese,是,GB2312
+1442388814461,文鼎UD晶熙黑体AktivG30_D,AR UDJingXiHeiAktivG30 DB,Simplified Chinese,是,GB18030
+1442389498260,文鼎UD晶熙黑体AktivG30_E,AR UDJingXiHeiAktivG30 EB,Simplified Chinese,是,GB18030
+1442389806536,文鼎UD晶熙黑体AktivG30_H,AR UDJingXiHeiAktivG30 HV,Simplified Chinese,是,GB18030
+1442387283879,文鼎UD晶熙黑体AktivG30_L,AR UDJingXiHeiAktivG30 LT,Simplified Chinese,是,GB18030
+1442386843529,文鼎UD晶熙黑体Aktiv_D,AR UDJingXiHeiAktivGB DB,Simplified Chinese,是,GB2312
+1442387069581,文鼎UD晶熙黑体Aktiv_E,AR UDJingXiHeiAktivGB EB,Simplified Chinese,是,GB2312
+1442387150699,文鼎UD晶熙黑体Aktiv_H,AR UDJingXiHeiAktivGB HV,Simplified Chinese,是,GB2312
+1442385645071,文鼎UD晶熙黑体Aktiv_L,AR UDJingXiHeiAktivGB LT,Simplified Chinese,是,GB2312
+1453701747164,文鼎UD晶熙黑体E1G30_B,AR UDJingXiHeiE1G30 BD,Simplified Chinese,否,GB18030
+1453701715124,文鼎UD晶熙黑体E1G30_D,AR UDJingXiHeiE1G30 DB,Simplified Chinese,否,GB18030
+1453701803668,文鼎UD晶熙黑体E1G30_E,AR UDJingXiHeiE1G30 EB,Simplified Chinese,否,GB18030
+1453701888508,文鼎UD晶熙黑体E1G30_H,AR UDJingXiHeiE1G30 HV,Simplified Chinese,否,GB18030
+1453701602689,文鼎UD晶熙黑体E1G30_M,AR UDJingXiHeiE1G30 MD,Simplified Chinese,否,GB18030
+1458034897069,文鼎UD晶熙黑体E1_B,AR UDJingXiHeiE1GB BD,Simplified Chinese,否,GB2312
+1458034849812,文鼎UD晶熙黑体E1_D,AR UDJingXiHeiE1GB DB,Simplified Chinese,否,GB2312
+1458034953320,文鼎UD晶熙黑体E1_E,AR UDJingXiHeiE1GB EB,Simplified Chinese,否,GB2312
+1458035000519,文鼎UD晶熙黑体E1_H,AR UDJingXiHeiE1GB HV,Simplified Chinese,否,GB2312
+1458034793483,文鼎UD晶熙黑体E1_M,AR UDJingXiHeiE1GB MD,Simplified Chinese,否,GB2312
+1458024724482,文鼎UD晶熙黑体E1XG30_B,AR UDJingXiHeiE1XG30 BD,Simplified Chinese,否,GB18030
+1458024663444,文鼎UD晶熙黑体E1XG30_D,AR UDJingXiHeiE1XG30 DB,Simplified Chinese,否,GB18030
+1458024845993,文鼎UD晶熙黑体E1XG30_E,AR UDJingXiHeiE1XG30 EB,Simplified Chinese,否,GB18030
+1458024948547,文鼎UD晶熙黑体E1XG30_H,AR UDJingXiHeiE1XG30 HV,Simplified Chinese,否,GB18030
+1458024473623,文鼎UD晶熙黑体E1XG30_M,AR UDJingXiHeiE1XG30 MD,Simplified Chinese,否,GB18030
+1453701352705,文鼎UD晶熙黑体G30_B,AR UDJingXiHeiG30 BD,Simplified Chinese,否,GB18030
+1453701238634,文鼎UD晶熙黑体G30_D,AR UDJingXiHeiG30 DB,Simplified Chinese,否,GB18030
+1453701511452,文鼎UD晶熙黑体G30_E,AR UDJingXiHeiG30 EB,Simplified Chinese,否,GB18030
+1453701553681,文鼎UD晶熙黑体G30_H,AR UDJingXiHeiG30 HV,Simplified Chinese,否,GB18030
+1453701045723,文鼎UD晶熙黑体G30_M,AR UDJingXiHeiG30 MD,Simplified Chinese,否,GB18030
+1451448019650,文鼎UD晶熙黑体_B,AR UDJingxiheiGB BD,Simplified Chinese,是,GB2312
+1451447788725,文鼎UD晶熙黑体_D,AR UDJingxiheiGB DB,Simplified Chinese,是,GB2312
+1451448077618,文鼎UD晶熙黑体_E,AR UDJingxiheiGB EB,Simplified Chinese,是,GB2312
+1451448122365,文鼎UD晶熙黑体_H,AR UDJingxiheiGB HV,Simplified Chinese,是,GB2312
+1451447365603,文鼎UD晶熙黑体_M,AR UDJingxiheiGB MD,Simplified Chinese,是,GB2312
+1458024134383,文鼎UD晶熙黑体XG30_B,AR UDJingXiHeiXG30 BD,Simplified Chinese,否,GB18030
+1458023737821,文鼎UD晶熙黑体XG30_D,AR UDJingXiHeiXG30 DB,Simplified Chinese,否,GB18030
+1458024260648,文鼎UD晶熙黑体XG30_E,AR UDJingXiHeiXG30 EB,Simplified Chinese,否,GB18030
+1458024330841,文鼎UD晶熙黑体XG30_H,AR UDJingXiHeiXG30 HV,Simplified Chinese,否,GB18030
+1458023444101,文鼎UD晶熙黑体XG30_M,AR UDJingXiHeiXG30 MD,Simplified Chinese,否,GB18030
+1397462808979,文鼎W小标宋,AR WBiaosongGB B,Simplified Chinese,否,GB2312
+1397463035341,文鼎W大标宋,AR WDabiaosongGB H,Simplified Chinese,否,GB2312
+1434617456442,文鼎粗魏碑體G30,AR WeiBeiG30 BD,Simplified Chinese,是,GB18030
+1394004734709,文鼎粗魏碑体,AR WeiBeiGB BD,Simplified Chinese,是,GB2312
+1434615157732,文鼎大魏碑体,AR WeiBeiGB EB,Simplified Chinese,是,GB2312
+1434615198539,文鼎中魏碑体,AR WeiBeiGB MD,Simplified Chinese,是,GB2312
+1394004904547,文鼎W中钢笔行楷,AR WGangbixingkaiGB M,Simplified Chinese,否,GB2312
+1394004844293,文鼎W海报体,AR WHaibaoGB B,Simplified Chinese,否,GB2312
+1397463783154,文鼎W细黑体,AR WHeiGB L,Simplified Chinese,否,GB2312
+1397462400808,文鼎W书宋,AR WShusongGB M,Simplified Chinese,否,GB2312
+1394004623684,文鼎W大颜楷,AR WYankaiGB H,Simplified Chinese,否,GB2312
+1397463426229,文鼎W中圆,AR WYuanGB M,Simplified Chinese,否,GB2312
+1434615228720,文鼎香肠体_B,AR XiangChangGB BD,Simplified Chinese,是,GB2312
+1434615273439,文鼎潇洒体_M,AR XiaoSaGB MD,Simplified Chinese,是,GB2312
+1434615322081,文鼎行楷碑体_B,AR XingKaiBeiGB BD,Simplified Chinese,是,GB2312
+1434615379209,文鼎粗行楷体,AR XingKaiGB BD,Simplified Chinese,是,GB2312
+1434615430939,文鼎中行书,AR XingShuGB MD,Simplified Chinese,是,GB2312
+1397465137168,文鼎新黑体_U,AR XinHeiGB UL,Simplified Chinese,是,GB2312
+1431675847227,文鼎新艺体_U,AR XinYiGB UL,Simplified Chinese,是,GB2312
+1434615476910,文鼎习字体_U,AR XiZiGB UL,Simplified Chinese,是,GB2312
+1434615525981,文鼎特颜楷,AR YanKaiGB HV,Simplified Chinese,是,GB2312
+1434615568936,文鼎淹水体_E,AR YanShuiGB EB,Simplified Chinese,是,GB2312
+1397463641173,文鼎粗圆,AR YuanGB BD,Simplified Chinese,是,GB2312
+1434615623671,文鼎特圆,AR YuanGB HV,Simplified Chinese,是,GB2312
+1397463252268,文鼎细圆,AR YuanGB LT,Simplified Chinese,是,GB2312
+1434615651364,文鼎中圆,AR YuanGB MD,Simplified Chinese,是,GB2312
+1434615684948,文鼎特粗圆,AR YuanGB UL,Simplified Chinese,是,GB2312
+1434615732466,文鼎圆立体_B,AR YuanLiGB BD,Simplified Chinese,是,GB2312
+1431675322202,文鼎云黑体_B,AR YunHeiGB BD,Simplified Chinese,是,GB2312
+1434615773067,文鼎竹子体_M,AR ZhuZiGB MD,Simplified Chinese,是,GB2312
+1450951980549,XinGothic-W4S(信黑体),XinGothic-W4S,Simplified Chinese,否,GB2312
+1450952082844,XinGothic-W6S(信黑体),XinGothic-W6S,Simplified Chinese,否,GB2312
+1450952164291,XinGothic-W7S(信黑体),XinGothic-W7S,Simplified Chinese,否,GB2312
+1472611759156,AR NewHebeSansTh,AR NewHebeSansTh,Thai,是,codepage 874
+1472613799980,AR NewHebeSansTh BD,AR NewHebeSansTh BD,Thai,是,codepage 874
+1472613635783,AR NewHebeSansTh DB,AR NewHebeSansTh DB,Thai,是,codepage 874
+1472613886249,AR NewHebeSansTh EB,AR NewHebeSansTh EB,Thai,是,codepage 874
+1472613962376,AR NewHebeSansTh HV,AR NewHebeSansTh HV,Thai,是,codepage 874
+1424932858380,文鼎水瓶座_U,AR AquariusAB5 UL,Traditional Chinese,是,Big-5
+1361442892741,文鼎板刻ＰＯＰ體_E,AR BanKePOPB5 EB,Traditional Chinese,是,Big-5
+1459327252420,文鼎虛線注音符號,AR BopomofaDL Ul,Traditional Chinese,是,注音符號
+1361504002742,文鼎草莓體_H,AR CaoMeiB5 HV,Traditional Chinese,是,Big-5
+1434425659599,文鼎齒輪體_M,AR ChiLunB5 MD,Traditional Chinese,是,Big-5
+1473834750928,文鼎DC陳森田MORITA_B,AR DCCSTMoritaB5 BD,Traditional Chinese,是,Big-5
+1476341983294,文鼎DC云康行楷_B,AR DCYKXingKaiB5 BD,Traditional Chinese,否,Big-5
+1434425928896,文鼎雕刻體_B,AR DiaoKeB5 BD,Traditional Chinese,是,Big-5
+1361503137569,文鼎疊圓體_U,AR DieYuanB5 UL,Traditional Chinese,是,Big-5
+1424860907195,文鼎嘟嘟猴體_U,AR DuDuHouB5 UL,Traditional Chinese,是,Big-5
+1361415577873,文鼎仿宋_B,AR FangSongB5 BD,Traditional Chinese,是,Big-5
+1424932081598,文鼎仿宋_L,AR FangSongB5 LT,Traditional Chinese,是,Big-5
+1361415252465,文鼎仿宋_M,AR FangSongB5 MD,Traditional Chinese,是,Big-5
+1434439507034,文鼎仿宋简_L,AR FangSongB5S LT,Traditional Chinese,是,Big-5簡
+1459491650847,文鼎方新書H7_H,AR FangXinShuH7B5 HV,Traditional Chinese,否,Big-5
+1473749911788,文鼎方新書H7C80_H,AR FangXinShuH7C80B5 HV,Traditional Chinese,是,Big-5
+1479450615304,文鼎方新書H7C80D_H,AR FangXinShuH7C80DB5 HV,Traditional Chinese,是,Big-5
+1473750636853,文鼎方新書H7C90_H,AR FangXinShuH7C90B5 HV,Traditional Chinese,是,Big-5
+1479450915844,文鼎方新書H7C90D_H,AR FangXinShuH7C90DB5 HV,Traditional Chinese,是,Big-5
+1473751668413,文鼎方新書H7C95_H,AR FangXinShuH7C95B5 HV,Traditional Chinese,是,Big-5
+1479451125204,文鼎方新書H7C95D_H,AR FangXinShuH7C95DB5 HV,Traditional Chinese,是,Big-5
+1361426607269,文鼎鋼筆行楷_B,AR GangBiXingKaiB5 BD,Traditional Chinese,是,Big-5
+1424932705742,文鼎鋼筆行楷_L,AR GangBiXingKaiB5 LT,Traditional Chinese,是,Big-5
+1361426164204,文鼎鋼筆行楷_M,AR GangBiXingKaiB5 MD,Traditional Chinese,是,Big-5
+1361427779028,文鼎廣告體_B,AR GuangGaoB5 BD,Traditional Chinese,是,Big-5
+1361428229103,文鼎廣告體_E,AR GuangGaoB5 EB,Traditional Chinese,是,Big-5
+1361426947945,文鼎廣告體_M,AR GuangGaoB5 MD,Traditional Chinese,是,Big-5
+1424861055911,文鼎咕咕雞體_U,AR GuGuJiB5 UL,Traditional Chinese,是,Big-5
+1361443663679,文鼎古印體_B,AR GuYinB5 BD,Traditional Chinese,是,Big-5
+1421657119710,文鼎海報體_B,AR HaiBaoB5 BD,Traditional Chinese,是,Big-5
+1421657184573,文鼎黑皮龍體_U,AR HappyLongB5 UL,Traditional Chinese,是,Big-5
+1361354834958,文鼎黑體_B,AR HeiB5 BD,Traditional Chinese,是,Big-5
+1424931729589,文鼎黑體_E,AR HeiB5 EB,Traditional Chinese,是,Big-5
+1424931834789,文鼎黑體_H,AR HeiB5 HV,Traditional Chinese,是,Big-5
+1424857939792,文鼎黑體_L,AR HeiB5 LT,Traditional Chinese,是,Big-5
+1361354339326,文鼎黑體_M,AR HeiB5 MD,Traditional Chinese,是,Big-5
+1424858167291,文鼎黑體_U,AR HeiB5 UL,Traditional Chinese,是,Big-5
+1434440201112,文鼎黑体简_B,AR HeiB5S BD,Traditional Chinese,是,Big-5簡
+1465803312101,文鼎粗黑上漢語拼音C1,AR HeiSHYC1 Bd,Traditional Chinese,否,Big-5
+1465803465595,文鼎粗黑上漢語拼音L1,AR HeiSHYL1 Bd,Traditional Chinese,否,Big-5
+1434440978550,文鼎黑體U30_M,AR HeiU30 MD,Traditional Chinese,是,Unicode3.0
+1465804574979,文鼎粗黑上漢語寬拼音C1,AR HeiWSHYC1B5 Bd,Traditional Chinese,否,Big-5
+1465804680964,文鼎粗黑上漢語寬拼音L1,AR HeiWSHYL1B5 Bd,Traditional Chinese,否,Big-5
+1465804770418,文鼎粗黑下漢語寬拼音C1,AR HeiWXHYC1B5 Bd,Traditional Chinese,否,Big-5
+1465805012654,文鼎粗黑下漢語寬拼音L1,AR HeiWXHYL1B5 Bd,Traditional Chinese,否,Big-5
+1465803641651,文鼎粗黑下漢語拼音C1,AR HeiXHYC1 Bd,Traditional Chinese,否,Big-5
+1465803767909,文鼎粗黑下漢語拼音L1,AR HeiXHYL1 Bd,Traditional Chinese,否,Big-5
+1467272391384,文鼎粗黑注音,AR HeiZuinn Bd,Traditional Chinese,否,Big-5
+1467272340393,文鼎中黑注音,AR HeiZuinn Md,Traditional Chinese,否,Big-5
+1424914311095,文鼎喜多兔_U,AR HitoTuB5 UL,Traditional Chinese,是,Big-5
+1434433801041,文鼎花瓣體_U,AR HuaBanB5 UL,Traditional Chinese,是,Big-5
+1361504220563,文鼎花草體_E,AR HuaCaoB5 EB,Traditional Chinese,是,Big-5
+1467272678781,文鼎花草注音,AR HuaTsauZuinn Eb,Traditional Chinese,否,Big-5
+1361502903320,文鼎火柴體_B,AR HuoChaiB5 BD,Traditional Chinese,是,Big-5
+1434433869057,文鼎鬍子體_E,AR HuZiB5 EB,Traditional Chinese,是,Big-5
+1434433925104,文鼎賤狗體_B,AR JianGouB5 BD,Traditional Chinese,是,Big-5
+1361502080338,文鼎荊棘體_M,AR JingJiB5 MD,Traditional Chinese,是,Big-5
+1421657023291,文鼎楷體_B,AR KaiB5 BD,Traditional Chinese,是,Big-5
+1424858775626,文鼎楷體_L,AR KaiB5 LT,Traditional Chinese,是,Big-5
+1361416288919,文鼎楷體_M,AR KaiB5 MD,Traditional Chinese,是,Big-5
+1434440404956,文鼎楷体简_M,AR KaiB5S MD,Traditional Chinese,是,Big-5簡
+1361443316835,文鼎勘亭流_U,AR KanTingLiuB5 UL,Traditional Chinese,是,Big-5
+1361503363607,文鼎空疊圓_U,AR KongDieYuanB5 UL,Traditional Chinese,是,Big-5
+1424860178097,文鼎隸書_B,AR LiShuB5 BD,Traditional Chinese,是,Big-5
+1361418232989,文鼎隸書_D,AR LiShuB5 DB,Traditional Chinese,是,Big-5
+1361416868280,文鼎隸書_M,AR LiShuB5 MD,Traditional Chinese,是,Big-5
+1434440459831,文鼎隶书简_M,AR LiShuB5S MD,Traditional Chinese,是,Big-5簡
+1434441012846,文鼎隸書U30_M,AR LiShuU30 MD,Traditional Chinese,是,Unicode3.0
+1361424820273,文鼎毛楷_B,AR MaoKaiB5 BD,Traditional Chinese,是,Big-5
+1361425806533,文鼎毛楷_E,AR MaoKaiB5 EB,Traditional Chinese,是,Big-5
+1424859330457,文鼎毛楷_H,AR MaoKaiB5 HV,Traditional Chinese,是,Big-5
+1421656923650,文鼎明體_B,AR MingB5 BD,Traditional Chinese,是,Big-5
+1424931066968,文鼎明體_E,AR MingB5 EB,Traditional Chinese,是,Big-5
+1361353753007,文鼎明體_H,AR MingB5 HV,Traditional Chinese,是,Big-5
+1424854504739,文鼎明體_L,AR MingB5 LT,Traditional Chinese,是,Big-5
+1361350423484,文鼎明體_M,AR MingB5 MD,Traditional Chinese,是,Big-5
+1424854819243,文鼎明體_U,AR MingB5 UL,Traditional Chinese,是,Big-5
+1434440494831,文鼎明体简_B,AR MingB5S BD,Traditional Chinese,是,Big-5簡
+1434440538362,文鼎明体简_H,AR MingB5S HV,Traditional Chinese,是,Big-5簡
+1434440582362,文鼎明体简_M,AR MingB5S MD,Traditional Chinese,是,Big-5簡
+1434441045096,文鼎明體U30_D,AR MingU30 DB,Traditional Chinese,是,Unicode3.0
+1434441085268,文鼎明體U30_L,AR MingU30 LT,Traditional Chinese,是,Unicode3.0
+1361410602265,文鼎新黑體_B,AR NewHeiB5 BD,Traditional Chinese,是,Big-5
+1421656990854,文鼎新黑體_E,AR NewHeiB5 EB,Traditional Chinese,是,Big-5
+1424931975681,文鼎新黑體_H,AR NewHeiB5 HV,Traditional Chinese,是,Big-5
+1424858295586,文鼎新黑體_L,AR NewHeiB5 LT,Traditional Chinese,是,Big-5
+1361355108526,文鼎新黑體_M,AR NewHeiB5 MD,Traditional Chinese,是,Big-5
+1424857827088,文鼎新明體_L,AR NewMingB5 LT,Traditional Chinese,是,Big-5
+1434436818010,文鼎妞妞體_B,AR NiuNiuB5 BD,Traditional Chinese,是,Big-5
+1424860628260,文鼎瓢蟲體_U,AR PiaoChongB5 UL,Traditional Chinese,是,Big-5
+1361501273446,文鼎霹靂體_U,AR PiLiB5 UL,Traditional Chinese,是,Big-5
+1424932929447,文鼎雙魚座_U,AR PiscesAB5 UL,Traditional Chinese,是,Big-5
+1471585523861,文鼎立體像素20_M,AR Pixel3D20B5 MD,Traditional Chinese,是,Big-5
+1461226659788,文鼎斜線像素12_M,AR PixelDiagonal12B5 MD,Traditional Chinese,是,Big-5
+1461225057049,文鼎橫線像素12_M,AR PixelHBar12B5 MD,Traditional Chinese,是,Big-5
+1476327378875,文鼎拼貼像素20_M,AR PixelMontage20B5 MD,Traditional Chinese,是,Big-5
+1471586173113,文鼎漸層方點像素20_M,AR PixelSquShad20B5 MD,Traditional Chinese,是,Big-5
+1361429035018,文鼎ＰＯＰ－２_B,AR Pop2B5 BD,Traditional Chinese,是,Big-5
+1361429411452,文鼎ＰＯＰ－４_B,AR Pop4B5 BD,Traditional Chinese,是,Big-5
+1424914189058,文鼎乾坤牛_U,AR QianKunNiuB5 UL,Traditional Chinese,是,Big-5
+1361498483843,文鼎簽字筆體_E,AR QianZiBiB5 EB,Traditional Chinese,是,Big-5
+1361444158531,文鼎俏黑體_E,AR QiaoHeiB5 EB,Traditional Chinese,是,Big-5
+1424860398390,文鼎俏黑體_U,AR QiaoHeiB5 UL,Traditional Chinese,是,Big-5
+1424860799542,文鼎親親體_U,AR QinQinB5 UL,Traditional Chinese,是,Big-5
+1424931255809,文鼎上海宋_L,AR ShangHaiSongB5 LT,Traditional Chinese,是,Big-5
+1361502641076,文鼎誰的字體_M,AR SheiDeZiB5 MD,Traditional Chinese,是,Big-5
+1434437242276,文鼎水管體_B,AR ShuiGuanB5 BD,Traditional Chinese,是,Big-5
+1361414761102,文鼎標準楷體_B,AR StdKaiB5 BD,Traditional Chinese,是,Big-5
+1424858416252,文鼎標準楷體_L,AR StdKaiB5 LT,Traditional Chinese,是,Big-5
+1361414336983,文鼎標準楷體_M,AR StdKaiB5 MD,Traditional Chinese,是,Big-5
+1467272987029,文鼎標楷國字方框,AR StdKaiGBX Md,Traditional Chinese,否,Big-5
+1459327366137,文鼎標楷虛線國字,AR StdKaiGDLB5 Md,Traditional Chinese,是,Big-5
+1467272945769,文鼎標楷國字空框,AR StdKaiGWB Md,Traditional Chinese,否,Big-5
+1465803860781,文鼎標楷上漢語拼音C1,AR StdKaiSHYC1 Md,Traditional Chinese,否,Big-5
+1465803963432,文鼎標楷上漢語拼音L1,AR StdKaiSHYL1 Md,Traditional Chinese,否,Big-5
+1434441185800,文鼎標準楷體U30_M,AR StdKaiU30 MD,Traditional Chinese,是,Unicode3.0
+1465805164620,文鼎標楷上漢語寬拼音C1,AR StdKaiWSHYC1B5 Md,Traditional Chinese,否,Big-5
+1465805282838,文鼎標楷上漢語寬拼音L1,AR StdKaiWSHYL1B5 Md,Traditional Chinese,否,Big-5
+1465805386766,文鼎標楷下漢語寬拼音C1,AR StdKaiWXHYC1B5 Md,Traditional Chinese,否,Big-5
+1465805472569,文鼎標楷下漢語寬拼音L1,AR StdKaiWXHYL1B5 Md,Traditional Chinese,否,Big-5
+1465804086264,文鼎標楷下漢語拼音C1,AR StdKaiXHYC1 Md,Traditional Chinese,否,Big-5
+1465804200075,文鼎標楷下漢語拼音L1,AR StdKaiXHYL1 Md,Traditional Chinese,否,Big-5
+1467273084249,文鼎標楷注音方框,AR StdKaiZBX Md,Traditional Chinese,否,Big-5
+1467271471889,文鼎標楷注音,AR StdKaiZuinn Md,Traditional Chinese,否,Big-5
+1467273029935,文鼎標楷注音空框,AR StdKaiZWB Md,Traditional Chinese,否,Big-5
+1467273189158,文鼎標宋國字方框,AR StdMingGBX Md,Traditional Chinese,否,Big-5
+1467273123933,文鼎標宋國字空框,AR StdMingGWB Md,Traditional Chinese,否,Big-5
+1467273239025,文鼎標宋注音方框,AR StdMingZBX Md,Traditional Chinese,否,Big-5
+1467271620058,文鼎粗標宋注音,AR StdMingZuinn Bd,Traditional Chinese,否,Big-5
+1467272122067,文鼎中特標宋注音,AR StdMingZuinn Eb,Traditional Chinese,否,Big-5
+1467272288941,文鼎特標宋注音,AR StdMingZuinn Hv,Traditional Chinese,否,Big-5
+1467272067354,文鼎標宋注音,AR StdMingZuinn Md,Traditional Chinese,否,Big-5
+1361414071470,文鼎標準宋體_B,AR StdSongB5 BD,Traditional Chinese,是,Big-5
+1424932237172,文鼎標準宋體_E,AR StdSongB5 EB,Traditional Chinese,是,Big-5
+1424858667925,文鼎標準宋體_H,AR StdSongB5 HV,Traditional Chinese,是,Big-5
+1424858558986,文鼎標準宋體_L,AR StdSongB5 LT,Traditional Chinese,是,Big-5
+1361413105098,文鼎標準宋體_M,AR StdSongB5 MD,Traditional Chinese,是,Big-5
+1434441231659,文鼎標準宋體U30_M,AR StdSongU30 MD,Traditional Chinese,是,Unicode3.0
+1434437820635,文鼎石頭體_E,AR StoneB5 EB,Traditional Chinese,是,Big-5
+1434437867370,文鼎彈簧體_B,AR TanHuangB5 BD,Traditional Chinese,是,Big-5
+1421657153364,文鼎金牛座_U,AR TaurusAB5 UL,Traditional Chinese,是,Big-5
+1361499046178,文鼎甜妞體_B,AR TianNiuB5 BD,Traditional Chinese,是,Big-5
+1361500173526,文鼎甜妞體_H,AR TianNiuB5 HV,Traditional Chinese,是,Big-5
+1424860292635,文鼎甜妞體_U,AR TianNiuB5 UL,Traditional Chinese,是,Big-5
+1424860745132,文鼎甜心體_U,AR TianXinB5 UL,Traditional Chinese,是,Big-5
+1467272624910,文鼎草莓注音,AR TsauMeiZuinn Hv,Traditional Chinese,否,Big-5
+1442389987040,文鼎UD晶熙黑體AktivBHK_D,AR UDJingXiHeiAktivBHK DB,Traditional Chinese,是,Big-5 + HKSCS-2008
+1442390125233,文鼎UD晶熙黑體AktivBHK_E,AR UDJingXiHeiAktivBHK EB,Traditional Chinese,是,Big-5 + HKSCS-2008
+1442390198066,文鼎UD晶熙黑體AktivBHK_H,AR UDJingXiHeiAktivBHK HV,Traditional Chinese,是,Big-5 + HKSCS-2008
+1442389882174,文鼎UD晶熙黑體AktivBHK_L,AR UDJingXiHeiAktivBHK LT,Traditional Chinese,是,Big-5 + HKSCS-2008
+1424914947268,文鼎UD晶熙黑體_B,AR UDJingXiHeiB5 BD,Traditional Chinese,否,Big-5
+1424914561919,文鼎UD晶熙黑體_D,AR UDJingXiHeiB5 DB,Traditional Chinese,否,Big-5
+1424915029097,文鼎UD晶熙黑體_E,AR UDJingXiHeiB5 EB,Traditional Chinese,否,Big-5
+1424915089656,文鼎UD晶熙黑體_H,AR UDJingXiHeiB5 HV,Traditional Chinese,否,Big-5
+1424914381922,文鼎UD晶熙黑體_M,AR UDJingXiHeiB5 MD,Traditional Chinese,否,Big-5
+1434617692168,文鼎UD晶熙黑體HK_B,AR UDJingXiHeiB5HK BD,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617623498,文鼎UD晶熙黑體HK_D,AR UDJingXiHeiB5HK DB,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617734885,文鼎UD晶熙黑體HK_E,AR UDJingXiHeiB5HK EB,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617775452,文鼎UD晶熙黑體HK_H,AR UDJingXiHeiB5HK HV,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617511335,文鼎UD晶熙黑體HK_M,AR UDJingXiHeiB5HK MD,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617936813,文鼎UD晶熙黑體E1HK_B,AR UDJingXiHeiE1B5HK BD,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617888934,文鼎UD晶熙黑體E1HK_D,AR UDJingXiHeiE1B5HK DB,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617996306,文鼎UD晶熙黑體E1HK_E,AR UDJingXiHeiE1B5HK EB,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434618041592,文鼎UD晶熙黑體E1HK_H,AR UDJingXiHeiE1B5HK HV,Traditional Chinese,否,Big-5 + HKSCS-2008
+1434617823073,文鼎UD晶熙黑體E1HK_M,AR UDJingXiHeiE1B5HK MD,Traditional Chinese,否,Big-5 + HKSCS-2008
+1437991950152,文鼎UD書苑黑體_B,AR UDShuYuanHeiB5 BD,Traditional Chinese,是,Big-5
+1437991429152,文鼎UD書苑黑體_M,AR UDShuYuanHeiB5 MD,Traditional Chinese,是,Big-5
+1424861132048,文鼎汪汪狗體_U,AR WangWangGouB5 UL,Traditional Chinese,是,Big-5
+1465797264455,文鼎空框上漢語拼音C1,AR WBSHC1B5 Md,Traditional Chinese,否,Big-5
+1465797478523,文鼎空框上漢語拼音L1,AR WBSHL1B5 Md,Traditional Chinese,否,Big-5
+1465802625294,文鼎空框下漢語拼音C1,AR WBXHC1B5 Md,Traditional Chinese,否,Big-5
+1465803185539,文鼎空框下漢語拼音L1,AR WBXHL1B5 Md,Traditional Chinese,否,Big-5
+1361418551165,文鼎魏碑_B,AR WeiBeiB5 BD,Traditional Chinese,是,Big-5
+1434440623003,文鼎魏碑简_B,AR WeiBeiB5S BD,Traditional Chinese,是,Big-5簡
+1465804316963,文鼎漢語寬拼音C1,AR WHanYuC1B5 Md,Traditional Chinese,否,Big-5
+1465804469767,文鼎漢語寬拼音L1,AR WHanYuL1B5 Md,Traditional Chinese,否,Big-5
+1361411562089,文鼎WUD書苑黑體B,AR WUDShuyuanheiB5 B,Traditional Chinese,否,Big-5
+1361411027051,文鼎WUD書苑黑體M,AR WUDShuyuanheiB5 M,Traditional Chinese,否,Big-5
+1434437946698,文鼎香腸體_B,AR XiangChangB5 BD,Traditional Chinese,是,Big-5
+1434437992760,文鼎瀟灑體_M,AR XiaoSaB5 MD,Traditional Chinese,是,Big-5
+1424914246606,文鼎笑笑虎_U,AR XiaoXiaoHuB5 UL,Traditional Chinese,是,Big-5
+1361443899544,文鼎新潮ＰＯＰ體_H,AR XinChaoPOPB5 HV,Traditional Chinese,是,Big-5
+1361419003158,文鼎行楷_B,AR XingKaiB5 BD,Traditional Chinese,是,Big-5
+1424932398830,文鼎行楷_L,AR XingKaiB5 LT,Traditional Chinese,是,Big-5
+1434440665956,文鼎行楷简_B,AR XingKaiB5S BD,Traditional Chinese,是,Big-5簡
+1421657211553,文鼎行楷碑體_B,AR XingKaiBeiB5 BD,Traditional Chinese,是,Big-5
+1361417660600,文鼎行書_M,AR XingShuB5 MD,Traditional Chinese,是,Big-5
+1434440696206,文鼎行书简_M,AR XingShuB5S MD,Traditional Chinese,是,Big-5簡
+1361443107776,文鼎新藝體_U,AR XinYiB5 UL,Traditional Chinese,是,Big-5
+1424860495216,文鼎鬚勘亭流_H,AR XuKanTingLiuB5 HV,Traditional Chinese,是,Big-5
+1361419570224,文鼎顏楷_H,AR YanKaiB5 HV,Traditional Chinese,是,Big-5
+1424858917879,文鼎顏楷_U,AR YanKaiB5 UL,Traditional Chinese,是,Big-5
+1434438616229,文鼎顏楷九宮體_U,AR YanKaiGungB5 UL,Traditional Chinese,是,Big-5
+1434438645370,文鼎淹水體_E,AR YanShuiB5 EB,Traditional Chinese,是,Big-5
+1467272565384,文鼎粗圓注音,AR YenZuinn Bd,Traditional Chinese,否,Big-5
+1467272466243,文鼎細圓注音,AR YenZuinn Lt,Traditional Chinese,否,Big-5
+1467272502449,文鼎中圓注音,AR YenZuinn Md,Traditional Chinese,否,Big-5
+1361412658533,文鼎圓體_B,AR YuanB5 BD,Traditional Chinese,是,Big-5
+1424931426446,文鼎圓體_E,AR YuanB5 EB,Traditional Chinese,是,Big-5
+1424931545351,文鼎圓體_H,AR YuanB5 HV,Traditional Chinese,是,Big-5
+1424931322974,文鼎圓體_L,AR YuanB5 LT,Traditional Chinese,是,Big-5
+1361412275009,文鼎圓體_M,AR YuanB5 MD,Traditional Chinese,是,Big-5
+1424931641189,文鼎圓體_U,AR YuanB5 UL,Traditional Chinese,是,Big-5
+1434440743112,文鼎圆体简_B,AR YuanB5S BD,Traditional Chinese,是,Big-5簡
+1434440776675,文鼎圆体简_H,AR YuanB5S HV,Traditional Chinese,是,Big-5簡
+1434439153768,文鼎圓立體_B,AR YuanLiB5 BD,Traditional Chinese,是,Big-5
+1424861773176,文鼎元氣豬_U,AR YuanQiZhuB5 UL,Traditional Chinese,是,Big-5
+1424914137737,文鼎玉鼠鼠_U,AR YuShuShuB5 UL,Traditional Chinese,是,Big-5
+1361503671333,文鼎簪梅體_U,AR ZanMeiB5 UL,Traditional Chinese,是,Big-5
+1467272895199,文鼎虛線注音,AR ZhuYinDLB5 Md,Traditional Chinese,否,Big-5
+1467272728612,文鼎注音寬字,AR ZhuYinEX Md,Traditional Chinese,否,Big-5
+1467272845119,文鼎注音寬字方框,AR ZhuYinEXBX Md,Traditional Chinese,否,Big-5
+1467272783992,文鼎注音窄字,AR ZhuYinNR Md,Traditional Chinese,否,Big-5
+1434439201518,文鼎竹子體_M,AR ZhuZiB5 MD,Traditional Chinese,是,Big-5
+1450942630182,XinGothic-W2T(信黑體),XinGothic-W2T,Traditional Chinese,否,Big-5
+1450943445704,XinGothic-W3T(信黑體),XinGothic-W3T,Traditional Chinese,否,Big-5
+1450951569285,XinGothic-W4T(信黑體),XinGothic-W4T,Traditional Chinese,否,Big-5
+1450951648575,XinGothic-W5T(信黑體),XinGothic-W5T,Traditional Chinese,否,Big-5
+1450951720804,XinGothic-W6T(信黑體),XinGothic-W6T,Traditional Chinese,否,Big-5
+1450951816993,XinGothic-W7T(信黑體),XinGothic-W7T,Traditional Chinese,否,Big-5
+1450951908058,XinGothic-W8T(信黑體),XinGothic-W8T,Traditional Chinese,否,Big-5
+1458025432864,AR Fruda Sans Vi,AR Fruda Sans Vi,Vietnam,是,Vietnam
+1458025135753,AR Hebe Sans Vi,AR Hebe Sans Vi,Vietnam,是,Vietnam
+1458025469101,AR Verdure Sans Vi,AR Verdure Sans Vi,Vietnam,是,Vietnam
+1475200000003,Aktiv Grotesk,Aktiv Grotesk,Western European,是,ISO 8859-1
+1475200000007,Aktiv Grotesk Black,Aktiv Grotesk Black,Western European,是,ISO 8859-1
+1475200000015,Aktiv Grotesk Black Italic,Aktiv Grotesk Black Italic,Western European,是,ISO 8859-1
+1475200000005,Aktiv Grotesk Bold,Aktiv Grotesk Bold,Western European,是,ISO 8859-1
+1475200000013,Aktiv Grotesk Bold Italic,Aktiv Grotesk Bold Italic,Western European,是,ISO 8859-1
+1475200000019,Aktiv Grotesk Cd,Aktiv Grotesk Cd,Western European,是,ISO 8859-1
+1475200000023,Aktiv Grotesk Cd Black,Aktiv Grotesk Cd Black,Western European,是,ISO 8859-1
+1475200000031,Aktiv Grotesk Cd Black Italic,Aktiv Grotesk Cd Black Italic,Western European,是,ISO 8859-1
+1475200000021,Aktiv Grotesk Cd Bold,Aktiv Grotesk Cd Bold,Western European,是,ISO 8859-1
+1475200000029,Aktiv Grotesk Cd Bold Italic,Aktiv Grotesk Cd Bold Italic,Western European,是,ISO 8859-1
+1475200000016,Aktiv Grotesk Cd Hair,Aktiv Grotesk Cd Hair,Western European,是,ISO 8859-1
+1475200000024,Aktiv Grotesk Cd Hair Italic,Aktiv Grotesk Cd Hair Italic,Western European,是,ISO 8859-1
+1475200000027,Aktiv Grotesk Cd Italic,Aktiv Grotesk Cd Italic,Western European,是,ISO 8859-1
+1475200000018,Aktiv Grotesk Cd Light,Aktiv Grotesk Cd Light,Western European,是,ISO 8859-1
+1475200000026,Aktiv Grotesk Cd Light Italic,Aktiv Grotesk Cd Light Italic,Western European,是,ISO 8859-1
+1475200000020,Aktiv Grotesk Cd Medium,Aktiv Grotesk Cd Medium,Western European,是,ISO 8859-1
+1475200000028,Aktiv Grotesk Cd Medium Italic,Aktiv Grotesk Cd Medium Italic,Western European,是,ISO 8859-1
+1475200000017,Aktiv Grotesk Cd Thin,Aktiv Grotesk Cd Thin,Western European,是,ISO 8859-1
+1475200000025,Aktiv Grotesk Cd Thin Italic,Aktiv Grotesk Cd Thin Italic,Western European,是,ISO 8859-1
+1475200000022,Aktiv Grotesk Cd XBold,Aktiv Grotesk Cd XBold,Western European,是,ISO 8859-1
+1475200000030,Aktiv Grotesk Cd XBold Italic,Aktiv Grotesk Cd XBold Italic,Western European,是,ISO 8859-1
+1475200000035,Aktiv Grotesk Ex,Aktiv Grotesk Ex,Western European,是,ISO 8859-1
+1475200000039,Aktiv Grotesk Ex Black,Aktiv Grotesk Ex Black,Western European,是,ISO 8859-1
+1475200000047,Aktiv Grotesk Ex Black Italic,Aktiv Grotesk Ex Black Italic,Western European,是,ISO 8859-1
+1475200000037,Aktiv Grotesk Ex Bold,Aktiv Grotesk Ex Bold,Western European,是,ISO 8859-1
+1475200000045,Aktiv Grotesk Ex Bold Italic,Aktiv Grotesk Ex Bold Italic,Western European,是,ISO 8859-1
+1475200000032,Aktiv Grotesk Ex Hair,Aktiv Grotesk Ex Hair,Western European,是,ISO 8859-1
+1475200000040,Aktiv Grotesk Ex Hair Italic,Aktiv Grotesk Ex Hair Italic,Western European,是,ISO 8859-1
+1475200000043,Aktiv Grotesk Ex Italic,Aktiv Grotesk Ex Italic,Western European,是,ISO 8859-1
+1475200000034,Aktiv Grotesk Ex Light,Aktiv Grotesk Ex Light,Western European,是,ISO 8859-1
+1475200000042,Aktiv Grotesk Ex Light Italic,Aktiv Grotesk Ex Light Italic,Western European,是,ISO 8859-1
+1475200000036,Aktiv Grotesk Ex Medium,Aktiv Grotesk Ex Medium,Western European,是,ISO 8859-1
+1475200000044,Aktiv Grotesk Ex Medium Italic,Aktiv Grotesk Ex Medium Italic,Western European,是,ISO 8859-1
+1475200000033,Aktiv Grotesk Ex Thin,Aktiv Grotesk Ex Thin,Western European,是,ISO 8859-1
+1475200000041,Aktiv Grotesk Ex Thin Italic,Aktiv Grotesk Ex Thin Italic,Western European,是,ISO 8859-1
+1475200000038,Aktiv Grotesk Ex XBold,Aktiv Grotesk Ex XBold,Western European,是,ISO 8859-1
+1475200000046,Aktiv Grotesk Ex XBold Italic,Aktiv Grotesk Ex XBold Italic,Western European,是,ISO 8859-1
+1475200000000,Aktiv Grotesk Hair,Aktiv Grotesk Hair,Western European,是,ISO 8859-1
+1475200000008,Aktiv Grotesk Hair Italic,Aktiv Grotesk Hair Italic,Western European,是,ISO 8859-1
+1475200000011,Aktiv Grotesk Italic,Aktiv Grotesk Italic,Western European,是,ISO 8859-1
+1475200000002,Aktiv Grotesk Light,Aktiv Grotesk Light,Western European,是,ISO 8859-1
+1475200000010,Aktiv Grotesk Light Italic,Aktiv Grotesk Light Italic,Western European,是,ISO 8859-1
+1475200000004,Aktiv Grotesk Medium,Aktiv Grotesk Medium,Western European,是,ISO 8859-1
+1475200000012,Aktiv Grotesk Medium Italic,Aktiv Grotesk Medium Italic,Western European,是,ISO 8859-1
+1475200000001,Aktiv Grotesk Thin,Aktiv Grotesk Thin,Western European,是,ISO 8859-1
+1475200000009,Aktiv Grotesk Thin Italic,Aktiv Grotesk Thin Italic,Western European,是,ISO 8859-1
+1475200000006,Aktiv Grotesk XBold,Aktiv Grotesk XBold,Western European,是,ISO 8859-1
+1475200000014,Aktiv Grotesk XBold Italic,Aktiv Grotesk XBold Italic,Western European,是,ISO 8859-1
+1475200000067,Aller,Aller,Western European,是,ISO 8859-1
+1475200000068,Aller Bold,Aller Bold,Western European,是,ISO 8859-1
+1475200000071,Aller Bold Italic,Aller Bold Italic,Western European,是,ISO 8859-1
+1475200000072,Aller Display,Aller Display,Western European,是,ISO 8859-1
+1475200000070,Aller Italic,Aller Italic,Western European,是,ISO 8859-1
+1475200000066,Aller Light,Aller Light,Western European,是,ISO 8859-1
+1475200000069,Aller Light Italic,Aller Light Italic,Western European,是,ISO 8859-1
+1475200000173,Almaq Refined,Almaq Refined,Western European,是,ISO 8859-1
+1475200000174,Almaq Rough,Almaq Rough,Western European,是,ISO 8859-1
+1373957466950,AR BERKLEY,AR BERKLEY,Western European,是,ISO 8859-1
+1373958968477,AR BLANCA,AR BLANCA,Western European,是,ISO 8859-1
+1373959565410,AR BONNIE,AR BONNIE,Western European,是,ISO 8859-1
+1373960623037,AR CAROLANN,AR CAROLANN,Western European,是,ISO 8859-1
+1373961191422,AR CARTER,AR CARTER,Western European,是,ISO 8859-1
+1373963098621,AR CENA,AR CENA,Western European,是,ISO 8859-1
+1373964156337,AR CHRISTY,AR CHRISTY,Western European,是,ISO 8859-1
+1373964382595,AR DARLING,AR DARLING,Western European,是,ISO 8859-1
+1373966883817,AR DECODE,AR DECODE,Western European,是,ISO 8859-1
+1373967599387,AR DELANEY,AR DELANEY,Western European,是,ISO 8859-1
+1373967988298,AR DESTINE,AR DESTINE,Western European,是,ISO 8859-1
+1373940688801,AR DIN Sans Demibold,AR DIN Sans Demibold,Western European,是,ISO 8859-1
+1373941245819,AR DIN Sans Flat,AR DIN Sans Flat,Western European,是,ISO 8859-1
+1373956399986,AR DIN Sans Flat Bold,AR DIN Sans Flat Bold,Western European,是,ISO 8859-1
+1373968435286,AR ELLIS,AR ELLIS,Western European,是,ISO 8859-1
+1373968873409,AR ESSENCE,AR ESSENCE,Western European,是,ISO 8859-1
+1431674366980,AR Fruda Sans-Flat,AR Fruda Sans-Flat,Western European,是,ISO 8859-1
+1431674178037,AR Gothic1 Euro Medium,AR Gothic1 Euro Medium,Western European,是,ISO 8859-1
+1373872566600,AR Hebe Sans,AR Hebe Sans,Western European,是,ISO 8859-1
+1373873518229,AR Hebe Sans DemiBold,AR Hebe Sans DemiBold,Western European,是,ISO 8859-1
+1373969538700,AR HERMANN,AR HERMANN,Western European,是,ISO 8859-1
+1373969958148,AR JULIAN,AR JULIAN,Western European,是,ISO 8859-1
+1431674295158,AR RGothic1 Euro Black,AR RGothic1 Euro Black,Western European,是,ISO 8859-1
+1458025515028,AR Roman Kai,AR Roman Kai,Western European,是,ISO 8859-1
+1431674327316,AR Roman1 Euro Heavy,AR Roman1 Euro Heavy,Western European,是,ISO 8859-1
+1431674218102,AR Roman2 Euro Black,AR Roman2 Euro Black,Western European,是,ISO 8859-1
+1373869865181,AR Silver Casual,AR Silver Casual,Western European,是,ISO 8859-1
+1362383116504,AR Silver Handwriting,AR Silver Handwriting,Western European,是,ISO 8859-1
+1431674117145,AR Silver Sans Monospace,AR Silver Sans Monospace,Western European,是,ISO 8859-1
+1373868280343,AR Silver Sans Proportional,AR Silver Sans Proportional,Western European,是,ISO 8859-1
+1431674056983,AR Silver Serif Monospace,AR Silver Serif Monospace,Western European,是,ISO 8859-1
+1362383611990,AR Silver Serif Proportional,AR Silver Serif Proportional,Western European,是,ISO 8859-1
+1373870105209,AR Silver Small Caps,AR Silver Small Caps,Western European,是,ISO 8859-1
+1431674259299,AR Slab1 Euro Medium,AR Slab1 Euro Medium,Western European,是,ISO 8859-1
+1373875106080,AR Verdure Sans,AR Verdure Sans,Western European,是,ISO 8859-1
+1373869459095,AR Verdure Sans Demibold,AR Verdure Sans Demibold,Western European,是,ISO 8859-1
+1475200000160,Blenny Black,Blenny Black,Western European,是,ISO 8859-1
+1475200000201,Bligh,Bligh,Western European,是,ISO 8859-1
+1475200000202,Bligh Bold,Bligh Bold,Western European,是,ISO 8859-1
+1475200000200,Bligh Light,Bligh Light,Western European,是,ISO 8859-1
+1475200000203,Bressay,Bressay,Western European,是,ISO 8859-1
+1475200000204,Bressay Bold,Bressay Bold,Western European,是,ISO 8859-1
+1475200000207,Bressay Bold Italic,Bressay Bold Italic,Western European,是,ISO 8859-1
+1475200000205,Bressay Display,Bressay Display,Western European,是,ISO 8859-1
+1475200000208,Bressay Display Italic,Bressay Display Italic,Western European,是,ISO 8859-1
+1475200000206,Bressay Italic,Bressay Italic,Western European,是,ISO 8859-1
+1475200000081,Co Headline,Co Headline,Western European,是,ISO 8859-1
+1475200000082,Co Headline Bold,Co Headline Bold,Western European,是,ISO 8859-1
+1475200000080,Co Headline Light,Co Headline Light,Western European,是,ISO 8859-1
+1475200000078,Co Text,Co Text,Western European,是,ISO 8859-1
+1475200000079,Co Text Bold,Co Text Bold,Western European,是,ISO 8859-1
+1475200000077,Co Text Light,Co Text Light,Western European,是,ISO 8859-1
+1475200000156,Cordale,Cordale,Western European,是,ISO 8859-1
+1475200000157,Cordale Bold,Cordale Bold,Western European,是,ISO 8859-1
+1475200000159,Cordale Bold Italic,Cordale Bold Italic,Western European,是,ISO 8859-1
+1475200000158,Cordale Italic,Cordale Italic,Western European,是,ISO 8859-1
+1475200000177,Dedica,Dedica,Western European,是,ISO 8859-1
+1475200000178,Dedica Bold,Dedica Bold,Western European,是,ISO 8859-1
+1475200000179,Dedica Italic,Dedica Italic,Western European,是,ISO 8859-1
+1475200000049,Effra,Effra,Western European,是,ISO 8859-1
+1475200000051,Effra Bold,Effra Bold,Western European,是,ISO 8859-1
+1475200000056,Effra Bold Italic,Effra Bold Italic,Western European,是,ISO 8859-1
+1475200000052,Effra Heavy,Effra Heavy,Western European,是,ISO 8859-1
+1475200000057,Effra Heavy Italic,Effra Heavy Italic,Western European,是,ISO 8859-1
+1475200000054,Effra Italic,Effra Italic,Western European,是,ISO 8859-1
+1475200000048,Effra Light,Effra Light,Western European,是,ISO 8859-1
+1475200000053,Effra Light Italic,Effra Light Italic,Western European,是,ISO 8859-1
+1475200000050,Effra Medium,Effra Medium,Western European,是,ISO 8859-1
+1475200000055,Effra Medium Italic,Effra Medium Italic,Western European,是,ISO 8859-1
+1475200000172,Elevon FourG,Elevon FourG,Western European,是,ISO 8859-1
+1475200000169,Elevon OneG,Elevon OneG,Western European,是,ISO 8859-1
+1475200000171,Elevon ThreeG,Elevon ThreeG,Western European,是,ISO 8859-1
+1475200000170,Elevon TwoG,Elevon TwoG,Western European,是,ISO 8859-1
+1475200000168,Elevon ZeroG,Elevon ZeroG,Western European,是,ISO 8859-1
+1475200000059,Foco,Foco,Western European,是,ISO 8859-1
+1475200000061,Foco Black,Foco Black,Western European,是,ISO 8859-1
+1475200000065,Foco Black Italic,Foco Black Italic,Western European,是,ISO 8859-1
+1475200000060,Foco Bold,Foco Bold,Western European,是,ISO 8859-1
+1475200000064,Foco Bold Italic,Foco Bold Italic,Western European,是,ISO 8859-1
+1475200000063,Foco Italic,Foco Italic,Western European,是,ISO 8859-1
+1475200000058,Foco Light,Foco Light,Western European,是,ISO 8859-1
+1475200000062,Foco Light Italic,Foco Light Italic,Western European,是,ISO 8859-1
+1475200000175,Grueber,Grueber,Western European,是,ISO 8859-1
+1475200000176,Grueber Bold,Grueber Bold,Western European,是,ISO 8859-1
+1475200000099,Interface,Interface,Western European,是,ISO 8859-1
+1475200000102,InterFace Black,InterFace Black,Western European,是,ISO 8859-1
+1475200000108,InterFace Black Italic,InterFace Black Italic,Western European,是,ISO 8859-1
+1475200000100,InterFace Bold,InterFace Bold,Western European,是,ISO 8859-1
+1475200000106,InterFace Bold Italic,InterFace Bold Italic,Western European,是,ISO 8859-1
+1475200000105,InterFace Italic,InterFace Italic,Western European,是,ISO 8859-1
+1475200000098,InterFace Light,InterFace Light,Western European,是,ISO 8859-1
+1475200000104,InterFace Light Italic,InterFace Light Italic,Western European,是,ISO 8859-1
+1475200000097,InterFace Thin,InterFace Thin,Western European,是,ISO 8859-1
+1475200000103,InterFace Thin Italic,InterFace Thin Italic,Western European,是,ISO 8859-1
+1475200000101,InterFace XBold,InterFace XBold,Western European,是,ISO 8859-1
+1475200000107,InterFace XBold Italic,InterFace XBold Italic,Western European,是,ISO 8859-1
+1475200000162,Kings Caslon,Kings Caslon,Western European,是,ISO 8859-1
+1475200000163,Kings Caslon Bold,Kings Caslon Bold,Western European,是,ISO 8859-1
+1475200000166,Kings Caslon Bold Italic,Kings Caslon Bold Italic,Western European,是,ISO 8859-1
+1475200000164,Kings Caslon Display,Kings Caslon Display,Western European,是,ISO 8859-1
+1475200000167,Kings Caslon Display Italic,Kings Caslon Display Italic,Western European,是,ISO 8859-1
+1475200000165,Kings Caslon Italic,Kings Caslon Italic,Western European,是,ISO 8859-1
+1475200000085,Lexia,Lexia,Western European,是,ISO 8859-1
+1475200000089,Lexia Advertising,Lexia Advertising,Western European,是,ISO 8859-1
+1475200000096,Lexia Advertising Italic,Lexia Advertising Italic,Western European,是,ISO 8859-1
+1475200000088,Lexia Black,Lexia Black,Western European,是,ISO 8859-1
+1475200000095,Lexia Black Italic,Lexia Black Italic,Western European,是,ISO 8859-1
+1475200000086,Lexia Bold,Lexia Bold,Western European,是,ISO 8859-1
+1475200000093,Lexia Bold Italic,Lexia Bold Italic,Western European,是,ISO 8859-1
+1475200000092,Lexia Italic,Lexia Italic,Western European,是,ISO 8859-1
+1475200000084,Lexia Light,Lexia Light,Western European,是,ISO 8859-1
+1475200000091,Lexia Light Italic,Lexia Light Italic,Western European,是,ISO 8859-1
+1475200000083,Lexia Thin,Lexia Thin,Western European,是,ISO 8859-1
+1475200000090,Lexia Thin Italic,Lexia Thin Italic,Western European,是,ISO 8859-1
+1475200000087,Lexia XBold,Lexia XBold,Western European,是,ISO 8859-1
+1475200000094,Lexia XBold Italic,Lexia XBold Italic,Western European,是,ISO 8859-1
+1475200000192,Magpie,Magpie,Western European,是,ISO 8859-1
+1475200000193,Magpie Bold,Magpie Bold,Western European,是,ISO 8859-1
+1475200000195,Magpie Bold Italic,Magpie Bold Italic,Western European,是,ISO 8859-1
+1475200000194,Magpie Italic,Magpie Italic,Western European,是,ISO 8859-1
+1475200000211,Objektiv Mk1,Objektiv Mk1,Western European,是,ISO 8859-1
+1475200000215,Objektiv Mk1 Black,Objektiv Mk1 Black,Western European,是,ISO 8859-1
+1475200000222,Objektiv Mk1 Black Italic,Objektiv Mk1 Black Italic,Western European,是,ISO 8859-1
+1475200000213,Objektiv Mk1 Bold,Objektiv Mk1 Bold,Western European,是,ISO 8859-1
+1475200000220,Objektiv Mk1 Bold Italic,Objektiv Mk1 Bold Italic,Western European,是,ISO 8859-1
+1475200000218,Objektiv Mk1 Italic,Objektiv Mk1 Italic,Western European,是,ISO 8859-1
+1475200000210,Objektiv Mk1 Light,Objektiv Mk1 Light,Western European,是,ISO 8859-1
+1475200000217,Objektiv Mk1 Light Italic,Objektiv Mk1 Light Italic,Western European,是,ISO 8859-1
+1475200000212,Objektiv Mk1 Medium,Objektiv Mk1 Medium,Western European,是,ISO 8859-1
+1475200000219,Objektiv Mk1 Medium Italic,Objektiv Mk1 Medium Italic,Western European,是,ISO 8859-1
+1475200000209,Objektiv Mk1 Thin,Objektiv Mk1 Thin,Western European,是,ISO 8859-1
+1475200000216,Objektiv Mk1 Thin Italic,Objektiv Mk1 Thin Italic,Western European,是,ISO 8859-1
+1475200000214,Objektiv Mk1 XBold,Objektiv Mk1 XBold,Western European,是,ISO 8859-1
+1475200000221,Objektiv Mk1 XBold Italic,Objektiv Mk1 XBold Italic,Western European,是,ISO 8859-1
+1475200000151,Oscine,Oscine,Western European,是,ISO 8859-1
+1475200000152,Oscine Bold,Oscine Bold,Western European,是,ISO 8859-1
+1475200000155,Oscine Bold Italic,Oscine Bold Italic,Western European,是,ISO 8859-1
+1475200000154,Oscine Italic,Oscine Italic,Western European,是,ISO 8859-1
+1475200000150,Oscine Light,Oscine Light,Western European,是,ISO 8859-1
+1475200000153,Oscine Light Italic,Oscine Light Italic,Western European,是,ISO 8859-1
+1475200000138,Plume,Plume,Western European,是,ISO 8859-1
+1475200000140,Plume Ad Black,Plume Ad Black,Western European,是,ISO 8859-1
+1475200000143,Plume Ad Black Italic,Plume Ad Black Italic,Western European,是,ISO 8859-1
+1475200000139,Plume Bold,Plume Bold,Western European,是,ISO 8859-1
+1475200000142,Plume Bold Italic,Plume Bold Italic,Western European,是,ISO 8859-1
+1475200000141,Plume Italic,Plume Italic,Western European,是,ISO 8859-1
+1475200000126,Prometo,Prometo,Western European,是,ISO 8859-1
+1475200000130,Prometo Black,Prometo Black,Western European,是,ISO 8859-1
+1475200000137,Prometo Black Italic,Prometo Black Italic,Western European,是,ISO 8859-1
+1475200000128,Prometo Bold,Prometo Bold,Western European,是,ISO 8859-1
+1475200000135,Prometo Bold Italic,Prometo Bold Italic,Western European,是,ISO 8859-1
+1475200000133,Prometo Italic,Prometo Italic,Western European,是,ISO 8859-1
+1475200000125,Prometo Light,Prometo Light,Western European,是,ISO 8859-1
+1475200000132,Prometo Light Italic,Prometo Light Italic,Western European,是,ISO 8859-1
+1475200000127,Prometo Medium,Prometo Medium,Western European,是,ISO 8859-1
+1475200000134,Prometo Medium Italic,Prometo Medium Italic,Western European,是,ISO 8859-1
+1475200000124,Prometo Thin,Prometo Thin,Western European,是,ISO 8859-1
+1475200000131,Prometo Thin Italic,Prometo Thin Italic,Western European,是,ISO 8859-1
+1475200000129,Prometo XBold,Prometo XBold,Western European,是,ISO 8859-1
+1475200000136,Prometo XBold Italic,Prometo XBold Italic,Western European,是,ISO 8859-1
+1475200000196,Royalty Anorexic,Royalty Anorexic,Western European,是,ISO 8859-1
+1475200000197,Royalty Average,Royalty Average,Western European,是,ISO 8859-1
+1475200000198,Royalty Chubby,Royalty Chubby,Western European,是,ISO 8859-1
+1475200000199,Royalty Obese,Royalty Obese,Western European,是,ISO 8859-1
+1475200000224,Setimo,Setimo,Western European,是,ISO 8859-1
+1475200000225,Setimo Bold,Setimo Bold,Western European,是,ISO 8859-1
+1475200000228,Setimo Bold Italic,Setimo Bold Italic,Western European,是,ISO 8859-1
+1475200000227,Setimo Italic,Setimo Italic,Western European,是,ISO 8859-1
+1475200000223,Setimo Light,Setimo Light,Western European,是,ISO 8859-1
+1475200000226,Setimo Light Italic,Setimo Light Italic,Western European,是,ISO 8859-1
+1475200000111,Soleto,Soleto,Western European,是,ISO 8859-1
+1475200000115,Soleto Black,Soleto Black,Western European,是,ISO 8859-1
+1475200000122,Soleto Black Italic,Soleto Black Italic,Western European,是,ISO 8859-1
+1475200000113,Soleto Bold,Soleto Bold,Western European,是,ISO 8859-1
+1475200000120,Soleto Bold Italic,Soleto Bold Italic,Western European,是,ISO 8859-1
+1475200000118,Soleto Italic,Soleto Italic,Western European,是,ISO 8859-1
+1475200000110,Soleto Light,Soleto Light,Western European,是,ISO 8859-1
+1475200000117,Soleto Light Italic,Soleto Light Italic,Western European,是,ISO 8859-1
+1475200000112,Soleto Medium,Soleto Medium,Western European,是,ISO 8859-1
+1475200000119,Soleto Medium Italic,Soleto Medium Italic,Western European,是,ISO 8859-1
+1475200000109,Soleto Thin,Soleto Thin,Western European,是,ISO 8859-1
+1475200000116,Soleto Thin Italic,Soleto Thin Italic,Western European,是,ISO 8859-1
+1475200000114,Soleto XBold,Soleto XBold,Western European,是,ISO 8859-1
+1475200000121,Soleto XBold Italic,Soleto XBold Italic,Western European,是,ISO 8859-1
+1475200000145,Stroudley,Stroudley,Western European,是,ISO 8859-1
+1475200000146,Stroudley Bold,Stroudley Bold,Western European,是,ISO 8859-1
+1475200000149,Stroudley Bold Italic,Stroudley Bold Italic,Western European,是,ISO 8859-1
+1475200000148,Stroudley Italic,Stroudley Italic,Western European,是,ISO 8859-1
+1475200000144,Stroudley Light,Stroudley Light,Western European,是,ISO 8859-1
+1475200000147,Stroudley Light Italic,Stroudley Light Italic,Western European,是,ISO 8859-1
+1475200000180,Tephra 0,Tephra 0,Western European,是,ISO 8859-1
+1475200000183,Tephra 100,Tephra 100,Western European,是,ISO 8859-1
+1475200000181,Tephra 12,Tephra 12,Western European,是,ISO 8859-1
+1475200000184,Tephra 138,Tephra 138,Western European,是,ISO 8859-1
+1475200000185,Tephra 250,Tephra 250,Western European,是,ISO 8859-1
+1475200000182,Tephra 50,Tephra 50,Western European,是,ISO 8859-1
+1475200000074,Tondo,Tondo,Western European,是,ISO 8859-1
+1475200000075,Tondo Bold,Tondo Bold,Western European,是,ISO 8859-1
+1475200000073,Tondo Light,Tondo Light,Western European,是,ISO 8859-1
+1475200000076,Tondo Signage,Tondo Signage,Western European,是,ISO 8859-1
+1475200000161,Tornac,Tornac,Western European,是,ISO 8859-1
+1475200000123,Verveine,Verveine,Western European,是,ISO 8859-1
+1475200000187,Viato,Viato,Western European,是,ISO 8859-1
+1475200000188,Viato Bold,Viato Bold,Western European,是,ISO 8859-1
+1475200000191,Viato Bold Italic,Viato Bold Italic,Western European,是,ISO 8859-1
+1475200000190,Viato Italic,Viato Italic,Western European,是,ISO 8859-1
+1475200000186,Viato Light,Viato Light,Western European,是,ISO 8859-1
+1475200000189,Viato Light Italic,Viato Light Italic,Western European,是,ISO 8859-1
