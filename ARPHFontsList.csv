@@ -130,6 +130,7 @@ font_id,name,name_en,language,trial,codepage
 1434612607360,文鼎粗仿宋,AR FangSongGB BD,Simplified Chinese,是,GB2312
 1434612692059,文鼎细仿宋,AR FangSongGB LT,Simplified Chinese,是,GB2312
 1431675089031,文鼎中仿宋,AR FangSongGB MD,Simplified Chinese,是,GB2312
+1481680862738,文鼎方新书H7_H,AR FangXinShuH7GB HV,Simplified Chinese,是,GB2312
 1434616586986,文鼎粗鋼筆行楷G30,AR GangBiXingKaiG30 BD,Simplified Chinese,否,GB18030
 1434612753402,文鼎粗钢笔行楷,AR GangBiXingKaiGB BD,Simplified Chinese,否,GB2312
 1434612844212,文鼎大钢笔行楷,AR GangBiXingKaiGB EB,Simplified Chinese,是,GB2312
@@ -375,6 +376,10 @@ font_id,name,name_en,language,trial,codepage
 1424931255809,文鼎上海宋_L,AR ShangHaiSongB5 LT,Traditional Chinese,是,Big-5
 1361502641076,文鼎誰的字體_M,AR SheiDeZiB5 MD,Traditional Chinese,是,Big-5
 1434437242276,文鼎水管體_B,AR ShuiGuanB5 BD,Traditional Chinese,是,Big-5
+1482300454673,文鼎書林明體_B,AR ShuLinMingB5 BD,Traditional Chinese,是,Big-5
+1482217121986,文鼎書林明體_E,AR ShuLinMingB5 EB,Traditional Chinese,是,Big-5
+1482215699736,文鼎書林明體_L,AR ShuLinMingB5 LT,Traditional Chinese,是,Big-5
+1482216123549,文鼎書林明體_M,AR ShuLinMingB5 MD,Traditional Chinese,是,Big-5
 1361414761102,文鼎標準楷體_B,AR StdKaiB5 BD,Traditional Chinese,是,Big-5
 1424858416252,文鼎標準楷體_L,AR StdKaiB5 LT,Traditional Chinese,是,Big-5
 1361414336983,文鼎標準楷體_M,AR StdKaiB5 MD,Traditional Chinese,是,Big-5
