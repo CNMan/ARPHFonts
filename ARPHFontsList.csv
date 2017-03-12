@@ -65,7 +65,6 @@ font_id,name,name_en,language,trial,codepage
 1426410979596,AR Dori Sans Heavy,AR Dori Sans Heavy,Latin,是,WGL4
 1426411045279,AR Dori Sans Light,AR Dori Sans Light,Latin,是,WGL4
 1426411103890,AR Dori Sans Ultra,AR Dori Sans Ultra,Latin,是,WGL4
-1373874445499,AR Fruda Sans,AR Fruda Sans,Latin,否,ASCII
 1434442480805,AR Gothic1 Bold,AR Gothic1 Bold,Latin,是,ASCII
 1434442499586,AR Gothic1 Extrabold,AR Gothic1 Extrabold,Latin,是,ASCII
 1434442513211,AR Gothic1 Heavy,AR Gothic1 Heavy,Latin,是,ASCII
@@ -125,7 +124,7 @@ font_id,name,name_en,language,trial,codepage
 1458111021297,文鼎DC黄阳尖魏体_B,AR DCHYJianWeiGB BD,Simplified Chinese,否,GB2312+GB12345
 1436923366415,文鼎DC老外宋G30,AR DCLaoWaiSongG30,Simplified Chinese,是,GB18030
 1444716098606,文鼎DC庆科静雅体_M,AR DCQKJingYaGB MD,Simplified Chinese,是,GB2312
-1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese,是,GB2312+GB12345
+1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese,否,GB2312+GB12345
 1484290628917,文鼎DC云康行楷体_B,AR DCYKXingKaiGB BD,Simplified Chinese,否,GB2312
 1434612532924,文鼎雕刻体_B,AR DiaoKeGB BD,Simplified Chinese,是,GB2312
 1434612607360,文鼎粗仿宋,AR FangSongGB BD,Simplified Chinese,是,GB2312
@@ -160,6 +159,7 @@ font_id,name,name_en,language,trial,codepage
 1434613815896,文鼎特勘亭流体,AR KanTingLiuGB HV,Simplified Chinese,是,GB2312
 1434613846679,文鼎特粗勘亭流体,AR KanTingLiuGB UL,Simplified Chinese,是,GB2312
 1431675023146,文鼎老上海宋_L,AR LaoShangHaiSongGB LT,Simplified Chinese,是,GB2312
+1488940921979,文鼎粗隶,AR LiShuGB BD,Simplified Chinese,是,GB2312
 1431675591484,文鼎中隶,AR LiShuGB MD,Simplified Chinese,是,GB2312
 1434613901181,文鼎粗毛楷体,AR MaoKaiGB BD,Simplified Chinese,是,GB2312
 1434613946780,文鼎大毛楷体,AR MaoKaiGB EB,Simplified Chinese,是,GB2312
@@ -195,6 +195,7 @@ font_id,name,name_en,language,trial,codepage
 1434615021801,文鼎弹簧体_B,AR TanHuangGB BD,Simplified Chinese,是,GB2312
 1434615075425,文鼎粗甜妞体,AR TianNiuGB BD,Simplified Chinese,是,GB2312
 1434615110836,文鼎特甜妞体,AR TianNiuGB HV,Simplified Chinese,是,GB2312
+1488942764472,文鼎甜心体_U,AR TianXinGB UL,Simplified Chinese,是,GB2312
 1442388814461,文鼎UD晶熙黑体AktivG30_D,AR UDJingXiHeiAktivG30 DB,Simplified Chinese,是,GB18030
 1442389498260,文鼎UD晶熙黑体AktivG30_E,AR UDJingXiHeiAktivG30 EB,Simplified Chinese,是,GB18030
 1442389806536,文鼎UD晶熙黑体AktivG30_H,AR UDJingXiHeiAktivG30 HV,Simplified Chinese,是,GB18030
@@ -253,6 +254,7 @@ font_id,name,name_en,language,trial,codepage
 1397465137168,文鼎新黑体_U,AR XinHeiGB UL,Simplified Chinese,是,GB2312
 1431675847227,文鼎新艺体_U,AR XinYiGB UL,Simplified Chinese,是,GB2312
 1434615476910,文鼎习字体_U,AR XiZiGB UL,Simplified Chinese,是,GB2312
+1488942415160,文鼎喜羊羊_H,AR YangGB HV,Simplified Chinese,是,GB2312
 1434615525981,文鼎特颜楷,AR YanKaiGB HV,Simplified Chinese,是,GB2312
 1434615568936,文鼎淹水体_E,AR YanShuiGB EB,Simplified Chinese,是,GB2312
 1397463641173,文鼎粗圆,AR YuanGB BD,Simplified Chinese,是,GB2312
@@ -437,11 +439,6 @@ font_id,name,name_en,language,trial,codepage
 1442390125233,文鼎UD晶熙黑體AktivBHK_E,AR UDJingXiHeiAktivBHK EB,Traditional Chinese,是,Big-5 + HKSCS-2008
 1442390198066,文鼎UD晶熙黑體AktivBHK_H,AR UDJingXiHeiAktivBHK HV,Traditional Chinese,是,Big-5 + HKSCS-2008
 1442389882174,文鼎UD晶熙黑體AktivBHK_L,AR UDJingXiHeiAktivBHK LT,Traditional Chinese,是,Big-5 + HKSCS-2008
-1424914947268,文鼎UD晶熙黑體_B,AR UDJingXiHeiB5 BD,Traditional Chinese,否,Big-5
-1424914561919,文鼎UD晶熙黑體_D,AR UDJingXiHeiB5 DB,Traditional Chinese,否,Big-5
-1424915029097,文鼎UD晶熙黑體_E,AR UDJingXiHeiB5 EB,Traditional Chinese,否,Big-5
-1424915089656,文鼎UD晶熙黑體_H,AR UDJingXiHeiB5 HV,Traditional Chinese,否,Big-5
-1424914381922,文鼎UD晶熙黑體_M,AR UDJingXiHeiB5 MD,Traditional Chinese,否,Big-5
 1434617692168,文鼎UD晶熙黑體HK_B,AR UDJingXiHeiB5HK BD,Traditional Chinese,否,Big-5 + HKSCS-2008
 1434617623498,文鼎UD晶熙黑體HK_D,AR UDJingXiHeiB5HK DB,Traditional Chinese,否,Big-5 + HKSCS-2008
 1434617734885,文鼎UD晶熙黑體HK_E,AR UDJingXiHeiB5HK EB,Traditional Chinese,否,Big-5 + HKSCS-2008
@@ -592,6 +589,7 @@ font_id,name,name_en,language,trial,codepage
 1373956399986,AR DIN Sans Flat Bold,AR DIN Sans Flat Bold,Western European,是,ISO 8859-1
 1373968435286,AR ELLIS,AR ELLIS,Western European,是,ISO 8859-1
 1373968873409,AR ESSENCE,AR ESSENCE,Western European,是,ISO 8859-1
+1373874445499,AR Fruda Sans,AR Fruda Sans,Western European,否,ISO 8859-1
 1431674366980,AR Fruda Sans-Flat,AR Fruda Sans-Flat,Western European,是,ISO 8859-1
 1431674178037,AR Gothic1 Euro Medium,AR Gothic1 Euro Medium,Western European,是,ISO 8859-1
 1373872566600,AR Hebe Sans,AR Hebe Sans,Western European,是,ISO 8859-1
