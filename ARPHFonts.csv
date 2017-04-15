@@ -1,16 +1,120 @@
 Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Styles,Width,Weight,Blocks,Characters,Glyphs
+Aktiv Grotesk (Bold Italic),Aktiv Grotesk,Bold Italic,Aktiv Grotesk,Bold Italic,Version 2.003,DAMA,Italic/Bold,5 (Medium),700 (Bold),33,1640,1820
+Aktiv Grotesk (Bold),Aktiv Grotesk,Bold,Aktiv Grotesk,Bold,Version 2.003,DAMA,Bold,5 (Medium),700 (Bold),38,2135,3003
+Aktiv Grotesk (Italic),Aktiv Grotesk,Italic,Aktiv Grotesk,Italic,Version 2.003,DAMA,Italic,5 (Medium),400 (Normal),33,1640,1820
+Aktiv Grotesk (Regular),Aktiv Grotesk,Regular,Aktiv Grotesk,Regular,Version 2.003,DAMA,Regular,5 (Medium),400 (Normal),38,2135,3003
+Aktiv Grotesk Black (Italic),Aktiv Grotesk Black,Italic,Aktiv Grotesk,Black Italic,Version 1.101,DAMA,Italic,5 (Medium),900 (Black),18,494,544
+Aktiv Grotesk Black (Regular),Aktiv Grotesk Black,Regular,Aktiv Grotesk,Black,Version 1.101,DAMA,Regular,5 (Medium),900 (Black),18,494,544
+Aktiv Grotesk Cd (Bold Italic),Aktiv Grotesk Cd,Bold Italic,Aktiv Grotesk Cd,Bold Italic,Version 1.001,DAMA,Italic/Bold,3 (Condensed),700 (Bold),18,494,544
+Aktiv Grotesk Cd (Bold),Aktiv Grotesk Cd,Bold,Aktiv Grotesk Cd,Bold,Version 1.001,DAMA,Bold,3 (Condensed),700 (Bold),18,494,544
+Aktiv Grotesk Cd (Italic),Aktiv Grotesk Cd,Italic,Aktiv Grotesk Cd,Italic,Version 1.001,DAMA,Italic,3 (Condensed),400 (Normal),18,494,544
+Aktiv Grotesk Cd (Regular),Aktiv Grotesk Cd,Regular,Aktiv Grotesk Cd,Regular,Version 1.001,DAMA,Regular,3 (Condensed),400 (Normal),18,494,544
+Aktiv Grotesk Cd Black (Italic),Aktiv Grotesk Cd Black,Italic,Aktiv Grotesk Cd,Black Italic,Version 1.001,DAMA,Italic,3 (Condensed),900 (Black),18,494,544
+Aktiv Grotesk Cd Black (Regular),Aktiv Grotesk Cd Black,Regular,Aktiv Grotesk Cd,Black,Version 1.001,DAMA,Regular,3 (Condensed),900 (Black),18,494,544
+Aktiv Grotesk Cd Hair (Italic),Aktiv Grotesk Cd Hair,Italic,Aktiv Grotesk Cd,Hair Italic,Version 1.001,DAMA,Italic,3 (Condensed),250,18,494,544
+Aktiv Grotesk Cd Hair (Regular),Aktiv Grotesk Cd Hair,Regular,Aktiv Grotesk Cd,Hair,Version 1.001,DAMA,Regular,3 (Condensed),250,18,494,544
+Aktiv Grotesk Cd Light (Italic),Aktiv Grotesk Cd Light,Italic,Aktiv Grotesk Cd,Light Italic,Version 1.001,DAMA,Italic,3 (Condensed),300 (Light),18,494,544
+Aktiv Grotesk Cd Light (Regular),Aktiv Grotesk Cd Light,Regular,Aktiv Grotesk Cd,Light,Version 1.001,DAMA,Regular,3 (Condensed),300 (Light),18,494,544
+Aktiv Grotesk Cd Medium (Italic),Aktiv Grotesk Cd Medium,Italic,Aktiv Grotesk Cd,Medium Italic,Version 1.001,DAMA,Italic,3 (Condensed),500 (Medium),18,494,544
+Aktiv Grotesk Cd Medium (Regular),Aktiv Grotesk Cd Medium,Regular,Aktiv Grotesk Cd,Medium,Version 1.001,DAMA,Regular,3 (Condensed),500 (Medium),18,494,544
+Aktiv Grotesk Cd Thin (Italic),Aktiv Grotesk Cd Thin,Italic,Aktiv Grotesk Cd,Thin Italic,Version 1.001,DAMA,Italic,3 (Condensed),275,18,494,544
+Aktiv Grotesk Cd Thin (Regular),Aktiv Grotesk Cd Thin,Regular,Aktiv Grotesk Cd,Thin,Version 1.001,DAMA,Regular,3 (Condensed),275,18,494,544
+Aktiv Grotesk Cd XBold (Italic),Aktiv Grotesk Cd XBold,Italic,Aktiv Grotesk Cd,XBold Italic,Version 1.001,DAMA,Italic,3 (Condensed),800 (Extra-bold),18,494,544
+Aktiv Grotesk Cd XBold (Regular),Aktiv Grotesk Cd XBold,Regular,Aktiv Grotesk Cd,XBold,Version 1.001,DAMA,Regular,3 (Condensed),800 (Extra-bold),18,494,544
+Aktiv Grotesk Ex (Bold Italic),Aktiv Grotesk Ex,Bold Italic,Aktiv Grotesk Ex,Bold Italic,Version 1.001,DAMA,Italic/Bold,7 (Expanded),700 (Bold),18,494,544
+Aktiv Grotesk Ex (Bold),Aktiv Grotesk Ex,Bold,Aktiv Grotesk Ex,Bold,Version 1.001,DAMA,Bold,7 (Expanded),700 (Bold),18,494,544
+Aktiv Grotesk Ex (Italic),Aktiv Grotesk Ex,Italic,Aktiv Grotesk Ex,Italic,Version 1.001,DAMA,Italic,7 (Expanded),400 (Normal),18,494,544
+Aktiv Grotesk Ex (Regular),Aktiv Grotesk Ex,Regular,Aktiv Grotesk Ex,Regular,Version 1.001,DAMA,Regular,7 (Expanded),400 (Normal),18,494,544
+Aktiv Grotesk Ex Black (Italic),Aktiv Grotesk Ex Black,Italic,Aktiv Grotesk Ex,Black Italic,Version 1.001,DAMA,Italic,7 (Expanded),900 (Black),18,494,544
+Aktiv Grotesk Ex Black (Regular),Aktiv Grotesk Ex Black,Regular,Aktiv Grotesk Ex,Black,Version 1.001,DAMA,Regular,7 (Expanded),900 (Black),18,494,544
+Aktiv Grotesk Ex Hair (Italic),Aktiv Grotesk Ex Hair,Italic,Aktiv Grotesk Ex,Hair Italic,Version 1.001,DAMA,Italic,7 (Expanded),250,18,494,544
+Aktiv Grotesk Ex Hair (Regular),Aktiv Grotesk Ex Hair,Regular,Aktiv Grotesk Ex,Hair,Version 1.001,DAMA,Regular,7 (Expanded),250,18,494,544
+Aktiv Grotesk Ex Light (Italic),Aktiv Grotesk Ex Light,Italic,Aktiv Grotesk Ex,Light Italic,Version 1.001,DAMA,Italic,7 (Expanded),300 (Light),18,494,544
+Aktiv Grotesk Ex Light (Regular),Aktiv Grotesk Ex Light,Regular,Aktiv Grotesk Ex,Light,Version 1.001,DAMA,Regular,7 (Expanded),300 (Light),18,494,544
+Aktiv Grotesk Ex Medium (Italic),Aktiv Grotesk Ex Medium,Italic,Aktiv Grotesk Ex,Medium Italic,Version 1.001,DAMA,Italic,7 (Expanded),500 (Medium),18,494,544
+Aktiv Grotesk Ex Medium (Regular),Aktiv Grotesk Ex Medium,Regular,Aktiv Grotesk Ex,Medium,Version 1.001,DAMA,Regular,7 (Expanded),500 (Medium),18,494,544
+Aktiv Grotesk Ex Thin (Italic),Aktiv Grotesk Ex Thin,Italic,Aktiv Grotesk Ex,Thin Italic,Version 1.001,DAMA,Italic,7 (Expanded),275,18,494,544
+Aktiv Grotesk Ex Thin (Regular),Aktiv Grotesk Ex Thin,Regular,Aktiv Grotesk Ex,Thin,Version 1.001,DAMA,Regular,7 (Expanded),275,18,494,544
+Aktiv Grotesk Ex XBold (Italic),Aktiv Grotesk Ex XBold,Italic,Aktiv Grotesk Ex,XBold Italic,Version 1.001,DAMA,Italic,7 (Expanded),800 (Extra-bold),18,494,544
+Aktiv Grotesk Ex XBold (Regular),Aktiv Grotesk Ex XBold,Regular,Aktiv Grotesk Ex,XBold,Version 1.001,DAMA,Regular,7 (Expanded),800 (Extra-bold),18,494,544
+Aktiv Grotesk Hair (Italic),Aktiv Grotesk Hair,Italic,Aktiv Grotesk,Hair Italic,Version 1.101,DAMA,Italic,5 (Medium),250,18,494,544
+Aktiv Grotesk Hair (Regular),Aktiv Grotesk Hair,Regular,Aktiv Grotesk,Hair,Version 1.101,DAMA,Regular,5 (Medium),250,18,494,544
+Aktiv Grotesk Light (Italic),Aktiv Grotesk Light,Italic,Aktiv Grotesk,Light Italic,Version 2.003,DAMA,Italic,5 (Medium),300 (Light),33,1640,1820
+Aktiv Grotesk Light (Regular),Aktiv Grotesk Light,Regular,Aktiv Grotesk,Light,Version 2.003,DAMA,Regular,5 (Medium),300 (Light),38,2135,3003
+Aktiv Grotesk Medium (Italic),Aktiv Grotesk Medium,Italic,Aktiv Grotesk,Medium Italic,Version 2.003,DAMA,Italic,5 (Medium),500 (Medium),33,1640,1820
+Aktiv Grotesk Medium (Regular),Aktiv Grotesk Medium,Regular,Aktiv Grotesk,Medium,Version 2.003,DAMA,Regular,5 (Medium),500 (Medium),38,2135,3003
+Aktiv Grotesk Thin (Italic),Aktiv Grotesk Thin,Italic,Aktiv Grotesk,Thin Italic,Version 1.101,DAMA,Italic,5 (Medium),275,18,494,544
+Aktiv Grotesk Thin (Regular),Aktiv Grotesk Thin,Regular,Aktiv Grotesk,Thin,Version 1.101,DAMA,Regular,5 (Medium),275,18,494,544
+Aktiv Grotesk XBold (Italic),Aktiv Grotesk XBold,Italic,Aktiv Grotesk,XBold Italic,Version 1.101,DAMA,Italic,5 (Medium),800 (Extra-bold),18,494,544
+Aktiv Grotesk XBold (Regular),Aktiv Grotesk XBold,Regular,Aktiv Grotesk,XBold,Version 1.101,DAMA,Regular,5 (Medium),800 (Extra-bold),18,494,544
+Aller (Bold Italic),Aller,Bold Italic,Aller,Bold Italic,Version 1.010,DAMA,Italic/Bold,5 (Medium),700 (Bold),16,465,482
+Aller (Bold),Aller,Bold,Aller,Bold,Version 1.010,DAMA,Bold,5 (Medium),700 (Bold),16,465,482
+Aller (Italic),Aller,Italic,Aller,Italic,Version 1.010,DAMA,Italic,5 (Medium),400 (Normal),16,465,482
+Aller (Regular),Aller,Regular,Aller,Regular,Version 1.010,DAMA,Regular,5 (Medium),400 (Normal),16,465,482
+Aller Display (Regular),Aller Display,Regular,Aller Display,Regular,Version 1.110,DAMA,Regular,5 (Medium),400 (Normal),17,472,654
+Aller Light (Italic),Aller Light,Italic,Aller,Light Italic,Version 1.010,DAMA,Italic,5 (Medium),300 (Light),16,465,482
+Aller Light (Regular),Aller Light,Regular,Aller,Light,Version 1.010,DAMA,Regular,5 (Medium),300 (Light),16,668,686
+Almaq Refined (Regular),Almaq Refined,Regular,Almaq,Refined,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,467,505
+Almaq Rough (Regular),Almaq Rough,Regular,Almaq,Rough,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,467,1005
+AR ACTION (Regular),AR ACTION,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,223,247
+AR ADEPT (Regular),AR ADEPT,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,209,232
+AR ADRIANA (Regular),AR ADRIANA,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,223,247
+AR AILEEN (Regular),AR AILEEN,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,223,226
+AR AKEEM (Regular),AR AKEEM,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,209,232
+AR ALBERT (Regular),AR ALBERT,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,223,247
+AR ALEXA (Regular),AR ALEXA,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,223,247
+AR ALEXANDRA (Regular),AR ALEXANDRA,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,223,245
+AR ALFONSO (Regular),AR ALFONSO,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,213,235
+AR ALICE (Regular),AR ALICE,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),1,95,236
+AR AMBER (Regular),AR AMBER,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),2,209,232
 AR AquariusAB5 UL (Regular),AR AquariusAB5 UL,Regular,AR AquariusAB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR BanKePOPB5 EB (Regular),AR BanKePOPB5 EB,Regular,AR BanKePOPB5,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),31,14266,14148
+AR BERKLEY (Regular),AR BERKLEY,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR BLANCA (Regular),AR BLANCA,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR BONNIE (Regular),AR BONNIE,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
 AR BopomofaDL Ul (Regular),AR BopomofaDL Ul,Regular,,,Version 1.10,ARPH,Regular,5 (Medium),100 (Thin),31,14263,14148
+AR Brush1 Bold Italic (Regular),AR Brush1 Bold Italic,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Brush1 Extrabold Italic (Regular),AR Brush1 Extrabold Italic,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),800 (Extra-bold),2,98,256
+AR Brush1 Heavy Italic (Heavy),AR Brush1 Heavy Italic,Heavy,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Brush2 Ultra (Regular),AR Brush2 Ultra,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Brush3 Bold (Regular),AR Brush3 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Brush3 Demibold (Regular),AR Brush3 Demibold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),600 (Semi-bold),2,98,256
+AR Brush3 Medium (Regular),AR Brush3 Medium,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),500 (Medium),2,98,256
+AR Brush4 Heavy (Regular),AR Brush4 Heavy,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Brush4 Ultra (Regular),AR Brush4 Ultra,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Brush5 Bold (Regular),AR Brush5 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Brush7 Bold (Regular),AR Brush7 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
 AR CaoMeiB5 HV (Regular),AR CaoMeiB5 HV,Regular,AR CaoMeiB5,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR CAROLANN (Regular),AR CAROLANN,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR CARTER (Regular),AR CARTER,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR CENA (Regular),AR CENA,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
 AR ChiLunB5 MD (Regular),AR ChiLunB5 MD,Regular,AR ChiLunB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
+AR CHRISTY (Regular),AR CHRISTY,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR DARLING (Regular),AR DARLING,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
 AR DCCSTMoritaB5 BD (Regular),AR DCCSTMoritaB5 BD,Regular,AR DCCSTMoritaB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),32,14428,28711
 AR DCYKXingKaiB5 BD (Regular),AR DCYKXingKaiB5 BD,Regular,AR DCYKXingKaiB5,Bold,Version 1.01,ARPH,Regular,5 (Medium),700 (Bold),32,14282,14759
 AR DCYKXingKaiPB5 BD (Regular),AR DCYKXingKaiPB5 BD,Regular,AR DCYKXingKaiPB5,Bold,Version 1.01,ARPH,Regular,5 (Medium),700 (Bold),32,14282,14759
 AR DCYKXingKaiPBTB5 BD (Regular),AR DCYKXingKaiPBTB5 BD,Regular,AR DCYKXingKaiPBTB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),32,14282,14759
+AR DECODE (Regular),AR DECODE,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR DELANEY (Regular),AR DELANEY,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR DESTINE (Regular),AR DESTINE,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,217,219
 AR DiaoKeB5 BD (Regular),AR DiaoKeB5 BD,Regular,AR DiaoKeB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR DieYuanB5 UL (Regular),AR DieYuanB5 UL,Regular,AR DieYuanB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR DIN Sans Demibold (Regular),AR DIN Sans Demibold,Regular,,,Version 1.20,ARPH,Regular,5 (Medium),600 (Semi-bold),10,503,504
+AR DIN Sans Flat (Regular),AR DIN Sans Flat,Regular,,,Version 1.20,ARPH,Regular,5 (Medium),400 (Normal),10,466,467
+AR DIN Sans Flat Bold (Regular),AR DIN Sans Flat Bold,Regular,,,Version 1.20,ARPH,Regular,5 (Medium),700 (Bold),10,466,467
+AR Dori Sans (Regular),AR Dori Sans,Regular,,,Version 1.00,ARPH,,5 (Medium),400 (Normal),24,691,692
+AR Dori Sans Black (Regular),AR Dori Sans Black,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,691,692
+AR Dori Sans Bold (Regular),AR Dori Sans Bold,Regular,,,Version 1.00,ARPH,,5 (Medium),700 (Bold),24,691,692
+AR Dori Sans Demibold (Regular),AR Dori Sans Demibold,Regular,,,Version 1.00,ARPH,,5 (Medium),600 (Semi-bold),24,691,692
+AR Dori Sans Extrabold (Regular),AR Dori Sans Extrabold,Regular,,,Version 1.00,ARPH,,5 (Medium),800 (Extra-bold),24,691,692
+AR Dori Sans Extraheavy (Regular),AR Dori Sans Extraheavy,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,691,692
+AR Dori Sans Heavy (Regular),AR Dori Sans Heavy,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,691,692
+AR Dori Sans Light (Regular),AR Dori Sans Light,Regular,,,Version 1.00,ARPH,,5 (Medium),300 (Light),24,691,692
+AR Dori Sans Ultra (Regular),AR Dori Sans Ultra,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,691,692
 AR DuDuHouB5 UL (Regular),AR DuDuHouB5 UL,Regular,AR DuDuHouB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR ELLIS (Regular),AR ELLIS,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
+AR ESSENCE (Regular),AR ESSENCE,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,217,220
 AR FangSongB5 BD (Regular),AR FangSongB5 BD,Regular,AR FangSongB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR FangSongB5 LT (Regular),AR FangSongB5 LT,Regular,AR FangSongB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR FangSongB5 MD (Regular),AR FangSongB5 MD,Regular,AR FangSongB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
@@ -23,9 +127,21 @@ AR FangXinShuH7C90DB5 HV (Regular),AR FangXinShuH7C90DB5 HV,Regular,AR FangXinSh
 AR FangXinShuH7C95B5 HV (Regular),AR FangXinShuH7C95B5 HV,Regular,AR FangXinShuH7C95B5,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),33,14369,14083
 AR FangXinShuH7C95DB5 HV (Regular),AR FangXinShuH7C95DB5 HV,Regular,AR FangXinShuH7C95DB5,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),33,14370,14096
 AR FangXinShuH7PB5 HV (Regular),AR FangXinShuH7PB5 HV,Regular,AR FangXinShuH7PB5,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),32,14367,14355
+AR Fruda Sans Flat (Regular),AR Fruda Sans Flat,Regular,,,Version 1.20,ARPH,Regular,5 (Medium),400 (Normal),10,501,504
+AR Fruda Sans Vi (Regular),AR Fruda Sans Vi,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),10,480,486
 AR GangBiXingKaiB5 BD (Regular),AR GangBiXingKaiB5 BD,Regular,AR GangBiXingKaiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR GangBiXingKaiB5 LT (Regular),AR GangBiXingKaiB5 LT,Regular,AR GangBiXingKaiB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR GangBiXingKaiB5 MD (Regular),AR GangBiXingKaiB5 MD,Regular,AR GangBiXingKaiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
+AR Gothic1 Bold (Regular),AR Gothic1 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Gothic1 Euro Medium (Regular),AR Gothic1 Euro Medium,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),8,269,433
+AR Gothic1 Extrabold (Regular),AR Gothic1 Extrabold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),800 (Extra-bold),2,98,256
+AR Gothic1 Heavy (Regular),AR Gothic1 Heavy,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Gothic1 Light (Regular),AR Gothic1 Light,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),300 (Light),2,98,256
+AR Gothic1 Medium (Regular),AR Gothic1 Medium,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),500 (Medium),2,98,256
+AR Gothic2 Ultra (Regular),AR Gothic2 Ultra,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Gothic2 Ultra Distended (Regular),AR Gothic2 Ultra Distended,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR GothicKR5 BD (Regular),AR GothicKR5 BD,Regular,AR GothicKR5,Bold,Version 2.80,ARPH,Regular,5 (Medium),700 (Bold),29,17146,17148
+AR GothicKR5 MD (Regular),AR GothicKR5 MD,Regular,AR GothicKR5,Medium,Version 1.20,ARPH,Regular,5 (Medium),500 (Medium),27,12258,12260
 AR GuangGaoB5 BD (Regular),AR GuangGaoB5 BD,Regular,AR GuangGaoB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR GuangGaoB5 EB (Regular),AR GuangGaoB5 EB,Regular,AR GuangGaoB5,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),31,14266,14148
 AR GuangGaoB5 MD (Regular),AR GuangGaoB5 MD,Regular,AR GuangGaoB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
@@ -33,6 +149,9 @@ AR GuGuJiB5 UL (Regular),AR GuGuJiB5 UL,Regular,AR GuGuJiB5,Black,Version 1.00,A
 AR GuYinB5 BD (Regular),AR GuYinB5 BD,Regular,AR GuYinB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR HaiBaoB5 BD (Regular),AR HaiBaoB5 BD,Regular,AR HaiBaoB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR HappyLongB5 UL (Regular),AR HappyLongB5 UL,Regular,AR HappyLongB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR Hebe Sans (Regular),AR Hebe Sans,Regular,,,Version 1.20,ARPH,Regular,5 (Medium),400 (Normal),12,762,763
+AR Hebe Sans Demibold (Regular),AR Hebe Sans Demibold,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),600 (Semi-bold),2,193,256
+AR Hebe Sans Vi (Regular),AR Hebe Sans Vi,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),10,480,543
 AR HeiB5 BD (Regular),AR HeiB5 BD,Regular,AR HeiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR HeiB5 EB (Regular),AR HeiB5 EB,Regular,AR HeiB5,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),31,14266,14148
 AR HeiB5 HV (Regular),AR HeiB5 HV,Regular,AR HeiB5,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
@@ -41,6 +160,7 @@ AR HeiB5 MD (Regular),AR HeiB5 MD,Regular,AR HeiB5,Medium,Version 1.00,ARPH,Regu
 AR HeiB5 UL (Regular),AR HeiB5 UL,Regular,AR HeiB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR HeiB5S BD (Regular),AR HeiB5S BD,Regular,AR HeiB5S,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14152
 AR HeiU30 MD (Regular),AR HeiU30 MD,Regular,AR HeiU30,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),42,30267,29921
+AR HERMANN (Regular),AR HERMANN,Regular,,,Version 2.00,ALTS,Regular,5 (Medium),5,8,217,218
 AR HitoTuB5 UL (Regular),AR HitoTuB5 UL,Regular,AR HitoTuB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR HuaBanB5 UL (Regular),AR HuaBanB5 UL,Regular,AR HuaBanB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR HuaCaoB5 EB (Regular),AR HuaCaoB5 EB,Regular,AR HuaCaoB5,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),31,14266,14148
@@ -48,10 +168,12 @@ AR HuoChaiB5 BD (Regular),AR HuoChaiB5 BD,Regular,AR HuoChaiB5,Bold,Version 1.00
 AR HuZiB5 EB (Regular),AR HuZiB5 EB,Regular,AR HuZiB5,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),31,14266,14148
 AR JianGouB5 BD (Regular),AR JianGouB5 BD,Regular,AR JianGouB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR JingJiB5 MD (Regular),AR JingJiB5 MD,Regular,AR JingJiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
+AR JULIAN (Regular),AR JULIAN,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,217,220
 AR KaiB5 BD (Regular),AR KaiB5 BD,Regular,AR KaiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR KaiB5 LT (Regular),AR KaiB5 LT,Regular,AR KaiB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR KaiB5 MD (Regular),AR KaiB5 MD,Regular,AR KaiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
 AR KaiB5S MD (Regular),AR KaiB5S MD,Regular,AR KaiB5S,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14152
+AR KaiEXT MD (Regular),AR KaiEXT MD,Regular,AR KaiEXT,Medium,Version 1.20,ARPH,Regular,5 (Medium),500 (Medium),5,2658,2660
 AR KanTingLiuB5 UL (Regular),AR KanTingLiuB5 UL,Regular,AR KanTingLiuB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR KongDieYuanB5 UL (Regular),AR KongDieYuanB5 UL,Regular,AR KongDieYuanB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR LiShuB5 BD (Regular),AR LiShuB5 BD,Regular,AR LiShuB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
@@ -71,13 +193,35 @@ AR MingB5 UL (Regular),AR MingB5 UL,Regular,AR MingB5,Black,Version 1.00,ARPH,Re
 AR MingB5S BD (Regular),AR MingB5S BD,Regular,AR MingB5S,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14152
 AR MingB5S HV (Regular),AR MingB5S HV,Regular,AR MingB5S,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14152
 AR MingB5S MD (Regular),AR MingB5S MD,Regular,AR MingB5S,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14152
+AR MingEXT MD (Regular),AR MingEXT MD,Regular,AR MingEXT,Medium,Version 1.20,ARPH,Regular,5 (Medium),500 (Medium),5,2658,2660
 AR MingU30 DB (Regular),AR MingU30 DB,Regular,AR MingU30,Demi-bold,Version 1.00,ARPH,Regular,5 (Medium),600 (Semi-bold),42,30267,29921
 AR MingU30 LT (Regular),AR MingU30 LT,Regular,AR MingU30,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),42,30267,29921
+AR MyungjoKR MD (Regular),AR MyungjoKR MD,Regular,AR MyungjoKR,Medium,Version 2.80,ARPH,Regular,5 (Medium),500 (Medium),29,8324,8326
+AR New Hebe Sans (Regular),AR New Hebe Sans,Regular,,,Version 1.00,ARPH,,5 (Medium),400 (Normal),24,692,693
+AR New Hebe Sans Black (Regular),AR New Hebe Sans Black,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,692,693
+AR New Hebe Sans Bold (Regular),AR New Hebe Sans Bold,Regular,,,Version 1.00,ARPH,,5 (Medium),700 (Bold),24,692,693
+AR New Hebe Sans Demibold (Regular),AR New Hebe Sans Demibold,Regular,,,Version 1.00,ARPH,,5 (Medium),600 (Semi-bold),24,692,693
+AR New Hebe Sans Extrabold (Regular),AR New Hebe Sans Extrabold,Regular,,,Version 1.00,ARPH,,5 (Medium),800 (Extra-bold),24,692,693
+AR New Hebe Sans Extraheavy (Regular),AR New Hebe Sans Extraheavy,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,692,693
+AR New Hebe Sans Heavy (Regular),AR New Hebe Sans Heavy,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,692,693
+AR New Hebe Sans Light (Regular),AR New Hebe Sans Light,Regular,,,Version 1.00,ARPH,,5 (Medium),300 (Light),24,692,693
+AR New Hebe Sans Ultra (Regular),AR New Hebe Sans Ultra,Regular,,,Version 1.00,ARPH,,5 (Medium),900 (Black),24,692,693
+AR NewHebeSansHe (Regular),AR NewHebeSansHe,Regular,AR NewHebeSansHe,Regular,Version 2.00,ARPH,Regular,5 (Medium),400 (Normal),10,322,324
+AR NewHebeSansHe BD (Regular),AR NewHebeSansHe BD,Regular,AR NewHebeSansHe,Bold,Version 2.00,ARPH,Regular,5 (Medium),700 (Bold),10,322,324
+AR NewHebeSansHe DB (Regular),AR NewHebeSansHe DB,Regular,AR NewHebeSansHe,Demi-bold,Version 2.00,ARPH,Regular,5 (Medium),600 (Semi-bold),10,322,324
+AR NewHebeSansHe EB (Regular),AR NewHebeSansHe EB,Regular,AR NewHebeSansHe,Extra-bold,Version 2.00,ARPH,Regular,5 (Medium),800 (Extra-bold),10,322,324
+AR NewHebeSansHe HV (Regular),AR NewHebeSansHe HV,Regular,AR NewHebeSansHe,Heavy,Version 2.00,ARPH,Regular,5 (Medium),900 (Black),10,322,324
+AR NewHebeSansTh (Regular),AR NewHebeSansTh,Regular,AR NewHebeSansTh,Regular,Version 2.00,ARPH,Regular,5 (Medium),400 (Normal),7,355,352
+AR NewHebeSansTh BD (Regular),AR NewHebeSansTh BD,Regular,AR NewHebeSansTh,Bold,Version 2.00,ARPH,Regular,5 (Medium),700 (Bold),7,355,352
+AR NewHebeSansTh DB (Regular),AR NewHebeSansTh DB,Regular,AR NewHebeSansTh,Demi-bold,Version 2.00,ARPH,Regular,5 (Medium),600 (Semi-bold),7,355,352
+AR NewHebeSansTh EB (Regular),AR NewHebeSansTh EB,Regular,AR NewHebeSansTh,Extra-bold,Version 2.00,ARPH,Regular,5 (Medium),800 (Extra-bold),7,355,352
+AR NewHebeSansTh HV (Regular),AR NewHebeSansTh HV,Regular,AR NewHebeSansTh,Heavy,Version 2.00,ARPH,Regular,5 (Medium),900 (Black),7,355,352
 AR NewHeiB5 BD (Regular),AR NewHeiB5 BD,Regular,AR NewHeiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR NewHeiB5 EB (Regular),AR NewHeiB5 EB,Regular,AR NewHeiB5,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),31,14266,14148
 AR NewHeiB5 HV (Regular),AR NewHeiB5 HV,Regular,AR NewHeiB5,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR NewHeiB5 LT (Regular),AR NewHeiB5 LT,Regular,AR NewHeiB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR NewHeiB5 MD (Regular),AR NewHeiB5 MD,Regular,AR NewHeiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
+AR NewHeiEXT MD (Regular),AR NewHeiEXT MD,Regular,AR NewHeiEXT,Medium,Version 1.20,ARPH,Regular,5 (Medium),500 (Medium),5,2659,2661
 AR NewMingB5 LT (Regular),AR NewMingB5 LT,Regular,AR NewMingB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR NiuNiuB5 BD (Regular),AR NiuNiuB5 BD,Regular,AR NiuNiuB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR PiaoChongB5 UL (Regular),AR PiaoChongB5 UL,Regular,AR PiaoChongB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
@@ -95,13 +239,52 @@ AR QianZiBiB5 EB (Regular),AR QianZiBiB5 EB,Regular,AR QianZiBiB5,Extra-bold,Ver
 AR QiaoHeiB5 EB (Regular),AR QiaoHeiB5 EB,Regular,AR QiaoHeiB5,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),31,14266,14148
 AR QiaoHeiB5 UL (Regular),AR QiaoHeiB5 UL,Regular,AR QiaoHeiB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR QinQinB5 UL (Regular),AR QinQinB5 UL,Regular,AR QinQinB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR RGothic1 Bold (Regular),AR RGothic1 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR RGothic1 Euro Black (Regular),AR RGothic1 Euro Black,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),8,269,433
+AR RGothic1 Extrabold (Regular),AR RGothic1 Extrabold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),800 (Extra-bold),2,98,256
+AR RGothic1 Heavy (Regular),AR RGothic1 Heavy,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR RGothic1 Light (Regular),AR RGothic1 Light,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),300 (Light),2,98,256
+AR RGothic1 Medium (Regular),AR RGothic1 Medium,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),500 (Medium),2,98,256
+AR RGothic1 Ultra (Regular),AR RGothic1 Ultra,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR RGothic2 Ultra Outline (Regular),AR RGothic2 Ultra Outline,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR RGothic2 Ultra Stencil (Regular),AR RGothic2 Ultra Stencil,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Roman Kai (Regular),AR Roman Kai,Regular,,,Version 1.10,ARPH,Regular,5 (Medium),400 (Normal),2,255,256
+AR Roman1 Bold (Regular),AR Roman1 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Roman1 Euro Heavy (Regular),AR Roman1 Euro Heavy,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),8,269,433
+AR Roman1 Extrabold (Regular),AR Roman1 Extrabold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),800 (Extra-bold),2,98,256
+AR Roman1 FS Bold (Regular),AR Roman1 FS Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Roman1 FS Light (Regular),AR Roman1 FS Light,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),300 (Light),2,98,256
+AR Roman1 FS Medium (Regular),AR Roman1 FS Medium,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),500 (Medium),2,98,256
+AR Roman1 Heavy (Heavy),AR Roman1 Heavy,Heavy,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Roman1 Kai Bold (Regular),AR Roman1 Kai Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Roman1 Kai Light (Regular),AR Roman1 Kai Light,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),300 (Light),2,98,256
+AR Roman1 Kai Medium (Regular),AR Roman1 Kai Medium,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),500 (Medium),2,98,256
+AR Roman1 Light (Regular),AR Roman1 Light,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),300 (Light),2,98,256
+AR Roman1 Medium (Regular),AR Roman1 Medium,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),500 (Medium),2,98,256
+AR Roman1 SHS Light (Regular),AR Roman1 SHS Light,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),300 (Light),2,98,256
+AR Roman2 Euro Black (Regular),AR Roman2 Euro Black,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),8,269,433
+AR Roman2 Ultra (Regular),AR Roman2 Ultra,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),900 (Black),2,98,256
+AR Script1 Bold (Regular),AR Script1 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Script1 Light (Regular),AR Script1 Light,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),300 (Light),2,98,256
+AR Script2 Medium (Regular),AR Script2 Medium,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),500 (Medium),2,98,256
+AR Script3 Bold (Regular),AR Script3 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Script5 Bold (Regular),AR Script5 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
+AR Script6 Bold (Regular),AR Script6 Bold,Regular,,,Version 2.10,ARPH,Regular,5 (Medium),700 (Bold),2,98,256
 AR ShangHaiSongB5 LT (Regular),AR ShangHaiSongB5 LT,Regular,AR ShangHaiSongB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR SheiDeZiB5 MD (Regular),AR SheiDeZiB5 MD,Regular,AR SheiDeZiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
 AR ShuiGuanB5 BD (Regular),AR ShuiGuanB5 BD,Regular,AR ShuiGuanB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
-AR ShuLinMingB5 BD (Regular),AR ShuLinMingB5 BD,Regular,AR ShuLinMingB5,Bold,Version 1.20 - This font set is licensed to "誠品股份有限公司" only,ARPH,Regular,5 (Medium),700 (Bold),32,14283,13986
+AR ShuLinMingB5 BD (Regular),AR ShuLinMingB5 BD,Regular,AR ShuLinMingB5,Bold,Version 1.20 - This font set is licensed to 誠品股份有限公司 only,ARPH,Regular,5 (Medium),700 (Bold),32,14283,13986
 AR ShuLinMingB5 EB (Regular),AR ShuLinMingB5 EB,Regular,AR ShuLinMingB5,Extra-bold,Version 2.82,ARPH,Regular,5 (Medium),800 (Extra-bold),32,14283,13986
 AR ShuLinMingB5 LT (Regular),AR ShuLinMingB5 LT,Regular,AR ShuLinMingB5,Light,Version 2.82,ARPH,Regular,5 (Medium),300 (Light),32,14283,13986
 AR ShuLinMingB5 MD (Regular),AR ShuLinMingB5 MD,Regular,AR ShuLinMingB5,Medium,Version 2.82,ARPH,Regular,5 (Medium),500 (Medium),32,14283,13986
+AR Silver Casual (Regular),AR Silver Casual,Regular,,,Version 1.10,ARPH,Regular,5 (Medium),400 (Normal),11,218,219
+AR Silver Handwriting (Italic),AR Silver Handwriting,Italic,,,Version 1.10,ARPH,Regular,5 (Medium),400 (Normal),10,218,219
+AR Silver Sans Monospace (Regular),AR Silver Sans Monospace,Regular,,,Version 1.10,ARPH,Regular,5 (Medium),400 (Normal),10,217,218
+AR Silver Sans Proportional (Regular),AR Silver Sans Proportional,Regular,,,Version 1.20,ARPH,Regular,5 (Medium),400 (Normal),8,220,221
+AR Silver Serif Monospace (Regular),AR Silver Serif Monospace,Regular,,,Version 1.10,ARPH,Regular,5 (Medium),400 (Normal),10,218,218
+AR Silver Serif Proportional (Regular),AR Silver Serif Proportional,Regular,,,Version 1.20,ARPH,Regular,5 (Medium),400 (Normal),14,516,518
+AR Silver Small Caps (Regular),AR Silver Small Caps,Regular,,,Version 1.10,ARPH,Regular,5 (Medium),400 (Normal),10,220,222
+AR Slab1 Euro Medium (Regular),AR Slab1 Euro Medium,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),8,269,433
 AR StdKaiB5 BD (Regular),AR StdKaiB5 BD,Regular,AR StdKaiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR StdKaiB5 LT (Regular),AR StdKaiB5 LT,Regular,AR StdKaiB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR StdKaiB5 MD (Regular),AR StdKaiB5 MD,Regular,AR StdKaiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
@@ -124,8 +307,15 @@ AR UDJingXiHeiAktivBHK DB (Regular),AR UDJingXiHeiAktivBHK DB,Regular,AR UDJingX
 AR UDJingXiHeiAktivBHK EB (Regular),AR UDJingXiHeiAktivBHK EB,Regular,AR UDJingXiHeiAktivBHK,Extra-bold,Version 1.000,ARPH,Regular,5 (Medium),800 (Extra-bold),45,21164,19231
 AR UDJingXiHeiAktivBHK HV (Regular),AR UDJingXiHeiAktivBHK HV,Regular,AR UDJingXiHeiAktivBHK,Heavy,Version 1.000,ARPH,Regular,5 (Medium),900 (Black),45,21164,19231
 AR UDJingXiHeiAktivBHK LT (Regular),AR UDJingXiHeiAktivBHK LT,Regular,AR UDJingXiHeiAktivBHK,Light,Version 1.000,ARPH,Regular,5 (Medium),300 (Light),45,21164,19231
+AR UDJingXiHeiAktivJP DB (Regular),AR UDJingXiHeiAktivJP DB,Regular,AR UDJingXiHeiAktivJP,Demi-bold,Version 1.000,ARPH,Regular,5 (Medium),600 (Semi-bold),37,8269,8379
+AR UDJingXiHeiAktivJP EB (Regular),AR UDJingXiHeiAktivJP EB,Regular,AR UDJingXiHeiAktivJP,Extra-bold,Version 1.000,ARPH,Regular,5 (Medium),800 (Extra-bold),37,8269,8379
+AR UDJingXiHeiAktivJP HV (Regular),AR UDJingXiHeiAktivJP HV,Regular,AR UDJingXiHeiAktivJP,Heavy,Version 1.000,ARPH,Regular,5 (Medium),900 (Black),37,8269,8379
+AR UDJingXiHeiAktivJP LT (Regular),AR UDJingXiHeiAktivJP LT,Regular,AR UDJingXiHeiAktivJP,Light,Version 1.000,ARPH,Regular,5 (Medium),300 (Light),37,8269,8379
 AR UDShuYuanHeiB5 BD (Regular),AR UDShuYuanHeiB5 BD,Regular,AR UDShuYuanHeiB5,Bold,Version 1.10,ARPH,Regular,5 (Medium),700 (Bold),32,14282,13989
 AR UDShuYuanHeiB5 MD (Regular),AR UDShuYuanHeiB5 MD,Regular,AR UDShuYuanHeiB5,Medium,Version 1.10,ARPH,Regular,5 (Medium),500 (Medium),32,14282,13989
+AR Verdure Sans (Regular),AR Verdure Sans,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),23,1532,1573
+AR Verdure Sans Demibold (Regular),AR Verdure Sans Demibold,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),600 (Semi-bold),10,220,222
+AR Verdure Sans Vi (Regular),AR Verdure Sans Vi,Regular,,,Version 1.00,ARPH,Regular,5 (Medium),400 (Normal),10,476,478
 AR WangWangGouB5 UL (Regular),AR WangWangGouB5 UL,Regular,AR WangWangGouB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR WeiBeiB5 BD (Regular),AR WeiBeiB5 BD,Regular,AR WeiBeiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR WeiBeiB5S BD (Regular),AR WeiBeiB5S BD,Regular,AR WeiBeiB5S,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14152
@@ -158,6 +348,184 @@ AR YuanQiZhuB5 UL (Regular),AR YuanQiZhuB5 UL,Regular,AR YuanQiZhuB5,Black,Versi
 AR YuShuShuB5 UL (Regular),AR YuShuShuB5 UL,Regular,AR YuShuShuB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR ZanMeiB5 UL (Regular),AR ZanMeiB5 UL,Regular,AR ZanMeiB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR ZhuZiB5 MD (Regular),AR ZhuZiB5 MD,Regular,AR ZhuZiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
+Blenny Black (Regular),Blenny Black,Regular,Blenny,Black,Version 1.000,DAMA,Regular,5 (Medium),900 (Black),17,523,661
+Bligh (Bold),Bligh,Bold,Bligh,Bold,Version 1.001,DAMA,Bold,5 (Medium),700 (Bold),18,433,508
+Bligh (Regular),Bligh,Regular,Bligh,Regular,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),18,433,508
+Bligh Light (Regular),Bligh Light,Regular,Bligh,Light,Version 1.001,DAMA,Regular,5 (Medium),300 (Light),18,433,508
+Bressay (Bold Italic),Bressay,Bold Italic,Bressay,Bold Italic,Version 1.000,DAMA,Italic/Bold,5 (Medium),700 (Bold),20,492,750
+Bressay (Bold),Bressay,Bold,Bressay,Bold,Version 1.000,DAMA,Bold,5 (Medium),700 (Bold),20,492,750
+Bressay (Italic),Bressay,Italic,Bressay,Italic,Version 1.000,DAMA,Italic,5 (Medium),400 (Normal),20,492,750
+Bressay (Regular),Bressay,Regular,Bressay,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),20,492,750
+Bressay Display (Italic),Bressay Display,Italic,Bressay Display,Italic,Version 1.000,DAMA,Italic,5 (Medium),400 (Normal),20,492,750
+Bressay Display (Regular),Bressay Display,Regular,Bressay Display,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),20,492,750
+Co Headline (Bold),Co Headline,Bold,,,Version 2.001,DAMA,Bold,5 (Medium),700 (Bold),21,1045,1172
+Co Headline (Regular),Co Headline,Regular,,,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),21,1045,1172
+Co Headline Light (Regular),Co Headline Light,Regular,Co Headline,Light,Version 2.001,DAMA,Regular,5 (Medium),300 (Light),21,1045,1172
+Co Text (Bold),Co Text,Bold,,,Version 2.001,DAMA,Bold,5 (Medium),700 (Bold),21,1045,1172
+Co Text (Regular),Co Text,Regular,,,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),21,1045,1172
+Co Text Light (Regular),Co Text Light,Regular,Co Text,Light,Version 2.001,DAMA,Regular,5 (Medium),300 (Light),21,1045,1172
+Cordale (Bold Italic),Cordale,Bold Italic,,,Version 2.002,DAMA,Italic/Bold,5 (Medium),700 (Bold),17,752,792
+Cordale (Bold),Cordale,Bold,,,Version 2.002,DAMA,Bold,5 (Medium),700 (Bold),21,1048,1170
+Cordale (Italic),Cordale,Italic,,,Version 2.002,DAMA,Italic,5 (Medium),400 (Normal),17,752,792
+Cordale (Regular),Cordale,Regular,,,Version 2.002,DAMA,Regular,5 (Medium),400 (Normal),21,1048,1170
+Dedica (Bold),Dedica,Bold,Dedica,Bold,Version 2.002,DAMA,Bold,5 (Medium),700 (Bold),16,465,482
+Dedica (Italic),Dedica,Italic,Dedica,Italic,Version 2.002,DAMA,Italic,5 (Medium),400 (Normal),16,465,482
+Dedica (Regular),Dedica,Regular,Dedica,Regular,Version 2.002,DAMA,Regular,5 (Medium),400 (Normal),16,465,482
+Effra (Bold Italic),Effra,Bold Italic,Effra,Bold Italic,Version 1.200,DAMA,Italic/Bold,5 (Medium),700 (Bold),19,743,826
+Effra (Bold),Effra,Bold,,Bold,Version 2.000,DAMA,Bold,5 (Medium),700 (Bold),22,1039,1225
+Effra (Italic),Effra,Italic,Effra,Italic,Version 1.200,DAMA,Italic,5 (Medium),400 (Normal),19,743,826
+Effra (Regular),Effra,Regular,,Regular,Version 2.000,DAMA,Regular,5 (Medium),400 (Normal),22,1039,1225
+Effra Heavy (Italic),Effra Heavy,Italic,Effra,Heavy Italic,Version 1.200,DAMA,Italic,5 (Medium),900 (Black),19,743,826
+Effra Heavy (Regular),Effra Heavy,Regular,Effra,Heavy,Version 2.000,DAMA,Regular,5 (Medium),900 (Black),22,1039,1225
+Effra Light (Italic),Effra Light,Italic,Effra,Light Italic,Version 1.200,DAMA,Italic,5 (Medium),300 (Light),19,743,826
+Effra Light (Regular),Effra Light,Regular,Effra,Light,Version 2.000,DAMA,Regular,5 (Medium),300 (Light),22,1039,1225
+Effra Medium (Italic),Effra Medium,Italic,Effra,Medium Italic,Version 1.200,DAMA,Italic,5 (Medium),500 (Medium),19,743,826
+Effra Medium (Regular),Effra Medium,Regular,Effra,Medium,Version 2.000,DAMA,Regular,5 (Medium),500 (Medium),22,1039,1225
+Elevon FourG (Regular),Elevon FourG,Regular,Elevon,FourG,Version 1.301,DAMA,Regular,5 (Medium),800 (Extra-bold),17,752,778
+Elevon OneG (Regular),Elevon OneG,Regular,Elevon,OneG,Version 1.301,DAMA,Regular,5 (Medium),300 (Light),17,752,778
+Elevon ThreeG (Bold),Elevon ThreeG,Bold,Elevon,ThreeG,Version 1.301,DAMA,Bold,5 (Medium),700 (Bold),17,752,778
+Elevon TwoG (Regular),Elevon TwoG,Regular,Elevon,TwoG,Version 1.301,DAMA,Regular,5 (Medium),400 (Normal),17,752,778
+Elevon ZeroG (Regular),Elevon ZeroG,Regular,Elevon,ZeroG,Version 1.301,DAMA,Regular,5 (Medium),200 (Extra-light),17,752,778
+Foco (Bold Italic),Foco,Bold Italic,Foco,Bold Italic,Version 1.101,DAMA,Italic/Bold,5 (Medium),700 (Bold),19,754,848
+Foco (Bold),Foco,Bold,Foco,Bold,Version 1.101,DAMA,Bold,5 (Medium),700 (Bold),19,754,841
+Foco (Italic),Foco,Italic,Foco,Italic,Version 1.101,DAMA,Italic,5 (Medium),400 (Normal),19,754,848
+Foco (Regular),Foco,Regular,Foco,Regular,Version 1.101,DAMA,Regular,5 (Medium),400 (Normal),19,754,841
+Foco Black (Italic),Foco Black,Italic,Foco,Black Italic,Version 1.101,DAMA,Italic,5 (Medium),900 (Black),19,754,848
+Foco Black (Regular),Foco Black,Regular,Foco,Black,Version 1.101,DAMA,Regular,5 (Medium),900 (Black),19,754,841
+Foco Light (Italic),Foco Light,Italic,Foco,Light Italic,Version 1.101,DAMA,Italic,5 (Medium),300 (Light),19,754,848
+Foco Light (Regular),Foco Light,Regular,Foco,Light,Version 1.101,DAMA,Regular,5 (Medium),300 (Light),19,754,841
+Grueber (Bold),Grueber,Bold,Grueber,Bold,Version 1.001,DAMA,Bold,5 (Medium),700 (Bold),16,468,482
+Grueber (Regular),Grueber,Regular,Grueber,Regular,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),16,468,482
+GungSeo Medium (Regular),GungSeo Medium,Regular,GungSeo,Medium,Version 1.30,ARPH,Regular,5 (Medium),500 (Medium),29,8324,8326
+InterFace (Bold Italic),InterFace,Bold Italic,InterFace,Bold Italic,Version 2.001,DAMA,Italic/Bold,5 (Medium),700 (Bold),17,822,828
+InterFace (Bold),InterFace,Bold,InterFace,Bold,Version 2.001,DAMA,Bold,5 (Medium),700 (Bold),17,822,829
+InterFace (Italic),InterFace,Italic,InterFace,Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),17,822,828
+InterFace (Regular),InterFace,Regular,InterFace,Regular,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),17,822,828
+InterFace Black (Italic),InterFace Black,Italic,InterFace,Black Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),17,822,828
+InterFace Black (Regular),InterFace Black,Regular,InterFace,Black,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),17,822,828
+InterFace Light (Italic),InterFace Light,Italic,InterFace,Light Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),17,822,828
+InterFace Light (Regular),InterFace Light,Regular,InterFace,Light,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),17,822,828
+InterFace Thin (Italic),InterFace Thin,Italic,InterFace,Thin Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),17,822,828
+InterFace Thin (Regular),InterFace Thin,Regular,InterFace,Thin,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),17,822,828
+InterFace XBold (Italic),InterFace XBold,Italic,InterFace,XBold Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),17,822,828
+InterFace XBold (Regular),InterFace XBold,Regular,InterFace,XBold,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),17,822,828
+Kings Caslon (Bold Italic),Kings Caslon,Bold Italic,Kings Caslon,Bold Italic,Version 2.001,DAMA,Italic/Bold,5 (Medium),700 (Bold),16,659,691
+Kings Caslon (Bold),Kings Caslon,Bold,Kings Caslon,Bold,Version 2.001,DAMA,Bold,5 (Medium),700 (Bold),16,659,691
+Kings Caslon (Italic),Kings Caslon,Italic,Kings Caslon,Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),16,659,691
+Kings Caslon (Regular),Kings Caslon,Regular,Kings Caslon,Regular,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),16,659,691
+Kings Caslon Display (Italic),Kings Caslon Display,Italic,Kings Caslon Display,Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),16,659,691
+Kings Caslon Display (Regular),Kings Caslon Display,Regular,Kings Caslon Display,Regular,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),16,659,691
+Lexia (Bold Italic),Lexia,Bold Italic,Lexia,Bold Italic,Version 2.200,DAMA,Italic/Bold,5 (Medium),600 (Semi-bold),16,458,468
+Lexia (Bold),Lexia,Bold,Lexia,Bold,Version 2.200,DAMA,Bold,5 (Medium),600 (Semi-bold),16,458,468
+Lexia (Italic),Lexia,Italic,Lexia,Italic,Version 2.200,DAMA,Italic,5 (Medium),400 (Normal),16,458,468
+Lexia (Regular),Lexia,Regular,Lexia,Regular,Version 2.200,DAMA,Regular,5 (Medium),400 (Normal),16,458,468
+Lexia Advertising (Italic),Lexia Advertising,Italic,Lexia,Advertising Italic,Version 2.200,DAMA,Italic,5 (Medium),900 (Black),16,641,744
+Lexia Advertising (Regular),Lexia Advertising,Regular,Lexia,Advertising,Version 2.200,DAMA,Regular,5 (Medium),900 (Black),16,641,744
+Lexia Black (Italic),Lexia Black,Italic,Lexia,Black Italic,Version 2.200,DAMA,Italic,5 (Medium),800 (Extra-bold),16,458,468
+Lexia Black (Regular),Lexia Black,Regular,Lexia,Black,Version 2.200,DAMA,Regular,5 (Medium),800 (Extra-bold),16,458,468
+Lexia Light (Italic),Lexia Light,Italic,Lexia,Light Italic,Version 2.200,DAMA,Italic,5 (Medium),300 (Light),16,458,468
+Lexia Light (Regular),Lexia Light,Regular,Lexia,Light,Version 2.200,DAMA,Regular,5 (Medium),300 (Light),16,458,468
+Lexia Thin (Italic),Lexia Thin,Italic,Lexia,Thin Italic,Version 2.200,DAMA,Italic,5 (Medium),250,16,458,468
+Lexia Thin (Regular),Lexia Thin,Regular,Lexia,Thin,Version 2.200,DAMA,Regular,5 (Medium),250,16,458,468
+Lexia XBold (Italic),Lexia XBold,Italic,Lexia,XBold Italic,Version 2.200,DAMA,Italic,5 (Medium),700 (Bold),16,458,468
+Lexia XBold (Regular),Lexia XBold,Regular,Lexia,XBold,Version 2.200,DAMA,Regular,5 (Medium),700 (Bold),16,458,468
+Magpie (Bold Italic),Magpie,Bold Italic,Magpie,Bold Italic,Version 1.102,DAMA,Italic/Bold,5 (Medium),700 (Bold),18,699,736
+Magpie (Bold),Magpie,Bold,Magpie,Bold,Version 1.102,DAMA,Bold,5 (Medium),700 (Bold),18,705,732
+Magpie (Italic),Magpie,Italic,Magpie,Italic,Version 1.102,DAMA,Italic,5 (Medium),400 (Normal),18,705,739
+Magpie (Regular),Magpie,Regular,Magpie,Regular,Version 1.102,DAMA,Regular,5 (Medium),400 (Normal),18,705,732
+Objektiv Mk1 (Bold Italic),Objektiv Mk1,Bold Italic,Objektiv Mk1,Bold Italic,Version 1.001,DAMA,Italic/Bold,5 (Medium),700 (Bold),18,434,537
+Objektiv Mk1 (Bold),Objektiv Mk1,Bold,Objektiv Mk1,Bold,Version 1.001,DAMA,Bold,5 (Medium),700 (Bold),18,434,537
+Objektiv Mk1 (Italic),Objektiv Mk1,Italic,Objektiv Mk1,Italic,Version 1.001,DAMA,Italic,5 (Medium),400 (Normal),18,434,537
+Objektiv Mk1 (Regular),Objektiv Mk1,Regular,Objektiv Mk1,Regular,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),18,434,537
+Objektiv Mk1 Black (Italic),Objektiv Mk1 Black,Italic,Objektiv Mk1,Black Italic,Version 1.001,DAMA,Italic,5 (Medium),900 (Black),18,434,537
+Objektiv Mk1 Black (Regular),Objektiv Mk1 Black,Regular,Objektiv Mk1,Black,Version 1.001,DAMA,Regular,5 (Medium),900 (Black),18,434,537
+Objektiv Mk1 Light (Italic),Objektiv Mk1 Light,Italic,Objektiv Mk1,Light Italic,Version 1.001,DAMA,Italic,5 (Medium),300 (Light),18,434,537
+Objektiv Mk1 Light (Regular),Objektiv Mk1 Light,Regular,Objektiv Mk1,Light,Version 1.001,DAMA,Regular,5 (Medium),300 (Light),18,434,537
+Objektiv Mk1 Medium (Italic),Objektiv Mk1 Medium,Italic,Objektiv Mk1,Medium Italic,Version 1.001,DAMA,Italic,5 (Medium),500 (Medium),18,434,537
+Objektiv Mk1 Medium (Regular),Objektiv Mk1 Medium,Regular,Objektiv Mk1,Medium,Version 1.001,DAMA,Regular,5 (Medium),500 (Medium),18,434,537
+Objektiv Mk1 Thin (Italic),Objektiv Mk1 Thin,Italic,Objektiv Mk1,Thin Italic,Version 1.001,DAMA,Italic,5 (Medium),250,18,434,537
+Objektiv Mk1 Thin (Regular),Objektiv Mk1 Thin,Regular,Objektiv Mk1,Thin,Version 1.001,DAMA,Regular,5 (Medium),250,18,434,537
+Objektiv Mk1 XBold (Italic),Objektiv Mk1 XBold,Italic,Objektiv Mk1,XBold Italic,Version 1.001,DAMA,Italic,5 (Medium),800 (Extra-bold),18,434,537
+Objektiv Mk1 XBold (Regular),Objektiv Mk1 XBold,Regular,Objektiv Mk1,XBold,Version 1.001,DAMA,Regular,5 (Medium),800 (Extra-bold),18,434,537
+Oscine (Bold Italic),Oscine,Bold Italic,Oscine,Bold Italic,Version 1.100,DAMA,Italic/Bold,5 (Medium),700 (Bold),18,469,542
+Oscine (Bold),Oscine,Bold,Oscine,Bold,Version 1.100,DAMA,Bold,5 (Medium),700 (Bold),18,469,542
+Oscine (Italic),Oscine,Italic,Oscine,Italic,Version 1.100,DAMA,Italic,5 (Medium),400 (Normal),18,469,542
+Oscine (Regular),Oscine,Regular,Oscine,Regular,Version 1.100,DAMA,Regular,5 (Medium),400 (Normal),18,469,542
+Oscine Light (Italic),Oscine Light,Italic,Oscine,Light Italic,Version 1.100,DAMA,Italic,5 (Medium),300 (Light),18,469,542
+Oscine Light (Regular),Oscine Light,Regular,Oscine,Light,Version 1.100,DAMA,Regular,5 (Medium),300 (Light),18,469,542
+Plume (Bold Italic),Plume,Bold Italic,Plume,Bold Italic,Version 1.011,DAMA,Italic/Bold,5 (Medium),700 (Bold),16,464,482
+Plume (Bold),Plume,Bold,Plume,Bold,Version 1.011,DAMA,Bold,5 (Medium),700 (Bold),16,464,482
+Plume (Italic),Plume,Italic,Plume,Italic,Version 1.011,DAMA,Italic,5 (Medium),400 (Normal),16,464,482
+Plume (Regular),Plume,Regular,Plume,Regular,Version 1.011,DAMA,Regular,5 (Medium),400 (Normal),16,464,482
+Plume Ad Black (Italic),Plume Ad Black,Italic,Plume Ad,Black Italic,Version 1.010,DAMA,Italic,5 (Medium),900 (Black),16,464,486
+Plume Ad Black (Regular),Plume Ad Black,Regular,Plume Ad,Black,Version 1.010,DAMA,Regular,5 (Medium),900 (Black),16,464,486
+Prometo (Bold Italic),Prometo,Bold Italic,,,Version 1.010,DAMA,Italic/Bold,5 (Medium),700 (Bold),16,470,508
+Prometo (Bold),Prometo,Bold,,,Version 1.010,DAMA,Bold,5 (Medium),700 (Bold),16,470,508
+Prometo (Italic),Prometo,Italic,,,Version 1.010,DAMA,Italic,5 (Medium),400 (Normal),16,470,508
+Prometo (Regular),Prometo,Regular,,,Version 1.010,DAMA,Regular,5 (Medium),400 (Normal),16,470,508
+Prometo Black (Italic),Prometo Black,Italic,Prometo,Black Italic,Version 1.010,DAMA,Italic,5 (Medium),900 (Black),16,470,508
+Prometo Black (Regular),Prometo Black,Regular,Prometo,Black,Version 1.010,DAMA,Regular,5 (Medium),900 (Black),16,470,508
+Prometo Light (Italic),Prometo Light,Italic,Prometo,Light Italic,Version 1.010,DAMA,Italic,5 (Medium),300 (Light),16,470,508
+Prometo Light (Regular),Prometo Light,Regular,Prometo,Light,Version 1.010,DAMA,Regular,5 (Medium),300 (Light),16,470,508
+Prometo Medium (Italic),Prometo Medium,Italic,Prometo,Medium Italic,Version 1.010,DAMA,Italic,5 (Medium),500 (Medium),16,470,508
+Prometo Medium (Regular),Prometo Medium,Regular,Prometo,Medium,Version 1.010,DAMA,Regular,5 (Medium),500 (Medium),16,470,508
+Prometo Thin (Italic),Prometo Thin,Italic,Prometo,Thin Italic,Version 1.010,DAMA,Italic,5 (Medium),250,16,470,508
+Prometo Thin (Regular),Prometo Thin,Regular,Prometo,Thin,Version 1.010,DAMA,Regular,5 (Medium),250,16,470,508
+Prometo XBold (Italic),Prometo XBold,Italic,Prometo,XBold Italic,Version 1.010,DAMA,Italic,5 (Medium),800 (Extra-bold),16,470,508
+Prometo XBold (Regular),Prometo XBold,Regular,Prometo,XBold,Version 1.010,DAMA,Regular,5 (Medium),800 (Extra-bold),16,470,508
+Royalty Anorexic (Regular),Royalty Anorexic,Regular,Royalty,Anorexic,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),16,467,484
+Royalty Average (Regular),Royalty Average,Regular,Royalty,Average,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),16,467,484
+Royalty Chubby (Regular),Royalty Chubby,Regular,Royalty,Chubby,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),16,467,484
+Royalty Obese (Regular),Royalty Obese,Regular,Royalty,Obese,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),16,467,484
+Sandoll GothicNeo1 03 Light (Regular),Sandoll GothicNeo1 03 Light,Regular,Sandoll GothicNeo1,03 Light,Version 1.000;PS 1;hotconv 1.0.70;makeotf.lib2.5.5900,SAND,Regular,5 (Medium),400 (Normal),3,2384,2352
+Sandoll GothicNeo1 05 Medium (Regular),Sandoll GothicNeo1 05 Medium,Regular,Sandoll GothicNeo1,05 Medium,Version 1.000;PS 1;hotconv 1.0.70;makeotf.lib2.5.5900,SAND,Regular,5 (Medium),400 (Normal),3,2384,2352
+Sandoll GothicNeo1 06 SemiBold (Regular),Sandoll GothicNeo1 06 SemiBold,Regular,Sandoll GothicNeo1,06 SemiBold,Version 1.000;PS 1;hotconv 1.0.70;makeotf.lib2.5.5900,SAND,Regular,5 (Medium),400 (Normal),2,2353,2354
+Sandoll GothicNeo1 07 Bold (Regular),Sandoll GothicNeo1 07 Bold,Regular,Sandoll GothicNeo1,07 Bold,Version 1.000;PS 1;hotconv 1.0.70;makeotf.lib2.5.5900,SAND,Regular,5 (Medium),400 (Normal),3,2384,2352
+Sandoll GothicNeo1 08 ExtraBold (Regular),Sandoll GothicNeo1 08 ExtraBold,Regular,Sandoll GothicNeo1,08 ExtraBold,Version 1.000;PS 1;hotconv 1.0.70;makeotf.lib2.5.5900,SAND,Regular,5 (Medium),400 (Normal),3,2384,2352
+Setimo (Bold Italic),Setimo,Bold Italic,Setimo,Bold Italic,Version 1.000,DAMA,Italic/Bold,5 (Medium),700 (Bold),18,434,514
+Setimo (Bold),Setimo,Bold,Setimo,Bold,Version 1.000,DAMA,Bold,5 (Medium),700 (Bold),18,434,514
+Setimo (Italic),Setimo,Italic,Setimo,Italic,Version 1.000,DAMA,Italic,5 (Medium),400 (Normal),18,434,514
+Setimo (Regular),Setimo,Regular,Setimo,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),18,434,514
+Setimo Light (Italic),Setimo Light,Italic,Setimo,Light Italic,Version 1.000,DAMA,Italic,5 (Medium),300 (Light),18,434,514
+Setimo Light (Regular),Setimo Light,Regular,Setimo,Light,Version 1.000,DAMA,Regular,5 (Medium),300 (Light),18,434,514
+Soleto (Bold Italic),Soleto,Bold Italic,,,Version 1.001,DAMA,Italic/Bold,5 (Medium),700 (Bold),16,470,508
+Soleto (Bold),Soleto,Bold,,,Version 1.001,DAMA,Bold,5 (Medium),700 (Bold),16,470,508
+Soleto (Italic),Soleto,Italic,,,Version 1.001,DAMA,Italic,5 (Medium),400 (Normal),16,470,508
+Soleto (Regular),Soleto,Regular,,,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),16,470,508
+Soleto Black (Italic),Soleto Black,Italic,Soleto,Black Italic,Version 1.001,DAMA,Italic,5 (Medium),900 (Black),16,470,508
+Soleto Black (Regular),Soleto Black,Regular,Soleto,Black,Version 1.001,DAMA,Regular,5 (Medium),900 (Black),16,470,508
+Soleto Light (Italic),Soleto Light,Italic,Soleto,Light Italic,Version 1.001,DAMA,Italic,5 (Medium),300 (Light),16,470,508
+Soleto Light (Regular),Soleto Light,Regular,Soleto,Light,Version 1.001,DAMA,Regular,5 (Medium),300 (Light),16,470,508
+Soleto Medium (Italic),Soleto Medium,Italic,Soleto,Medium Italic,Version 1.001,DAMA,Italic,5 (Medium),500 (Medium),16,470,508
+Soleto Medium (Regular),Soleto Medium,Regular,Soleto,Medium,Version 1.001,DAMA,Regular,5 (Medium),500 (Medium),16,470,508
+Soleto Thin (Italic),Soleto Thin,Italic,Soleto,Thin Italic,Version 1.001,DAMA,Italic,5 (Medium),250,16,470,508
+Soleto Thin (Regular),Soleto Thin,Regular,Soleto,Thin,Version 1.001,DAMA,Regular,5 (Medium),250,16,470,508
+Soleto XBold (Italic),Soleto XBold,Italic,Soleto,XBold Italic,Version 1.001,DAMA,Italic,5 (Medium),800 (Extra-bold),16,470,508
+Soleto XBold (Regular),Soleto XBold,Regular,Soleto,XBold,Version 1.001,DAMA,Regular,5 (Medium),800 (Extra-bold),16,470,508
+Stroudley (Bold Italic),Stroudley,Bold Italic,Stroudley,Bold Italic,Version 2.000,DAMA,Italic/Bold,5 (Medium),700 (Bold),17,449,482
+Stroudley (Bold),Stroudley,Bold,Stroudley,Bold,Version 2.000,DAMA,Bold,5 (Medium),700 (Bold),17,449,482
+Stroudley (Italic),Stroudley,Italic,Stroudley,Italic,Version 2.000,DAMA,Italic,5 (Medium),400 (Normal),17,449,482
+Stroudley (Regular),Stroudley,Regular,Stroudley,Regular,Version 2.000,DAMA,Regular,5 (Medium),400 (Normal),17,449,482
+Stroudley Light (Italic),Stroudley Light,Italic,Stroudley,Light Italic,Version 2.000,DAMA,Italic,5 (Medium),300 (Light),17,449,482
+Stroudley Light (Regular),Stroudley Light,Regular,Stroudley,Light,Version 2.000,DAMA,Regular,5 (Medium),300 (Light),17,449,482
+Tephra 0 (Regular),Tephra 0,Regular,Tephra 0,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,455,458
+Tephra 12 (Regular),Tephra 12,Regular,Tephra 12,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,455,460
+Tephra 50 (Regular),Tephra 50,Regular,Tephra 50,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,455,458
+Tephra 100 (Regular),Tephra 100,Regular,Tephra 100,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,455,458
+Tephra 138 (Regular),Tephra 138,Regular,Tephra 138,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,455,458
+Tephra 250 (Regular),Tephra 250,Regular,Tephra 250,Regular,Version 1.000,DAMA,Regular,5 (Medium),400 (Normal),16,455,458
+Tondo (Bold),Tondo,Bold,,,Version 1.013,DAMA,Bold,5 (Medium),700 (Bold),17,751,776
+Tondo (Regular),Tondo,Regular,,,Version 1.013,DAMA,Regular,5 (Medium),400 (Normal),17,751,776
+Tondo Light (Regular),Tondo Light,Regular,Tondo,Light,Version 1.013,DAMA,Regular,5 (Medium),400 (Normal),17,751,776
+Tondo Signage (Regular),Tondo Signage,Regular,Tondo,Signage,Version 1.013,DAMA,Regular,5 (Medium),400 (Normal),17,751,776
+Tornac (Regular),Tornac,Regular,Tornac,Regular,Version 1.010,DAMA,Regular,5 (Medium),400 (Normal),16,423,654
+Verveine (Regular),Verveine,Regular,Verveine,Regular,Version 1.003,DAMA,Regular,5 (Medium),400 (Normal),17,751,799
+Viato (Bold Italic),Viato,Bold Italic,Viato,Bold Italic,Version 2.001,DAMA,Italic/Bold,5 (Medium),700 (Bold),23,877,878
+Viato (Bold),Viato,Bold,Viato,Bold,Version 2.001,DAMA,Bold,5 (Medium),700 (Bold),23,877,878
+Viato (Italic),Viato,Italic,Viato,Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),23,877,878
+Viato (Regular),Viato,Regular,Viato,Regular,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),23,877,878
+Viato Light (Italic),Viato Light,Italic,Viato,Light Italic,Version 2.001,DAMA,Italic,5 (Medium),400 (Normal),23,877,878
+Viato Light (Regular),Viato Light,Regular,Viato,Light,Version 2.001,DAMA,Regular,5 (Medium),400 (Normal),23,877,878
 文鼎DC陈森田MORITA_B (Regular),文鼎DC陈森田MORITA_B,Regular,文鼎DC陈森田MORITA,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),29,10071,20032
 文鼎DC老外宋G30 (Regular),文鼎DC老外宋G30,Regular,,,Version 1.00,7906,Regular,5 (Medium),400 (Normal),47,30971,33675
 文鼎DC庆科静雅体_M (Regular),文鼎DC庆科静雅体_M,Regular,文鼎DC庆科静雅体,Medium,Version 2.100,ARPH,Regular,5 (Medium),400 (Normal),30,7603,7604
@@ -230,7 +598,7 @@ AR ZhuZiB5 MD (Regular),AR ZhuZiB5 MD,Regular,AR ZhuZiB5,Medium,Version 1.00,ARP
 文鼎石头体_E (Regular),文鼎石头体_E,Regular,文鼎石头体,Extra-bold,Version 1.00,ARPH,Regular,5 (Medium),800 (Extra-bold),28,7580,7766
 文鼎书林黑体_L (Regular),文鼎书林黑体_L,Regular,文鼎书林黑体,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),28,7580,7766
 文鼎书林黑体_M (Regular),文鼎书林黑体_M,Regular,文鼎书林黑体,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),28,7580,7766
-文鼎书林宋体_B (Regular),文鼎书林宋体_B,Regular,文鼎书林宋体,Bold,Version 1.20 - This font set is licensed to "誠品股份有限公司" only,ARPH,Regular,5 (Medium),700 (Bold),27,7552,7582
+文鼎书林宋体_B (Regular),文鼎书林宋体_B,Regular,文鼎书林宋体,Bold,Version 1.20 - This font set is licensed to 誠品股份有限公司 only,ARPH,Regular,5 (Medium),700 (Bold),27,7552,7582
 文鼎书林宋体_E (Regular),文鼎书林宋体_E,Regular,文鼎书林宋体,Extra-bold,Version 2.70,ARPH,Regular,5 (Medium),800 (Extra-bold),27,7578,7766
 文鼎书林宋体_H (Regular),文鼎书林宋体_H,Regular,文鼎书林宋体,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),28,7580,7766
 文鼎书林宋体_L (Regular),文鼎书林宋体_L,Regular,文鼎书林宋体,Light,Version 2.70,ARPH,Regular,5 (Medium),300 (Light),27,7578,7766

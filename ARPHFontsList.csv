@@ -1,5 +1,4 @@
 font_id,name,name_en,Font Format
-1490247817064,Yu-Chang Lin,Yu-Chang Lin,
 1473748272345,AR NewHebeSansHe,AR NewHebeSansHe,Hebrew codepage 1255
 1473749021092,AR NewHebeSansHe BD,AR NewHebeSansHe BD,Hebrew codepage 1255
 1473748868489,AR NewHebeSansHe DB,AR NewHebeSansHe DB,Hebrew codepage 1255
@@ -282,6 +281,7 @@ font_id,name,name_en,Font Format
 1361504002742,文鼎草莓體_H,AR CaoMeiB5 HV,Traditional Chinese Big-5
 1434425659599,文鼎齒輪體_M,AR ChiLunB5 MD,Traditional Chinese Big-5
 1473834750928,文鼎DC陳森田MORITA_B,AR DCCSTMoritaB5 BD,Traditional Chinese Big-5
+1491985378067,文鼎DC香蕉人體_B,AR DCXiangJiaoRenB5 BD,Traditional Chinese Big-5
 1476341983294,文鼎DC云康行楷_B,AR DCYKXingKaiB5 BD,Traditional Chinese Big-5
 1434425928896,文鼎雕刻體_B,AR DiaoKeB5 BD,Traditional Chinese Big-5
 1361503137569,文鼎疊圓體_U,AR DieYuanB5 UL,Traditional Chinese Big-5
@@ -312,14 +312,12 @@ font_id,name,name_en,Font Format
 1424857939792,文鼎黑體_L,AR HeiB5 LT,Traditional Chinese Big-5
 1361354339326,文鼎黑體_M,AR HeiB5 MD,Traditional Chinese Big-5
 1424858167291,文鼎黑體_U,AR HeiB5 UL,Traditional Chinese Big-5
-1487065507723,文鼎黑體 B5Pro_B,AR HeiB5Pro BD,Traditional Chinese Big-5
 1487066619249,文鼎黑體 B5Std_E,AR HeiB5Std EB,Traditional Chinese Big-5
-1487065035333,文鼎黑體 B5Std_H,AR HeiB5Std HV,Traditional Chinese Big-5
 1487066291140,文鼎黑體 B5Std_L,AR HeiB5Std LT,Traditional Chinese Big-5
 1487066455950,文鼎黑體 B5Std_M,AR HeiB5Std MD,Traditional Chinese Big-5
 1487066770618,文鼎黑體 B5Std_U,AR HeiB5Std UL,Traditional Chinese Big-5
-1490261518556,文鼎黑體E1B5Pro_B,AR HeiE1B5Pro BD,Traditional Chinese Big-5
-1490261360109,文鼎黑體E1B5Std_H,AR HeiE1B5Std HV,Traditional Chinese Big-5
+1490261518556,文鼎黑體 E1B5Pro_B,AR HeiE1B5Pro BD,Traditional Chinese Big-5
+1490261360109,文鼎黑體 E1B5Std_H,AR HeiE1B5Std HV,Traditional Chinese Big-5
 1465803312101,文鼎粗黑上漢語拼音C1,AR HeiSHYC1 Bd,Traditional Chinese Big-5
 1465803465595,文鼎粗黑上漢語拼音L1,AR HeiSHYL1 Bd,Traditional Chinese Big-5
 1465804574979,文鼎粗黑上漢語寬拼音C1,AR HeiWSHYC1B5 Bd,Traditional Chinese Big-5
@@ -352,29 +350,27 @@ font_id,name,name_en,Font Format
 1361425806533,文鼎毛楷_E,AR MaoKaiB5 EB,Traditional Chinese Big-5
 1424859330457,文鼎毛楷_H,AR MaoKaiB5 HV,Traditional Chinese Big-5
 1421656923650,文鼎明體_B,AR MingB5 BD,Traditional Chinese Big-5
+1483008013403,文鼎明體_B,AR MingB5 BD,Traditional Chinese Big-5
 1424931066968,文鼎明體_E,AR MingB5 EB,Traditional Chinese Big-5
 1361353753007,文鼎明體_H,AR MingB5 HV,Traditional Chinese Big-5
 1424854504739,文鼎明體_L,AR MingB5 LT,Traditional Chinese Big-5
 1361350423484,文鼎明體_M,AR MingB5 MD,Traditional Chinese Big-5
 1424854819243,文鼎明體_U,AR MingB5 UL,Traditional Chinese Big-5
-1487062896006,文鼎明體 B5Std_B,AR MingB5Std BD,Traditional Chinese Big-5
-1490242197382,文鼎明體B5Std_E,AR MingB5Std EB,Traditional Chinese Big-5
-1487064373581,文鼎明體 B5Std_H,AR MingB5Std HV,Traditional Chinese Big-5
-1490241517267,文鼎明體B5Std_L,AR MingB5Std LT,Traditional Chinese Big-5
+1490242197382,文鼎明體 B5Std_E,AR MingB5Std EB,Traditional Chinese Big-5
+1490241517267,文鼎明體 B5Std_L,AR MingB5Std LT,Traditional Chinese Big-5
 1487065743339,文鼎明體 B5Std_M,AR MingB5Std MD,Traditional Chinese Big-5
-1490247539972,文鼎明體B5Std_U,AR MingB5Std UL,Traditional Chinese Big-5
-1490260086670,文鼎明體E1B5Std_B,AR MingE1B5Std BD,Traditional Chinese Big-5
-1490260383033,文鼎明體E1B5Std_H,AR MingE1B5Std HV,Traditional Chinese Big-5
+1490247539972,文鼎明體 B5Std_U,AR MingB5Std UL,Traditional Chinese Big-5
+1490260086670,文鼎明體 E1B5Std_B,AR MingE1B5Std BD,Traditional Chinese Big-5
+1490260383033,文鼎明體 E1B5Std_H,AR MingE1B5Std HV,Traditional Chinese Big-5
 1361410602265,文鼎新黑體_B,AR NewHeiB5 BD,Traditional Chinese Big-5
 1421656990854,文鼎新黑體_E,AR NewHeiB5 EB,Traditional Chinese Big-5
 1424931975681,文鼎新黑體_H,AR NewHeiB5 HV,Traditional Chinese Big-5
 1424858295586,文鼎新黑體_L,AR NewHeiB5 LT,Traditional Chinese Big-5
-1361355108526,文鼎新黑體_M,AR NewHeiB5 MD,Traditional Chinese Big-5
-1490257962988,文鼎新黑體B5Std_B,AR NewHeiB5Std BD,Traditional Chinese Big-5
-1490258193710,文鼎新黑體B5Std_E,AR NewHeiB5Std EB,Traditional Chinese Big-5
-1490258546788,文鼎新黑體B5Std_H,AR NewHeiB5Std HV,Traditional Chinese Big-5
-1490257372537,文鼎新黑體B5Std_L,AR NewHeiB5Std LT,Traditional Chinese Big-5
-1490257702560,文鼎新黑體B5Std_M,AR NewHeiB5Std MD,Traditional Chinese Big-5
+1490257962988,文鼎新黑體 B5Std_B,AR NewHeiB5Std BD,Traditional Chinese Big-5
+1490258193710,文鼎新黑體 B5Std_E,AR NewHeiB5Std EB,Traditional Chinese Big-5
+1490258546788,文鼎新黑體 B5Std_H,AR NewHeiB5Std HV,Traditional Chinese Big-5
+1490257372537,文鼎新黑體 B5Std_L,AR NewHeiB5Std LT,Traditional Chinese Big-5
+1490257702560,文鼎新黑體 B5Std_M,AR NewHeiB5Std MD,Traditional Chinese Big-5
 1424857827088,文鼎新明體_L,AR NewMingB5 LT,Traditional Chinese Big-5
 1434436818010,文鼎妞妞體_B,AR NiuNiuB5 BD,Traditional Chinese Big-5
 1424860628260,文鼎瓢蟲體_U,AR PiaoChongB5 UL,Traditional Chinese Big-5
@@ -399,8 +395,7 @@ font_id,name,name_en,Font Format
 1482217121986,文鼎書林明體_E,AR ShuLinMingB5 EB,Traditional Chinese Big-5
 1482215699736,文鼎書林明體_L,AR ShuLinMingB5 LT,Traditional Chinese Big-5
 1482216123549,文鼎書林明體_M,AR ShuLinMingB5 MD,Traditional Chinese Big-5
-1487064806648,文鼎書苑黑體 B5Std_M,AR ShuYuanHeiB5Std MD,Traditional Chinese Big-5
-1490261118945,文鼎書苑黑體E1B5Std_M,AR ShuYuanHeiE1B5Std MD,Traditional Chinese Big-5
+1490261118945,文鼎書苑黑體 E1B5Std_M,AR ShuYuanHeiE1B5Std MD,Traditional Chinese Big-5
 1361414761102,文鼎標準楷體_B,AR StdKaiB5 BD,Traditional Chinese Big-5
 1424858416252,文鼎標準楷體_L,AR StdKaiB5 LT,Traditional Chinese Big-5
 1361414336983,文鼎標準楷體_M,AR StdKaiB5 MD,Traditional Chinese Big-5
@@ -438,11 +433,11 @@ font_id,name,name_en,Font Format
 1424860292635,文鼎甜妞體_U,AR TianNiuB5 UL,Traditional Chinese Big-5
 1424860745132,文鼎甜心體_U,AR TianXinB5 UL,Traditional Chinese Big-5
 1467272624910,文鼎草莓注音,AR TsauMeiZuinn Hv,Traditional Chinese Big-5
-1490259388382,文鼎UD晶熙黑體E1B5Pro_B,AR UDJingXiHeiE1B5Pro BD,Traditional Chinese Big-5
-1490259179160,文鼎UD晶熙黑體E1B5Pro_D,AR UDJingXiHeiE1B5Pro DB,Traditional Chinese Big-5
-1490259645108,文鼎UD晶熙黑體E1B5Pro_E,AR UDJingXiHeiE1B5Pro EB,Traditional Chinese Big-5
-1490259829520,文鼎UD晶熙黑體E1B5Pro_H,AR UDJingXiHeiE1B5Pro HV,Traditional Chinese Big-5
-1490258887413,文鼎UD晶熙黑體E1B5Pro_M,AR UDJingXiHeiE1B5Pro MD,Traditional Chinese Big-5
+1490259388382,文鼎UD晶熙黑體 E1B5Pro_B,AR UDJingXiHeiE1B5Pro BD,Traditional Chinese Big-5
+1490259179160,文鼎UD晶熙黑體 E1B5Pro_D,AR UDJingXiHeiE1B5Pro DB,Traditional Chinese Big-5
+1490259645108,文鼎UD晶熙黑體 E1B5Pro_E,AR UDJingXiHeiE1B5Pro EB,Traditional Chinese Big-5
+1490259829520,文鼎UD晶熙黑體 E1B5Pro_H,AR UDJingXiHeiE1B5Pro HV,Traditional Chinese Big-5
+1490258887413,文鼎UD晶熙黑體 E1B5Pro_M,AR UDJingXiHeiE1B5Pro MD,Traditional Chinese Big-5
 1437991950152,文鼎UD書苑黑體_B,AR UDShuYuanHeiB5 BD,Traditional Chinese Big-5
 1437991429152,文鼎UD書苑黑體_M,AR UDShuYuanHeiB5 MD,Traditional Chinese Big-5
 1424861132048,文鼎汪汪狗體_U,AR WangWangGouB5 UL,Traditional Chinese Big-5
@@ -450,7 +445,6 @@ font_id,name,name_en,Font Format
 1465797478523,文鼎空框上漢語拼音L1,AR WBSHL1B5 Md,Traditional Chinese Big-5
 1465802625294,文鼎空框下漢語拼音C1,AR WBXHC1B5 Md,Traditional Chinese Big-5
 1465803185539,文鼎空框下漢語拼音L1,AR WBXHL1B5 Md,Traditional Chinese Big-5
-1361418551165,文鼎魏碑_B,AR WeiBeiB5 BD,Traditional Chinese Big-5
 1465804316963,文鼎漢語寬拼音C1,AR WHanYuC1B5 Md,Traditional Chinese Big-5
 1465804469767,文鼎漢語寬拼音L1,AR WHanYuL1B5 Md,Traditional Chinese Big-5
 1361411562089,文鼎WUD書苑黑體B,AR WUDShuyuanheiB5 B,Traditional Chinese Big-5
@@ -480,11 +474,11 @@ font_id,name,name_en,Font Format
 1361412275009,文鼎圓體_M,AR YuanB5 MD,Traditional Chinese Big-5
 1424931641189,文鼎圓體_U,AR YuanB5 UL,Traditional Chinese Big-5
 1487066124651,文鼎圓體 B5Std_B,AR YuanB5Std BD,Traditional Chinese Big-5
-1490255944668,文鼎圓體B5Std_E,AR YuanB5Std EB,Traditional Chinese Big-5
-1490256671405,文鼎圓體B5Std_H,AR YuanB5Std HV,Traditional Chinese Big-5
+1490255944668,文鼎圓體 B5Std_E,AR YuanB5Std EB,Traditional Chinese Big-5
+1490256671405,文鼎圓體 B5Std_H,AR YuanB5Std HV,Traditional Chinese Big-5
 1487065933277,文鼎圓體 B5Std_L,AR YuanB5Std LT,Traditional Chinese Big-5
-1490248421046,文鼎圓體B5Std_M,AR YuanB5Std MD,Traditional Chinese Big-5
-1490257024185,文鼎圓體B5Std_U,AR YuanB5Std UL,Traditional Chinese Big-5
+1490248421046,文鼎圓體 B5Std_M,AR YuanB5Std MD,Traditional Chinese Big-5
+1490257024185,文鼎圓體 B5Std_U,AR YuanB5Std UL,Traditional Chinese Big-5
 1434439153768,文鼎圓立體_B,AR YuanLiB5 BD,Traditional Chinese Big-5
 1424861773176,文鼎元氣豬_U,AR YuanQiZhuB5 UL,Traditional Chinese Big-5
 1424914137737,文鼎玉鼠鼠_U,AR YuShuShuB5 UL,Traditional Chinese Big-5
@@ -520,6 +514,9 @@ font_id,name,name_en,Font Format
 1434617996306,文鼎UD晶熙黑體E1HK_E,AR UDJingXiHeiE1B5HK EB,Traditional Chinese Big-5 + HKSCS-2008
 1434618041592,文鼎UD晶熙黑體E1HK_H,AR UDJingXiHeiE1B5HK HV,Traditional Chinese Big-5 + HKSCS-2008
 1434617823073,文鼎UD晶熙黑體E1HK_M,AR UDJingXiHeiE1B5HK MD,Traditional Chinese Big-5 + HKSCS-2008
+1491546184595,文鼎楷體外字_M,AR KaiEXT MD,Traditional Chinese Big-5(EXT)
+1491545676452,文鼎明體外字_M,AR MingEXT MD,Traditional Chinese Big-5(EXT)
+1491546725429,文鼎新黑體外字_M,AR NewHeiEXT MD,Traditional Chinese Big-5(EXT)
 1434439507034,文鼎仿宋简_L,AR FangSongB5S LT,Traditional Chinese Big-5簡
 1434440201112,文鼎黑体简_B,AR HeiB5S BD,Traditional Chinese Big-5簡
 1434440404956,文鼎楷体简_M,AR KaiB5S MD,Traditional Chinese Big-5簡
