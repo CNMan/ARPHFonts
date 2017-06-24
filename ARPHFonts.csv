@@ -92,6 +92,7 @@ AR ChiLunB5 MD (Regular),AR ChiLunB5 MD,Regular,AR ChiLunB5,Medium,Version 1.00,
 AR CHRISTY (Regular),AR CHRISTY,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
 AR DARLING (Regular),AR DARLING,Regular,,,Version 2.00,ARPH,Regular,5 (Medium),5,8,218,218
 AR DCCSTMoritaB5 BD (Regular),AR DCCSTMoritaB5 BD,Regular,AR DCCSTMoritaB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),32,14428,28711
+AR DCQingYuanB5 BD (Regular),AR DCQingYuanB5 BD,Regular,AR DCQingYuanB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),32,14282,13993
 AR DCYKXingKaiB5 BD (Regular),AR DCYKXingKaiB5 BD,Regular,AR DCYKXingKaiB5,Bold,Version 1.01,ARPH,Regular,5 (Medium),700 (Bold),32,14282,14759
 AR DCYKXingKaiPB5 BD (Regular),AR DCYKXingKaiPB5 BD,Regular,AR DCYKXingKaiPB5,Bold,Version 1.01,ARPH,Regular,5 (Medium),700 (Bold),32,14282,14759
 AR DCYKXingKaiPBTB5 BD (Regular),AR DCYKXingKaiPBTB5 BD,Regular,AR DCYKXingKaiPBTB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),32,14282,14759
@@ -158,6 +159,7 @@ AR HeiB5 HV (Regular),AR HeiB5 HV,Regular,AR HeiB5,Heavy,Version 1.00,ARPH,Regul
 AR HeiB5 LT (Regular),AR HeiB5 LT,Regular,AR HeiB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR HeiB5 MD (Regular),AR HeiB5 MD,Regular,AR HeiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
 AR HeiB5 UL (Regular),AR HeiB5 UL,Regular,AR HeiB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR HeiB5HK BD (Regular),AR HeiB5HK BD,Regular,AR HeiB5HK,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),42,20645,18638
 AR HeiB5S BD (Regular),AR HeiB5S BD,Regular,AR HeiB5S,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14152
 AR HeiU30 MD (Regular),AR HeiU30 MD,Regular,AR HeiU30,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),42,30267,29921
 AR HERMANN (Regular),AR HERMANN,Regular,,,Version 2.00,ALTS,Regular,5 (Medium),5,8,217,218
@@ -179,6 +181,7 @@ AR KongDieYuanB5 UL (Regular),AR KongDieYuanB5 UL,Regular,AR KongDieYuanB5,Black
 AR LiShuB5 BD (Regular),AR LiShuB5 BD,Regular,AR LiShuB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
 AR LiShuB5 DB (Regular),AR LiShuB5 DB,Regular,AR LiShuB5,Demi-bold,Version 1.00,ARPH,Regular,5 (Medium),600 (Semi-bold),31,14266,14148
 AR LiShuB5 MD (Regular),AR LiShuB5 MD,Regular,AR LiShuB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
+AR LiShuB5HK MD (Regular),AR LiShuB5HK MD,Regular,AR LiShuB5HK,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),42,20645,18638
 AR LiShuB5S MD (Regular),AR LiShuB5S MD,Regular,AR LiShuB5S,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14152
 AR LiShuU30 MD (Regular),AR LiShuU30 MD,Regular,AR LiShuU30,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),42,30267,29921
 AR MaoKaiB5 BD (Regular),AR MaoKaiB5 BD,Regular,AR MaoKaiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
@@ -190,6 +193,7 @@ AR MingB5 HV (Regular),AR MingB5 HV,Regular,AR MingB5,Heavy,Version 1.00,ARPH,Re
 AR MingB5 LT (Regular),AR MingB5 LT,Regular,AR MingB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR MingB5 MD (Regular),AR MingB5 MD,Regular,AR MingB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
 AR MingB5 UL (Regular),AR MingB5 UL,Regular,AR MingB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR MingB5HK LT (Regular),AR MingB5HK LT,Regular,AR MingB5HK,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),42,20645,18638
 AR MingB5S BD (Regular),AR MingB5S BD,Regular,AR MingB5S,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14152
 AR MingB5S HV (Regular),AR MingB5S HV,Regular,AR MingB5S,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14152
 AR MingB5S MD (Regular),AR MingB5S MD,Regular,AR MingB5S,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14152
@@ -341,6 +345,7 @@ AR YuanB5 HV (Regular),AR YuanB5 HV,Regular,AR YuanB5,Heavy,Version 1.00,ARPH,Re
 AR YuanB5 LT (Regular),AR YuanB5 LT,Regular,AR YuanB5,Light,Version 1.00,ARPH,Regular,5 (Medium),300 (Light),31,14266,14148
 AR YuanB5 MD (Regular),AR YuanB5 MD,Regular,AR YuanB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
 AR YuanB5 UL (Regular),AR YuanB5 UL,Regular,AR YuanB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
+AR YuanB5HK MD (Regular),AR YuanB5HK MD,Regular,AR YuanB5HK,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),42,20645,18638
 AR YuanB5S BD (Regular),AR YuanB5S BD,Regular,AR YuanB5S,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14152
 AR YuanB5S HV (Regular),AR YuanB5S HV,Regular,AR YuanB5S,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14152
 AR YuanLiB5 BD (Regular),AR YuanLiB5 BD,Regular,AR YuanLiB5,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),31,14266,14148
@@ -348,6 +353,7 @@ AR YuanQiZhuB5 UL (Regular),AR YuanQiZhuB5 UL,Regular,AR YuanQiZhuB5,Black,Versi
 AR YuShuShuB5 UL (Regular),AR YuShuShuB5 UL,Regular,AR YuShuShuB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR ZanMeiB5 UL (Regular),AR ZanMeiB5 UL,Regular,AR ZanMeiB5,Black,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),31,14266,14148
 AR ZhuZiB5 MD (Regular),AR ZhuZiB5 MD,Regular,AR ZhuZiB5,Medium,Version 1.00,ARPH,Regular,5 (Medium),500 (Medium),31,14266,14148
+ARUDJXHM-40-T (Regular),ARUDJXHM-40-T,Regular,,,Version 0.60,ARPH,Regular,5 (Medium),500 (Medium),31,14352,14055
 Blenny Black (Regular),Blenny Black,Regular,Blenny,Black,Version 1.000,DAMA,Regular,5 (Medium),900 (Black),17,523,661
 Bligh (Bold),Bligh,Bold,Bligh,Bold,Version 1.001,DAMA,Bold,5 (Medium),700 (Bold),18,433,508
 Bligh (Regular),Bligh,Regular,Bligh,Regular,Version 1.001,DAMA,Regular,5 (Medium),400 (Normal),18,433,508
@@ -564,11 +570,11 @@ Viato Light (Regular),Viato Light,Regular,Viato,Light,Version 2.001,DAMA,Regular
 文鼎雕刻体_B (Regular),文鼎雕刻体_B,Regular,文鼎雕刻体,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),28,7580,7766
 文鼎方新书H7_H (Regular),文鼎方新书H7_H,Regular,文鼎方新书H7,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
 文鼎方新书H7C80_H (Regular),文鼎方新书H7C80_H,Regular,文鼎方新书H7C80,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
-文鼎方新书H7C80D_H (Regular),文鼎方新书H7C80D_H,Regular,文鼎方新书H7C80D,Heavy,Version 1.20,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
+文鼎方新书H7C80D_H (Regular),文鼎方新书H7C80D_H,Regular,文鼎方新书H7C80D,Heavy,Version 1.30,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
 文鼎方新书H7C90_H (Regular),文鼎方新书H7C90_H,Regular,文鼎方新书H7C90,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
-文鼎方新书H7C90D_H (Regular),文鼎方新书H7C90D_H,Regular,文鼎方新书H7C90D,Heavy,Version 1.20,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
+文鼎方新书H7C90D_H (Regular),文鼎方新书H7C90D_H,Regular,文鼎方新书H7C90D,Heavy,Version 1.30,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
 文鼎方新书H7C95_H (Regular),文鼎方新书H7C95_H,Regular,文鼎方新书H7C95,Heavy,Version 1.00,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
-文鼎方新书H7C95D_H (Regular),文鼎方新书H7C95D_H,Regular,文鼎方新书H7C95D,Heavy,Version 1.20,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
+文鼎方新书H7C95D_H (Regular),文鼎方新书H7C95D_H,Regular,文鼎方新书H7C95D,Heavy,Version 1.30,ARPH,Regular,5 (Medium),900 (Black),27,7627,7663
 文鼎古印体_B (Regular),文鼎古印体_B,Regular,文鼎古印体,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),28,7580,7766
 文鼎海报体_B (Regular),文鼎海报体_B,Regular,文鼎海报体,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),28,7580,7766
 文鼎行楷碑体_B (Regular),文鼎行楷碑体_B,Regular,文鼎行楷碑体,Bold,Version 1.00,ARPH,Regular,5 (Medium),700 (Bold),28,7580,7766
