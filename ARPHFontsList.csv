@@ -1,4 +1,9 @@
 font_id,name,name_en,Font Format
+1503546639001,AR NewHebeSansAr,AR NewHebeSansAr,Complexi Arabic + Farsi
+1503546639003,AR NewHebeSansAr BD,AR NewHebeSansAr BD,Complexi Arabic + Farsi
+1503546639002,AR NewHebeSansAr DB,AR NewHebeSansAr DB,Complexi Arabic + Farsi
+1503546639004,AR NewHebeSansAr EB,AR NewHebeSansAr EB,Complexi Arabic + Farsi
+1503546639005,AR NewHebeSansAr HV,AR NewHebeSansAr HV,Complexi Arabic + Farsi
 1473748272345,AR NewHebeSansHe,AR NewHebeSansHe,Complexi codepage 1255
 1473749021092,AR NewHebeSansHe BD,AR NewHebeSansHe BD,Complexi codepage 1255
 1473748868489,AR NewHebeSansHe DB,AR NewHebeSansHe DB,Complexi codepage 1255
@@ -13,23 +18,21 @@ font_id,name,name_en,Font Format
 1442390470677,AR UD 晶熙ゴシック体Aktiv_E,AR UDJingXiHeiAktivJP EB,Japanese JIS 0208
 1442390543233,AR UD 晶熙ゴシック体Aktiv_H,AR UDJingXiHeiAktivJP HV,Japanese JIS 0208
 1442390265136,AR UD 晶熙ゴシック体Aktiv_L,AR UDJingXiHeiAktivJP LT,Japanese JIS 0208
-1451525504800,ARUD 晶熙ゴシック体_B,AR UDJingXiHeiJP BD,Japanese JIS 0208
-1451525389032,ARUD 晶熙ゴシック体_D,AR UDJingXiHeiJP DB,Japanese JIS 0208
-1451525572402,ARUD 晶熙ゴシック体_E,AR UDJingXiHeiJP EB,Japanese JIS 0208
-1451525639879,ARUD 晶熙ゴシック体_H,AR UDJingXiHeiJP HV,Japanese JIS 0208
-1451524895102,ARUD 晶熙ゴシック体_M,AR UDJingXiHeiJP MD,Japanese JIS 0208
-1440994248638,AR 顏眞楷書体 H,Arphic Gansinkaisho Heavy JIS,Japanese JIS 0208
-1440994576394,AR ゴシック体 M,Arphic Gothic Medium JIS,Japanese JIS 0208
-1440994721857,AR 行楷書体 H,Arphic Gyokaisho Heavy JIS,Japanese JIS 0208
-1440994623913,AR 行書体 B,Arphic Gyosho Bold JIS,Japanese JIS 0208
-1440994487317,AR 楷書体 M,Arphic Kaisho Medium JIS,Japanese JIS 0208
-1440994531660,AR マーカー体 E,Arphic Marker-Tai Extra JIS,Japanese JIS 0208
-1440992436281,AR 明朝体 L,Arphic Mincho Light JIS,Japanese JIS 0208
-1440992707192,AR 明朝体 U,Arphic Mincho Ultra JIS,Japanese JIS 0208
-1440994793955,AR ペン行楷書体 M,Arphic Pengyokaisho Medium JIS,Japanese JIS 0208
-1440994756875,ARＰＯＰ５H,Arphic POP5 Heavy JIS,Japanese JIS 0208
-1440994446678,AR 丸ゴシック体 E,Arphic Round-Gothic Extra JIS,Japanese JIS 0208
-1440994404560,AR 丸ゴシック体 M,Arphic Round-Gothic Medium JIS,Japanese JIS 0208
+1503644840000,AR顏眞楷書体_H,AR GansinkaishoJP HV,Japanese JIS 0208-2004
+1503644840001,ARなごみＰＯＰ体_B,AR NagomipopJP BD,Japanese JIS 0208-2004
+1503644840002,ARＰＯＰ４_B,AR Pop4JP BD,Japanese JIS 0208-2004
+1503644840003,ARＰＯＰ５_H,AR Pop5JP HV,Japanese JIS 0208-2004
+1503644840006,AR浪漫明朝体_U,AR RomanMinchoJP UL,Japanese JIS 0208-2004
+1503644840008,AR祥南真筆行書体_M,AR ShounanShinpitsuJP MD,Japanese JIS 0208-2004
+1503644840009,AR新藝体_U,AR SingeiJP UL,Japanese JIS 0208-2004
+1451525504800,ARUD晶熙ゴシック体_B,AR UDJingXiHeiJP BD,Japanese JIS 0208-2004
+1451525389032,ARUD晶熙ゴシック体_D,AR UDJingXiHeiJP DB,Japanese JIS 0208-2004
+1451525572402,ARUD晶熙ゴシック体_E,AR UDJingXiHeiJP EB,Japanese JIS 0208-2004
+1451525639879,ARUD晶熙ゴシック体_H,AR UDJingXiHeiJP HV,Japanese JIS 0208-2004
+1451524895102,ARUD晶熙ゴシック体_M,AR UDJingXiHeiJP MD,Japanese JIS 0208-2004
+1503644840004,AR丸印篆_B,AR WanyinzhuaiJP BD,Japanese JIS 0208-2004
+1503644840005,AR丸印篆_L,AR WanyinzhuaiJP LT,Japanese JIS 0208-2004
+1503644840007,AR悠々ゴシック体_E,AR YuyuGothicJP EB,Japanese JIS 0208-2004
 1457343158305,AR MyungjoKR MD,AR MyungjoKR MD,Korean KS X 1001 (Hangul Only)
 1457344093562,GungSeo Medium,GungSeo Medium,Korean KS X 1001 (Hangul Only)
 1444030633725,Sandoll GothicNeo1 03 Light,Sandoll GothicNeo1 03 Light,Korean KS X 1001 (Hangul Only)
@@ -535,9 +538,6 @@ font_id,name,name_en,Font Format
 1434615732466,文鼎圆立体_B,AR YuanLiGB BD,Simplified Chinese GB2312
 1431675322202,文鼎云黑体_B,AR YunHeiGB BD,Simplified Chinese GB2312
 1434615773067,文鼎竹子体_M,AR ZhuZiGB MD,Simplified Chinese GB2312
-1450951980549,XinGothic-W4S(信黑体),XinGothic-W4S,Simplified Chinese GB2312
-1450952082844,XinGothic-W6S(信黑体),XinGothic-W6S,Simplified Chinese GB2312
-1450952164291,XinGothic-W7S(信黑体),XinGothic-W7S,Simplified Chinese GB2312
 1469605710504,文鼎DC陈森田MORITA_B,AR DCCSTMoritaGB BD,Simplified Chinese GB2312+GB12345
 1458111021297,文鼎DC黄阳尖魏体_B,AR DCHYJianWeiGB BD,Simplified Chinese GB2312+GB12345
 1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese GB2312+GB12345
@@ -782,13 +782,6 @@ font_id,name,name_en,Font Format
 1467272845119,文鼎注音寬字方框,AR ZhuYinEXBX Md,Traditional Chinese Big-5
 1467272783992,文鼎注音窄字,AR ZhuYinNR Md,Traditional Chinese Big-5
 1434439201518,文鼎竹子體_M,AR ZhuZiB5 MD,Traditional Chinese Big-5
-1450942630182,XinGothic-W2T(信黑體),XinGothic-W2T,Traditional Chinese Big-5
-1450943445704,XinGothic-W3T(信黑體),XinGothic-W3T,Traditional Chinese Big-5
-1450951569285,XinGothic-W4T(信黑體),XinGothic-W4T,Traditional Chinese Big-5
-1450951648575,XinGothic-W5T(信黑體),XinGothic-W5T,Traditional Chinese Big-5
-1450951720804,XinGothic-W6T(信黑體),XinGothic-W6T,Traditional Chinese Big-5
-1450951816993,XinGothic-W7T(信黑體),XinGothic-W7T,Traditional Chinese Big-5
-1450951908058,XinGothic-W8T(信黑體),XinGothic-W8T,Traditional Chinese Big-5
 1497900000000,文鼎黑體HK_B,AR HeiB5HK BD,Traditional Chinese Big-5 + HKSCS-2008
 1497900000003,文鼎隸書HK_M,AR LiShuB5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1497900000001,文鼎明體HK_L,AR MingB5HK LT,Traditional Chinese Big-5 + HKSCS-2008
