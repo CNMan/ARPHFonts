@@ -19,10 +19,16 @@ font_id,name,name_en,Font Format
 1442390543233,AR UD 晶熙ゴシック体Aktiv_H,AR UDJingXiHeiAktivJP HV,Japanese JIS 0208
 1442390265136,AR UD 晶熙ゴシック体Aktiv_L,AR UDJingXiHeiAktivJP LT,Japanese JIS 0208
 1503644840000,AR顏眞楷書体_H,AR GansinkaishoJP HV,Japanese JIS 0208-2004
+1505879562012,ARゴシック体_U,AR GothicJP UL,Japanese JIS 0208-2004
+1505879562013,ARハイカラＰＯＰ体_H,AR HighcollarPOPJP HV,Japanese JIS 0208-2004
+1508809430000,ARマーカー体_E,AR MarkerJP EB,Japanese JIS 0208-2004
+1508809430001,ARマッチ体_B,AR MatchJP BD,Japanese JIS 0208-2004
 1503644840001,ARなごみＰＯＰ体_B,AR NagomipopJP BD,Japanese JIS 0208-2004
+1505879562014,ARペン行楷書体_M,AR PengyokaishoJP MD,Japanese JIS 0208-2004
 1503644840002,ARＰＯＰ４_B,AR Pop4JP BD,Japanese JIS 0208-2004
 1503644840003,ARＰＯＰ５_H,AR Pop5JP HV,Japanese JIS 0208-2004
 1503644840006,AR浪漫明朝体_U,AR RomanMinchoJP UL,Japanese JIS 0208-2004
+1508809430002,AR丸ゴシック体_E,AR RoundGothicJP EB,Japanese JIS 0208-2004
 1503644840008,AR祥南真筆行書体_M,AR ShounanShinpitsuJP MD,Japanese JIS 0208-2004
 1503644840009,AR新藝体_U,AR SingeiJP UL,Japanese JIS 0208-2004
 1451525504800,ARUD晶熙ゴシック体_B,AR UDJingXiHeiJP BD,Japanese JIS 0208-2004
@@ -361,27 +367,53 @@ font_id,name,name_en,Font Format
 1373940688801,AR DIN Sans Demibold,AR DIN Sans Demibold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9
 1373872566600,AR Hebe Sans,AR Hebe Sans,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin Vietnam
 1373875106080,AR Verdure Sans,AR Verdure Sans,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin Vietnam
-1426229062084,AR Dori Sans,AR Dori Sans,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426230337128,AR Dori Sans Black,AR Dori Sans Black,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426410476735,AR Dori Sans Bold,AR Dori Sans Bold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426410606325,AR Dori Sans Demibold,AR Dori Sans Demibold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426410774945,AR Dori Sans Extrabold,AR Dori Sans Extrabold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426410979596,AR Dori Sans Heavy,AR Dori Sans Heavy,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426411045279,AR Dori Sans Light,AR Dori Sans Light,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426411103890,AR Dori Sans Ultra,AR Dori Sans Ultra,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426411196401,AR New Hebe Sans,AR New Hebe Sans,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426411361110,AR New Hebe Sans Black,AR New Hebe Sans Black,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426411536317,AR New Hebe Sans Bold,AR New Hebe Sans Bold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426411663120,AR New Hebe Sans Demibold,AR New Hebe Sans Demibold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426411782073,AR New Hebe Sans Extrabold,AR New Hebe Sans Extrabold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426412039369,AR New Hebe Sans Heavy,AR New Hebe Sans Heavy,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426412093560,AR New Hebe Sans Light,AR New Hebe Sans Light,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
-1426412157557,AR New Hebe Sans Ultra,AR New Hebe Sans Ultra,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-10/Latin ISO 8859-15/Latin ISO 8859-16/Latin WGL4
 1373941245819,AR DIN Sans Flat,AR DIN Sans Flat,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-15/Latin ISO 8859-16
 1373956399986,AR DIN Sans Flat Bold,AR DIN Sans Flat Bold,Latin ISO 8859-1/Latin ISO 8859-2/Latin ISO 8859-5/Latin ISO 8859-7/Latin ISO 8859-9/Latin ISO 8859-15/Latin ISO 8859-16
 1458025432864,AR Fruda Sans Vi,AR Fruda Sans Vi,Latin Vietnam
 1458025135753,AR Hebe Sans Vi,AR Hebe Sans Vi,Latin Vietnam
 1458025469101,AR Verdure Sans Vi,AR Verdure Sans Vi,Latin Vietnam
+1426229062084,AR Dori Sans,AR Dori Sans,Latin WGL4
+1426230337128,AR Dori Sans Black,AR Dori Sans Black,Latin WGL4
+1426410476735,AR Dori Sans Bold,AR Dori Sans Bold,Latin WGL4
+1426410606325,AR Dori Sans Demibold,AR Dori Sans Demibold,Latin WGL4
+1426410774945,AR Dori Sans Extrabold,AR Dori Sans Extrabold,Latin WGL4
+1426410915018,AR Dori Sans Extraheavy,AR Dori Sans Extraheavy,Latin WGL4
+1426410979596,AR Dori Sans Heavy,AR Dori Sans Heavy,Latin WGL4
+1426411045279,AR Dori Sans Light,AR Dori Sans Light,Latin WGL4
+1426411103890,AR Dori Sans Ultra,AR Dori Sans Ultra,Latin WGL4
+1426411196401,AR New Hebe Sans,AR New Hebe Sans,Latin WGL4
+1426411361110,AR New Hebe Sans Black,AR New Hebe Sans Black,Latin WGL4
+1426411536317,AR New Hebe Sans Bold,AR New Hebe Sans Bold,Latin WGL4
+1426411663120,AR New Hebe Sans Demibold,AR New Hebe Sans Demibold,Latin WGL4
+1426411782073,AR New Hebe Sans Extrabold,AR New Hebe Sans Extrabold,Latin WGL4
+1426411928834,AR New Hebe Sans Extraheavy,AR New Hebe Sans Extraheavy,Latin WGL4
+1426412039369,AR New Hebe Sans Heavy,AR New Hebe Sans Heavy,Latin WGL4
+1426412093560,AR New Hebe Sans Light,AR New Hebe Sans Light,Latin WGL4
+1426412157557,AR New Hebe Sans Ultra,AR New Hebe Sans Ultra,Latin WGL4
+1434439507034,文鼎仿宋简_L,AR FangSongB5S LT,Simplified Chinese Big-5簡
+1505879562006,文鼎仿宋簡B5Std_L,AR FangSongB5SStd LT,Simplified Chinese Big-5簡
+1434440201112,文鼎黑体简_B,AR HeiB5S BD,Simplified Chinese Big-5簡
+1505879562005,文鼎黑體簡B5Std_B,AR HeiB5SStd BD,Simplified Chinese Big-5簡
+1434440404956,文鼎楷体简_M,AR KaiB5S MD,Simplified Chinese Big-5簡
+1505879562007,文鼎楷體簡B5Std_M,AR KaiB5SStd MD,Simplified Chinese Big-5簡
+1434440459831,文鼎隶书简_M,AR LiShuB5S MD,Simplified Chinese Big-5簡
+1505879562009,文鼎隸書簡B5Std_M,AR LiShuB5SStd MD,Simplified Chinese Big-5簡
+1434440494831,文鼎明体简_B,AR MingB5S BD,Simplified Chinese Big-5簡
+1434440538362,文鼎明体简_H,AR MingB5S HV,Simplified Chinese Big-5簡
+1434440582362,文鼎明体简_M,AR MingB5S MD,Simplified Chinese Big-5簡
+1505879562001,文鼎明體簡B5Std_B,AR MingB5SStd BD,Simplified Chinese Big-5簡
+1505879562002,文鼎明體簡B5Std_H,AR MingB5SStd HV,Simplified Chinese Big-5簡
+1505879562000,文鼎明體簡B5Std_M,AR MingB5SStd MD,Simplified Chinese Big-5簡
+1434440623003,文鼎魏碑简_B,AR WeiBeiB5S BD,Simplified Chinese Big-5簡
+1505879562008,文鼎魏碑簡B5Std_B,AR WeiBeiB5SStd BD,Simplified Chinese Big-5簡
+1434440665956,文鼎行楷简_B,AR XingKaiB5S BD,Simplified Chinese Big-5簡
+1505879562011,文鼎行楷簡B5Std_B,AR XingKaiB5SStd BD,Simplified Chinese Big-5簡
+1434440696206,文鼎行书简_M,AR XingShuB5S MD,Simplified Chinese Big-5簡
+1505879562010,文鼎行書簡B5Std_M,AR XingShuB5SStd MD,Simplified Chinese Big-5簡
+1434440743112,文鼎圆体简_B,AR YuanB5S BD,Simplified Chinese Big-5簡
+1434440776675,文鼎圆体简_H,AR YuanB5S HV,Simplified Chinese Big-5簡
+1505879562003,文鼎圓體簡B5Std_B,AR YuanB5SStd BD,Simplified Chinese Big-5簡
+1505879562004,文鼎圓體簡B5Std_H,AR YuanB5SStd HV,Simplified Chinese Big-5簡
 1434617244605,文鼎晶栩粗黑G30,AR CrystalHeiG30 BD,Simplified Chinese GB18030
 1434617285477,文鼎晶栩中粗黑G30,AR CrystalHeiG30 DB,Simplified Chinese GB18030
 1434617320818,文鼎晶栩中黑G30,AR CrystalHeiG30 MD,Simplified Chinese GB18030
@@ -502,6 +534,9 @@ font_id,name,name_en,Font Format
 1434615075425,文鼎粗甜妞体,AR TianNiuGB BD,Simplified Chinese GB2312
 1434615110836,文鼎特甜妞体,AR TianNiuGB HV,Simplified Chinese GB2312
 1488942764472,文鼎甜心体_U,AR TianXinGB UL,Simplified Chinese GB2312
+1505879562015,文鼎TS文青钢笔体,AR TSWenQingPenGB MD,Simplified Chinese GB2312
+1505879562016,文鼎TX彩云_U,AR TXCaiYunGB UL,Simplified Chinese GB2312
+1505879562017,文鼎TX古印体_B,AR TXGuYinGB BD,Simplified Chinese GB2312
 1442386843529,文鼎UD晶熙黑体Aktiv_D,AR UDJingXiHeiAktivGB DB,Simplified Chinese GB2312
 1442387069581,文鼎UD晶熙黑体Aktiv_E,AR UDJingXiHeiAktivGB EB,Simplified Chinese GB2312
 1442387150699,文鼎UD晶熙黑体Aktiv_H,AR UDJingXiHeiAktivGB HV,Simplified Chinese GB2312
@@ -541,6 +576,7 @@ font_id,name,name_en,Font Format
 1469605710504,文鼎DC陈森田MORITA_B,AR DCCSTMoritaGB BD,Simplified Chinese GB2312+GB12345
 1458111021297,文鼎DC黄阳尖魏体_B,AR DCHYJianWeiGB BD,Simplified Chinese GB2312+GB12345
 1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese GB2312+GB12345
+1508809430003,文鼎DC云康钢笔行楷_B,AR DCYKPenXingKaiGB BD,Simplified Chinese GB2312+GB12345
 1500886655012,文鼎方新书H7GBK_H,AR FangXinShuH7GBK HV,Simplified Chinese GBK
 1424932858380,文鼎水瓶座_U,AR AquariusAB5 UL,Traditional Chinese Big-5
 1361442892741,文鼎板刻ＰＯＰ體_E,AR BanKePOPB5 EB,Traditional Chinese Big-5
@@ -808,18 +844,6 @@ font_id,name,name_en,Font Format
 1491546184595,文鼎楷體外字_M,AR KaiEXT MD,Traditional Chinese Big-5(EXT)
 1491545676452,文鼎明體外字_M,AR MingEXT MD,Traditional Chinese Big-5(EXT)
 1491546725429,文鼎新黑體外字_M,AR NewHeiEXT MD,Traditional Chinese Big-5(EXT)
-1434439507034,文鼎仿宋简_L,AR FangSongB5S LT,Traditional Chinese Big-5簡
-1434440201112,文鼎黑体简_B,AR HeiB5S BD,Traditional Chinese Big-5簡
-1434440404956,文鼎楷体简_M,AR KaiB5S MD,Traditional Chinese Big-5簡
-1434440459831,文鼎隶书简_M,AR LiShuB5S MD,Traditional Chinese Big-5簡
-1434440494831,文鼎明体简_B,AR MingB5S BD,Traditional Chinese Big-5簡
-1434440538362,文鼎明体简_H,AR MingB5S HV,Traditional Chinese Big-5簡
-1434440582362,文鼎明体简_M,AR MingB5S MD,Traditional Chinese Big-5簡
-1434440623003,文鼎魏碑简_B,AR WeiBeiB5S BD,Traditional Chinese Big-5簡
-1434440665956,文鼎行楷简_B,AR XingKaiB5S BD,Traditional Chinese Big-5簡
-1434440696206,文鼎行书简_M,AR XingShuB5S MD,Traditional Chinese Big-5簡
-1434440743112,文鼎圆体简_B,AR YuanB5S BD,Traditional Chinese Big-5簡
-1434440776675,文鼎圆体简_H,AR YuanB5S HV,Traditional Chinese Big-5簡
 1434440978550,文鼎黑體U30_M,AR HeiU30 MD,Traditional Chinese Unicode3.0
 1434441012846,文鼎隸書U30_M,AR LiShuU30 MD,Traditional Chinese Unicode3.0
 1434441045096,文鼎明體U30_D,AR MingU30 DB,Traditional Chinese Unicode3.0
@@ -837,5 +861,3 @@ font_id,name,name_en,Font Format
 1495609387409,文鼎UD晶熙黑體U30_H,AR UDJingXiHeiU30 HV,Traditional Chinese Unicode3.0
 1495606913115,文鼎UD晶熙黑體U30_M,AR UDJingXiHeiU30 MD,Traditional Chinese Unicode3.0
 1459327252420,文鼎虛線注音符號,AR BopomofaDL Ul,Traditional Chinese 注音符號
-1426410915018,AR Dori Sans Extraheavy,AR Dori Sans Extraheavy,
-1426411928834,AR New Hebe Sans Extraheavy,AR New Hebe Sans Extraheavy,
