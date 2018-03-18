@@ -20,7 +20,13 @@ font_id,name,name_en,Font Format
 1442390265136,AR UD 晶熙ゴシック体Aktiv_L,AR UDJingXiHeiAktivJP LT,Japanese JIS 0208
 1503644840000,AR顏眞楷書体_H,AR GansinkaishoJP HV,Japanese JIS 0208-2004
 1505879562012,ARゴシック体_U,AR GothicJP UL,Japanese JIS 0208-2004
+1521599620006,AR花文字梅_U,AR HanamojiUmeJP UL,Japanese JIS 0208-2004
+1521599620005,AR版画ＰＯＰ体_E,AR HangapopJP EB,Japanese JIS 0208-2004
 1505879562013,ARハイカラＰＯＰ体_H,AR HighcollarPOPJP HV,Japanese JIS 0208-2004
+1521599620002,AR板体_B,AR ItataiJP BD,Japanese JIS 0208-2004
+1521599620003,AR板体_E,AR ItataiJP EB,Japanese JIS 0208-2004
+1521599620004,AR板体_H,AR ItataiJP HV,Japanese JIS 0208-2004
+1521599620007,AR教科書体_M,AR KyokashoJP MD,Japanese JIS 0208-2004
 1508809430000,ARマーカー体_E,AR MarkerJP EB,Japanese JIS 0208-2004
 1508809430001,ARマッチ体_B,AR MatchJP BD,Japanese JIS 0208-2004
 1511316200002,AR明朝体_U,AR MinchoJP UL,Japanese JIS 0208-2004
@@ -592,8 +598,10 @@ font_id,name,name_en,Font Format
 1434425659599,文鼎齒輪體_M,AR ChiLunB5 MD,Traditional Chinese Big-5
 1473834750928,文鼎DC陳森田MORITA_B,AR DCCSTMoritaB5 BD,Traditional Chinese Big-5
 1500886655011,文鼎DC黃陽尖魏體_B,AR DCHYJianWeiB5 BD,Traditional Chinese Big-5
+1521599620008,文鼎DC黃陽尖魏體Pro_B,AR DCHYJianWeiB5Pro BD,Traditional Chinese Big-5
 1497900000004,文鼎DC清圓體_B,AR DCQingYuanB5 BD,Traditional Chinese Big-5
 1491985378067,文鼎DC香蕉人體_B,AR DCXiangJiaoRenB5 BD,Traditional Chinese Big-5
+1516758730019,文鼎DC云康鋼筆行楷_B,AR DCYKPenXingKaiB5 BD,Traditional Chinese Big-5
 1476341983294,文鼎DC云康行楷_B,AR DCYKXingKaiB5 BD,Traditional Chinese Big-5
 1495610830576,文鼎DC云康行楷Pro_B,AR DCYKXingKaiProB5 BD,Traditional Chinese Big-5
 1434425928896,文鼎雕刻體_B,AR DiaoKeB5 BD,Traditional Chinese Big-5
