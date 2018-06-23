@@ -20,6 +20,7 @@ font_id,name,name_en,Font Format
 1442390265136,AR UD 晶熙ゴシック体Aktiv_L,AR UDJingXiHeiAktivJP LT,Japanese JIS 0208
 1524624380007,AR照るＰＯＰ体_H,AR BringPopJP HV,Japanese JIS 0208-2004
 1503644840000,AR顏眞楷書体_H,AR GansinkaishoJP HV,Japanese JIS 0208-2004
+1528956535250,ARゴシック体_M,AR GothicJP MD,Japanese JIS 0208-2004
 1505879562012,ARゴシック体_U,AR GothicJP UL,Japanese JIS 0208-2004
 1521599620006,AR花文字梅_U,AR HanamojiUmeJP UL,Japanese JIS 0208-2004
 1521599620005,AR版画ＰＯＰ体_E,AR HangapopJP EB,Japanese JIS 0208-2004
@@ -33,7 +34,9 @@ font_id,name,name_en,Font Format
 1508809430001,ARマッチ体_B,AR MatchJP BD,Japanese JIS 0208-2004
 1511316200002,AR明朝体_U,AR MinchoJP UL,Japanese JIS 0208-2004
 1503644840001,ARなごみＰＯＰ体_B,AR NagomipopJP BD,Japanese JIS 0208-2004
+1528956535251,ARペン行楷書体_L,AR PengyokaishoJP LT,Japanese JIS 0208-2004
 1505879562014,ARペン行楷書体_M,AR PengyokaishoJP MD,Japanese JIS 0208-2004
+1528956535252,ARペン楷書体_L,AR PenkaishoJP LT,Japanese JIS 0208-2004
 1503644840002,ARＰＯＰ４_B,AR Pop4JP BD,Japanese JIS 0208-2004
 1503644840003,ARＰＯＰ５_H,AR Pop5JP HV,Japanese JIS 0208-2004
 1527040546352,ARＰＯＰ体_B,AR PopJP BD,Japanese JIS 0208-2004
@@ -471,6 +474,7 @@ font_id,name,name_en,Font Format
 1465875347374,文鼎粗黑上汉语拼音L1,AR CuheiSHL1GB Bd,Simplified Chinese GB2312
 1465875476291,文鼎粗黑下汉语拼音C1,AR CuheiXHC1GB Bd,Simplified Chinese GB2312
 1465875579154,文鼎粗黑下汉语拼音L1,AR CuheiXHL1GB Bd,Simplified Chinese GB2312
+1528956535255,文鼎DC黄阳仿于右任体_B,AR DCHYFYuYouRenGB BD,Simplified Chinese GB2312
 1524624380005,文鼎DC黄阳尖魏体Pro_B,AR DCHYJianWeiGBPro BD,Simplified Chinese GB2312
 1444716098606,文鼎DC庆科静雅体_M,AR DCQKJingYaGB MD,Simplified Chinese GB2312
 1484290628917,文鼎DC云康行楷体_B,AR DCYKXingKaiGB BD,Simplified Chinese GB2312
@@ -718,6 +722,8 @@ font_id,name,name_en,Font Format
 1527040546356,文鼎魔幻顆粒402,AR MoHuan402B5,Traditional Chinese Big-5
 1524624380003,文鼎魔幻顆粒501,AR MoHuan501B5,Traditional Chinese Big-5
 1524624380004,文鼎魔幻顆粒502,AR MoHuan502B5,Traditional Chinese Big-5
+1528956535253,文鼎魔幻顆粒701,AR MoHuan701B5,Traditional Chinese Big-5
+1528956535254,文鼎魔幻顆粒702,AR MoHuan702B5,Traditional Chinese Big-5
 1361410602265,文鼎新黑體_B,AR NewHeiB5 BD,Traditional Chinese Big-5
 1421656990854,文鼎新黑體_E,AR NewHeiB5 EB,Traditional Chinese Big-5
 1424931975681,文鼎新黑體_H,AR NewHeiB5 HV,Traditional Chinese Big-5
