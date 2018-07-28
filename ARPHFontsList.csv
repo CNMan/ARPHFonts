@@ -29,6 +29,7 @@ font_id,name,name_en,Font Format
 1521599620002,AR板体_B,AR ItataiJP BD,Japanese JIS 0208-2004
 1521599620003,AR板体_E,AR ItataiJP EB,Japanese JIS 0208-2004
 1521599620004,AR板体_H,AR ItataiJP HV,Japanese JIS 0208-2004
+1532419302756,AR古印体_B,AR KoinJP BD,Japanese JIS 0208-2004
 1521599620007,AR教科書体_M,AR KyokashoJP MD,Japanese JIS 0208-2004
 1508809430000,ARマーカー体_E,AR MarkerJP EB,Japanese JIS 0208-2004
 1508809430001,ARマッチ体_B,AR MatchJP BD,Japanese JIS 0208-2004
@@ -43,10 +44,12 @@ font_id,name,name_en,Font Format
 1503644840006,AR浪漫明朝体_U,AR RomanMinchoJP UL,Japanese JIS 0208-2004
 1527040546353,AR丸ゴシック体3D_M,AR RoundGothic3DJP MD,Japanese JIS 0208-2004
 1508809430002,AR丸ゴシック体_E,AR RoundGothicJP EB,Japanese JIS 0208-2004
+1532419302755,AR丸ゴシック体_M ,AR RoundGothicJP MD,Japanese JIS 0208-2004
 1503644840008,AR祥南真筆行書体_M,AR ShounanShinpitsuJP MD,Japanese JIS 0208-2004
 1524624380008,AR新藝体_E,AR SingeiJP EB,Japanese JIS 0208-2004
 1524624380009,AR新藝体_H,AR SingeiJP HV,Japanese JIS 0208-2004
 1503644840009,AR新藝体_U,AR SingeiJP UL,Japanese JIS 0208-2004
+1532419302757,AR白丸ＰＯＰ体_H,AR SiroMaruPopJP HV,Japanese JIS 0208-2004
 1511316200001,AR宋朝体_M,AR SochoJP MD,Japanese JIS 0208-2004
 1511316200000,AR竹管ＰＯＰ体_B,AR TikukanPopJP BD,Japanese JIS 0208-2004
 1451525504800,ARUD晶熙ゴシック体_B,AR UDJingXiHeiJP BD,Japanese JIS 0208-2004
@@ -66,6 +69,54 @@ font_id,name,name_en,Font Format
 1444030883329,Sandoll GothicNeo1 08 ExtraBold,Sandoll GothicNeo1 08 ExtraBold,Korean KS X 1001 (Hangul Only)
 1457344435270,AR GothicKR5 BD,AR GothicKR5 BD,Korean KS X 1005
 1457344280605,AR GothicKR5 MD,AR GothicKR5 MD,Korean KS X 1005
+1532419302707,Sandoll GothicNeo1 01 Th,Sandoll GothicNeo1 01 Th,Korean KS X 1005
+1532419302708,Sandoll GothicNeo1 02 Ul,Sandoll GothicNeo1 02 Ul,Korean KS X 1005
+1532419302709,Sandoll GothicNeo1 03 Lt,Sandoll GothicNeo1 03 Lt,Korean KS X 1005
+1532419302710,Sandoll GothicNeo1 04 Rg,Sandoll GothicNeo1 04 Rg,Korean KS X 1005
+1532419302711,Sandoll GothicNeo1 05 Md,Sandoll GothicNeo1 05 Md,Korean KS X 1005
+1532419302712,Sandoll GothicNeo1 06 Sb,Sandoll GothicNeo1 06 Sb,Korean KS X 1005
+1532419302713,Sandoll GothicNeo1 07 Bd,Sandoll GothicNeo1 07 Bd,Korean KS X 1005
+1532419302714,Sandoll GothicNeo1 08 Eb,Sandoll GothicNeo1 08 Eb,Korean KS X 1005
+1532419302715,Sandoll GothicNeo1 09 Hv,Sandoll GothicNeo1 09 Hv,Korean KS X 1005
+1532419302716,Sandoll GothicNeo2 01 Ul,Sandoll GothicNeo2 01 Ul,Korean KS X 1005
+1532419302717,Sandoll GothicNeo2 02 Lt,Sandoll GothicNeo2 02 Lt,Korean KS X 1005
+1532419302718,Sandoll GothicNeo2 03 Rg,Sandoll GothicNeo2 03 Rg,Korean KS X 1005
+1532419302719,Sandoll GothicNeo2 04 Md,Sandoll GothicNeo2 04 Md,Korean KS X 1005
+1532419302720,Sandoll GothicNeo2 05 Sb,Sandoll GothicNeo2 05 Sb,Korean KS X 1005
+1532419302721,Sandoll GothicNeo2 06 Bd,Sandoll GothicNeo2 06 Bd,Korean KS X 1005
+1532419302722,Sandoll GothicNeo2 07 Eb,Sandoll GothicNeo2 07 Eb,Korean KS X 1005
+1532419302730,Sandoll GothicNeoRound 01 Th,Sandoll GothicNeoRound 01 Th,Korean KS X 1005
+1532419302731,Sandoll GothicNeoRound 02 Ul,Sandoll GothicNeoRound 02 Ul,Korean KS X 1005
+1532419302732,Sandoll GothicNeoRound 03 Lt,Sandoll GothicNeoRound 03 Lt,Korean KS X 1005
+1532419302733,Sandoll GothicNeoRound 04 Rg,Sandoll GothicNeoRound 04 Rg,Korean KS X 1005
+1532419302734,Sandoll GothicNeoRound 05 Md,Sandoll GothicNeoRound 05 Md,Korean KS X 1005
+1532419302735,Sandoll GothicNeoRound 06 Sb,Sandoll GothicNeoRound 06 Sb,Korean KS X 1005
+1532419302736,Sandoll GothicNeoRound 07 Bd,Sandoll GothicNeoRound 07 Bd,Korean KS X 1005
+1532419302737,Sandoll GothicNeoRound 08 Eb,Sandoll GothicNeoRound 08 Eb,Korean KS X 1005
+1532419302738,Sandoll GothicNeoRound 09 Hv,Sandoll GothicNeoRound 09 Hv,Korean KS X 1005
+1532419302723,Sandoll GtNeo3Uni 01 Ul,Sandoll GtNeo3Uni 01 Ul,Korean KS X 1005
+1532419302724,Sandoll GtNeo3Uni 02 Lt,Sandoll GtNeo3Uni 02 Lt,Korean KS X 1005
+1532419302725,Sandoll GtNeo3Uni 03 Rg,Sandoll GtNeo3Uni 03 Rg,Korean KS X 1005
+1532419302726,Sandoll GtNeo3Uni 04 Md,Sandoll GtNeo3Uni 04 Md,Korean KS X 1005
+1532419302727,Sandoll GtNeo3Uni 05 Sb,Sandoll GtNeo3Uni 05 Sb,Korean KS X 1005
+1532419302728,Sandoll GtNeo3Uni 06 Bd,Sandoll GtNeo3Uni 06 Bd,Korean KS X 1005
+1532419302729,Sandoll GtNeo3Uni 07 Eb,Sandoll GtNeo3Uni 07 Eb,Korean KS X 1005
+1532419302739,Sandoll GtNeoCond 01 Th,Sandoll GtNeoCond 01 Th,Korean KS X 1005
+1532419302740,Sandoll GtNeoCond 02 Ul,Sandoll GtNeoCond 02 Ul,Korean KS X 1005
+1532419302741,Sandoll GtNeoCond 03 Lt,Sandoll GtNeoCond 03 Lt,Korean KS X 1005
+1532419302742,Sandoll GtNeoCond 04 Rg,Sandoll GtNeoCond 04 Rg,Korean KS X 1005
+1532419302743,Sandoll GtNeoCond 05 Md,Sandoll GtNeoCond 05 Md,Korean KS X 1005
+1532419302744,Sandoll GtNeoCond 06 Sb,Sandoll GtNeoCond 06 Sb,Korean KS X 1005
+1532419302745,Sandoll GtNeoCond 07 Bd,Sandoll GtNeoCond 07 Bd,Korean KS X 1005
+1532419302746,Sandoll GtNeoCond 08 Eb,Sandoll GtNeoCond 08 Eb,Korean KS X 1005
+1532419302747,Sandoll GtNeoCond 09 Hv,Sandoll GtNeoCond 09 Hv,Korean KS X 1005
+1532419302748,Sandoll MyeongjoNeo1 01 Ul,Sandoll MyeongjoNeo1 01 Ul,Korean KS X 1005
+1532419302749,Sandoll MyeongjoNeo1 02 Lt,Sandoll MyeongjoNeo1 02 Lt,Korean KS X 1005
+1532419302750,Sandoll MyeongjoNeo1 03 Rg,Sandoll MyeongjoNeo1 03 Rg,Korean KS X 1005
+1532419302751,Sandoll MyeongjoNeo1 04 Md,Sandoll MyeongjoNeo1 04 Md,Korean KS X 1005
+1532419302752,Sandoll MyeongjoNeo1 05 Sb,Sandoll MyeongjoNeo1 05 Sb,Korean KS X 1005
+1532419302753,Sandoll MyeongjoNeo1 06 Bd,Sandoll MyeongjoNeo1 06 Bd,Korean KS X 1005
+1532419302754,Sandoll MyeongjoNeo1 07 Eb,Sandoll MyeongjoNeo1 07 Eb,Korean KS X 1005
 1434441592831,AR ACTION,AR ACTION,Latin ASCII
 1434441768690,AR ADEPT,AR ADEPT,Latin ASCII
 1434441787253,AR ADRIANA,AR ADRIANA,Latin ASCII
@@ -444,6 +495,11 @@ font_id,name,name_en,Font Format
 1442389498260,文鼎UD晶熙黑体AktivG30_E,AR UDJingXiHeiAktivG30 EB,Simplified Chinese GB18030
 1442389806536,文鼎UD晶熙黑体AktivG30_H,AR UDJingXiHeiAktivG30 HV,Simplified Chinese GB18030
 1442387283879,文鼎UD晶熙黑体AktivG30_L,AR UDJingXiHeiAktivG30 LT,Simplified Chinese GB18030
+1532419302703,文鼎UD晶熙黑体E1C80G30_B,AR UDJingXiHeiE1C80G30 BD,Simplified Chinese GB18030
+1532419302702,文鼎UD晶熙黑体E1C80G30_D,AR UDJingXiHeiE1C80G30 DB,Simplified Chinese GB18030
+1532419302704,文鼎UD晶熙黑体E1C80G30_E,AR UDJingXiHeiE1C80G30 EB,Simplified Chinese GB18030
+1532419302705,文鼎UD晶熙黑体E1C80G30_H,AR UDJingXiHeiE1C80G30 HV,Simplified Chinese GB18030
+1532419302701,文鼎UD晶熙黑体E1C80G30_M,AR UDJingXiHeiE1C80G30 MD,Simplified Chinese GB18030
 1453701747164,文鼎UD晶熙黑体E1G30_B,AR UDJingXiHeiE1G30 BD,Simplified Chinese GB18030
 1453701715124,文鼎UD晶熙黑体E1G30_D,AR UDJingXiHeiE1G30 DB,Simplified Chinese GB18030
 1453701803668,文鼎UD晶熙黑体E1G30_E,AR UDJingXiHeiE1G30 EB,Simplified Chinese GB18030
@@ -465,6 +521,7 @@ font_id,name,name_en,Font Format
 1458024330841,文鼎UD晶熙黑体XG30_H,AR UDJingXiHeiXG30 HV,Simplified Chinese GB18030
 1458023444101,文鼎UD晶熙黑体XG30_M,AR UDJingXiHeiXG30 MD,Simplified Chinese GB18030
 1434617456442,文鼎粗魏碑体G30,AR WeiBeiG30 BD,Simplified Chinese GB18030
+1532419302758,ARUDJingXiHeiE1G30VF(Beta),ARUDJingXiHeiE1G30VF(Beta),Simplified Chinese GB18030
 1434612323607,文鼎彩云_U,AR CaiYunGB UL,Simplified Chinese GB2312
 1434612431082,文鼎齿轮体_M,AR ChiLunGB MD,Simplified Chinese GB2312
 1434613657801,文鼎晶栩黑体_B,AR CrystalHeiGB BD,Simplified Chinese GB2312
@@ -819,6 +876,7 @@ font_id,name,name_en,Font Format
 1514267520013,文鼎甜妞體B5Std_U,AR TianNiuB5Std UL,Traditional Chinese Big-5
 1424860745132,文鼎甜心體_U,AR TianXinB5 UL,Traditional Chinese Big-5
 1467272624910,文鼎草莓注音,AR TsauMeiZuinn Hv,Traditional Chinese Big-5
+1532419302706,文鼎TX 暖心體_D,AR TXNuanXinB5 DB,Traditional Chinese Big-5
 1490259388382,文鼎UD晶熙黑體 E1B5Pro_B,AR UDJingXiHeiE1B5Pro BD,Traditional Chinese Big-5
 1490259179160,文鼎UD晶熙黑體 E1B5Pro_D,AR UDJingXiHeiE1B5Pro DB,Traditional Chinese Big-5
 1490259645108,文鼎UD晶熙黑體 E1B5Pro_E,AR UDJingXiHeiE1B5Pro EB,Traditional Chinese Big-5
@@ -908,7 +966,7 @@ font_id,name,name_en,Font Format
 1491546184595,文鼎楷體外字_M,AR KaiEXT MD,Traditional Chinese Big-5(EXT)
 1491545676452,文鼎明體外字_M,AR MingEXT MD,Traditional Chinese Big-5(EXT)
 1491546725429,文鼎新黑體外字_M,AR NewHeiEXT MD,Traditional Chinese Big-5(EXT)
-1516758730004,文鼎方新書H7B5Std_H,AR FangXinShuH7B5Std HV,Traditional Chinese CNS1-0
+1516758730004,文鼎方新書H7B5Std_H,AR FangXinShuH7B5Std HV,Traditional Chinese CNS1-0/Simplified Chinese GB18030
 1434440978550,文鼎黑體U30_M,AR HeiU30 MD,Traditional Chinese Unicode3.0
 1509328690000,文鼎楷體U30_M,AR KaiU30 MD,Traditional Chinese Unicode3.0
 1434441012846,文鼎隸書U30_M,AR LiShuU30 MD,Traditional Chinese Unicode3.0
