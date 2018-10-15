@@ -23,6 +23,7 @@ font_id,name,name_en,Font Format
 1528956535250,ARゴシック体_M,AR GothicJP MD,Japanese JIS 0208-2004
 1505879562012,ARゴシック体_U,AR GothicJP UL,Japanese JIS 0208-2004
 1534816913110,AR行楷書体_H,AR GyokaishoJP HV,Japanese JIS 0208-2004
+1537932281607,AR行楷書体_L,AR GyokaishoJP LT,Japanese JIS 0208-2004
 1534816913108,AR行書体_B,AR GyoshoJP BD,Japanese JIS 0208-2004
 1534816913109,AR行書体_M,AR GyoshoJP MD,Japanese JIS 0208-2004
 1521599620006,AR花文字梅_U,AR HanamojiUmeJP UL,Japanese JIS 0208-2004
@@ -32,10 +33,12 @@ font_id,name,name_en,Font Format
 1521599620002,AR板体_B,AR ItataiJP BD,Japanese JIS 0208-2004
 1521599620003,AR板体_E,AR ItataiJP EB,Japanese JIS 0208-2004
 1521599620004,AR板体_H,AR ItataiJP HV,Japanese JIS 0208-2004
+1537932281609,AR勘亭流_H,AR KanteiryuJP HV,Japanese JIS 0208-2004
 1532419302756,AR古印体_B,AR KoinJP BD,Japanese JIS 0208-2004
 1521599620007,AR教科書体_M,AR KyokashoJP MD,Japanese JIS 0208-2004
 1508809430000,ARマーカー体_E,AR MarkerJP EB,Japanese JIS 0208-2004
 1508809430001,ARマッチ体_B,AR MatchJP BD,Japanese JIS 0208-2004
+1537932281608,AR明朝体_L,AR MinchoJP LT,Japanese JIS 0208-2004
 1511316200002,AR明朝体_U,AR MinchoJP UL,Japanese JIS 0208-2004
 1503644840001,ARなごみＰＯＰ体_B,AR NagomipopJP BD,Japanese JIS 0208-2004
 1528956535251,ARペン行楷書体_L,AR PengyokaishoJP LT,Japanese JIS 0208-2004
@@ -508,10 +511,16 @@ font_id,name,name_en,Font Format
 1534816913103,文鼎UD晶熙黑体E1C90G30_E,AR UDJingXiHeiE1C90G30 EB,Simplified Chinese GB18030
 1534816913104,文鼎UD晶熙黑体E1C90G30_H,AR UDJingXiHeiE1C90G30 HV,Simplified Chinese GB18030
 1534816913100,文鼎UD晶熙黑体E1C90G30_M,AR UDJingXiHeiE1C90G30 MD,Simplified Chinese GB18030
+1537932281613,文鼎UD晶熙黑体E1C95G30_B,AR UDJingXiHeiE1C95G30 BD,Simplified Chinese GB18030
+1537932281612,文鼎UD晶熙黑体E1C95G30_D,AR UDJingXiHeiE1C95G30 DB,Simplified Chinese GB18030
+1537932281614,文鼎UD晶熙黑体E1C95G30_E,AR UDJingXiHeiE1C95G30 EB,Simplified Chinese GB18030
+1537932281615,文鼎UD晶熙黑体E1C95G30_H,AR UDJingXiHeiE1C95G30 HV,Simplified Chinese GB18030
+1537932281611,文鼎UD晶熙黑体E1C95G30_M,AR UDJingXiHeiE1C95G30 MD,Simplified Chinese GB18030
 1453701747164,文鼎UD晶熙黑体E1G30_B,AR UDJingXiHeiE1G30 BD,Simplified Chinese GB18030
 1453701715124,文鼎UD晶熙黑体E1G30_D,AR UDJingXiHeiE1G30 DB,Simplified Chinese GB18030
 1453701803668,文鼎UD晶熙黑体E1G30_E,AR UDJingXiHeiE1G30 EB,Simplified Chinese GB18030
 1453701888508,文鼎UD晶熙黑体E1G30_H,AR UDJingXiHeiE1G30 HV,Simplified Chinese GB18030
+1537932281610,文鼎UD晶熙黑体E1G30_L,AR UDJingXiHeiE1G30 LT,Simplified Chinese GB18030
 1453701602689,文鼎UD晶熙黑体E1G30_M,AR UDJingXiHeiE1G30 MD,Simplified Chinese GB18030
 1458024724482,文鼎UD晶熙黑体E1XG30_B,AR UDJingXiHeiE1XG30 BD,Simplified Chinese GB18030
 1458024663444,文鼎UD晶熙黑体E1XG30_D,AR UDJingXiHeiE1XG30 DB,Simplified Chinese GB18030
@@ -699,11 +708,23 @@ font_id,name,name_en,Font Format
 1459491650847,文鼎方新書H7_H,AR FangXinShuH7B5 HV,Traditional Chinese Big-5
 1524624380006,文鼎方新書H7_M,AR FangXinShuH7B5 MD,Traditional Chinese Big-5
 1516758730004,文鼎方新書H7B5Std_H,AR FangXinShuH7B5Std HV,Traditional Chinese Big-5
+1535435920002,文鼎方新書H7C80_B,AR FangXinShuH7C80B5 BD,Traditional Chinese Big-5
+1535435920001,文鼎方新書H7C80_D,AR FangXinShuH7C80B5 DB,Traditional Chinese Big-5
+1535435920003,文鼎方新書H7C80_E,AR FangXinShuH7C80B5 EB,Traditional Chinese Big-5
 1473749911788,文鼎方新書H7C80_H,AR FangXinShuH7C80B5 HV,Traditional Chinese Big-5
+1535435920000,文鼎方新書H7C80_M,AR FangXinShuH7C80B5 MD,Traditional Chinese Big-5
 1479450615304,文鼎方新書H7C80D_H,AR FangXinShuH7C80DB5 HV,Traditional Chinese Big-5
+1535435920007,文鼎方新書H7C90_B,AR FangXinShuH7C90B5 BD,Traditional Chinese Big-5
+1535435920006,文鼎方新書H7C90_D,AR FangXinShuH7C90B5 DB,Traditional Chinese Big-5
+1535435920008,文鼎方新書H7C90_E,AR FangXinShuH7C90B5 EB,Traditional Chinese Big-5
 1473750636853,文鼎方新書H7C90_H,AR FangXinShuH7C90B5 HV,Traditional Chinese Big-5
+1535435920005,文鼎方新書H7C90_M,AR FangXinShuH7C90B5 MD,Traditional Chinese Big-5
 1479450915844,文鼎方新書H7C90D_H,AR FangXinShuH7C90DB5 HV,Traditional Chinese Big-5
+1535435920012,文鼎方新書H7C95_B,AR FangXinShuH7C95B5 BD,Traditional Chinese Big-5
+1535435920011,文鼎方新書H7C95_D,AR FangXinShuH7C95B5 DB,Traditional Chinese Big-5
+1535435920013,文鼎方新書H7C95_E,AR FangXinShuH7C95B5 EB,Traditional Chinese Big-5
 1473751668413,文鼎方新書H7C95_H,AR FangXinShuH7C95B5 HV,Traditional Chinese Big-5
+1535435920010,文鼎方新書H7C95_M,AR FangXinShuH7C95B5 MD,Traditional Chinese Big-5
 1479451125204,文鼎方新書H7C95D_H,AR FangXinShuH7C95DB5 HV,Traditional Chinese Big-5
 1361426607269,文鼎鋼筆行楷_B,AR GangBiXingKaiB5 BD,Traditional Chinese Big-5
 1424932705742,文鼎鋼筆行楷_L,AR GangBiXingKaiB5 LT,Traditional Chinese Big-5
@@ -975,6 +996,7 @@ font_id,name,name_en,Font Format
 1434618041592,文鼎UD晶熙黑體E1HK_H,AR UDJingXiHeiE1B5HK HV,Traditional Chinese Big-5 + HKSCS-2008
 1434617823073,文鼎UD晶熙黑體E1HK_M,AR UDJingXiHeiE1B5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1497900000002,文鼎圓體HK_M,AR YuanB5HK MD,Traditional Chinese Big-5 + HKSCS-2008
+1537932281601,ARUDJingXiHeiE1B5HKVF(Beta),ARUDJingXiHeiE1B5HKVF(Beta),Traditional Chinese Big-5 + HKSCS-2008
 1491546184595,文鼎楷體外字_M,AR KaiEXT MD,Traditional Chinese Big-5(EXT)
 1491545676452,文鼎明體外字_M,AR MingEXT MD,Traditional Chinese Big-5(EXT)
 1491546725429,文鼎新黑體外字_M,AR NewHeiEXT MD,Traditional Chinese Big-5(EXT)
