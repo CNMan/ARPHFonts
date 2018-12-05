@@ -685,6 +685,8 @@ font_id,name,name_en,Font Format
 1458111021297,文鼎DC黄阳尖魏体_B,AR DCHYJianWeiGB BD,Simplified Chinese GB2312+GB12345
 1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese GB2312+GB12345
 1508809430003,文鼎DC云康钢笔行楷_B,AR DCYKPenXingKaiGB BD,Simplified Chinese GB2312+GB12345
+1542765204302,文鼎UD晶熙黑体E1GB_HR,AR UDJingXiHeiE1GB HR,Simplified Chinese GB2312+GB12345
+1542765204303,文鼎UD晶熙黑体E1GB_TH,AR UDJingXiHeiE1GB TH,Simplified Chinese GB2312+GB12345
 1500886655012,文鼎方新书H7GBK_H,AR FangXinShuH7GBK HV,Simplified Chinese GBK
 1424932858380,文鼎水瓶座_U,AR AquariusAB5 UL,Traditional Chinese Big-5
 1361442892741,文鼎板刻ＰＯＰ體_E,AR BanKePOPB5 EB,Traditional Chinese Big-5
@@ -1001,6 +1003,7 @@ font_id,name,name_en,Font Format
 1434617888934,文鼎UD晶熙黑體E1HK_D,AR UDJingXiHeiE1B5HK DB,Traditional Chinese Big-5 + HKSCS-2008
 1434617996306,文鼎UD晶熙黑體E1HK_E,AR UDJingXiHeiE1B5HK EB,Traditional Chinese Big-5 + HKSCS-2008
 1434618041592,文鼎UD晶熙黑體E1HK_H,AR UDJingXiHeiE1B5HK HV,Traditional Chinese Big-5 + HKSCS-2008
+1542765204301,文鼎UD晶熙黑體E1HK_L,AR UDJingXiHeiE1B5HK LT,Traditional Chinese Big-5 + HKSCS-2008
 1434617823073,文鼎UD晶熙黑體E1HK_M,AR UDJingXiHeiE1B5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1497900000002,文鼎圓體HK_M,AR YuanB5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1537932281601,ARUDJingXiHeiE1B5HKVF(Beta),ARUDJingXiHeiE1B5HKVF(Beta),Traditional Chinese Big-5 + HKSCS-2008
