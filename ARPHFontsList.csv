@@ -14,6 +14,16 @@ font_id,name,name_en,Font Format
 1472613635783,AR NewHebeSansTh DB,AR NewHebeSansTh DB,Complexi codepage 874
 1472613886249,AR NewHebeSansTh EB,AR NewHebeSansTh EB,Complexi codepage 874
 1472613962376,AR NewHebeSansTh HV,AR NewHebeSansTh HV,Complexi codepage 874
+1545792181106,AR NewHebeSansKm,AR NewHebeSansKm,Complexi Khmer
+1545792181108,AR NewHebeSansKm BD,AR NewHebeSansKm BD,Complexi Khmer
+1545792181107,AR NewHebeSansKm DB,AR NewHebeSansKm DB,Complexi Khmer
+1545792181109,AR NewHebeSansKm EB,AR NewHebeSansKm EB,Complexi Khmer
+1545792181110,AR NewHebeSansKm HV,AR NewHebeSansKm HV,Complexi Khmer
+1545792181111,AR NewHebeSansLo,AR NewHebeSansLo,Complexi Lao
+1545792181113,AR NewHebeSansLo BD,AR NewHebeSansLo BD,Complexi Lao
+1545792181112,AR NewHebeSansLo DB,AR NewHebeSansLo DB,Complexi Lao
+1545792181114,AR NewHebeSansLo EB,AR NewHebeSansLo EB,Complexi Lao
+1545792181115,AR NewHebeSansLo HV,AR NewHebeSansLo HV,Complexi Lao
 1442390372404,AR UD 晶熙ゴシック体Aktiv_D,AR UDJingXiHeiAktivJP DB,Japanese JIS 0208
 1442390470677,AR UD 晶熙ゴシック体Aktiv_E,AR UDJingXiHeiAktivJP EB,Japanese JIS 0208
 1442390543233,AR UD 晶熙ゴシック体Aktiv_H,AR UDJingXiHeiAktivJP HV,Japanese JIS 0208
@@ -73,6 +83,11 @@ font_id,name,name_en,Font Format
 1503644840005,AR丸印篆_L,AR WanyinzhuaiJP LT,Japanese JIS 0208-2004
 1503644840007,AR悠々ゴシック体_E,AR YuyuGothicJP EB,Japanese JIS 0208-2004
 1457343158305,AR MyungjoKR MD,AR MyungjoKR MD,Korean KS X 1001 (Hangul Only)
+1545792181118,AR UDJingXiHeiE1KR BD,AR UDJingXiHeiE1KR BD,Korean KS X 1001 (Hangul Only)
+1545792181117,AR UDJingXiHeiE1KR DB,AR UDJingXiHeiE1KR DB,Korean KS X 1001 (Hangul Only)
+1545792181119,AR UDJingXiHeiE1KR EB,AR UDJingXiHeiE1KR EB,Korean KS X 1001 (Hangul Only)
+1545792181120,AR UDJingXiHeiE1KR HV,AR UDJingXiHeiE1KR HV,Korean KS X 1001 (Hangul Only)
+1545792181116,AR UDJingXiHeiE1KR MD,AR UDJingXiHeiE1KR MD,Korean KS X 1001 (Hangul Only)
 1457344093562,GungSeo Medium,GungSeo Medium,Korean KS X 1001 (Hangul Only)
 1444030633725,Sandoll GothicNeo1 03 Light,Sandoll GothicNeo1 03 Light,Korean KS X 1001 (Hangul Only)
 1444030687435,Sandoll GothicNeo1 05 Medium,Sandoll GothicNeo1 05 Medium,Korean KS X 1001 (Hangul Only)
@@ -685,8 +700,8 @@ font_id,name,name_en,Font Format
 1458111021297,文鼎DC黄阳尖魏体_B,AR DCHYJianWeiGB BD,Simplified Chinese GB2312+GB12345
 1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese GB2312+GB12345
 1508809430003,文鼎DC云康钢笔行楷_B,AR DCYKPenXingKaiGB BD,Simplified Chinese GB2312+GB12345
-1542765204302,文鼎UD晶熙黑体E1GB_HR,AR UDJingXiHeiE1GB HR,Simplified Chinese GB2312+GB12345
-1542765204303,文鼎UD晶熙黑体E1GB_TH,AR UDJingXiHeiE1GB TH,Simplified Chinese GB2312+GB12345
+1542765204302,文鼎UD晶熙黑体E1_HR,AR UDJingXiHeiE1GB HR,Simplified Chinese GB2312+GB12345
+1542765204303,文鼎UD晶熙黑体E1_TH,AR UDJingXiHeiE1GB TH,Simplified Chinese GB2312+GB12345
 1500886655012,文鼎方新书H7GBK_H,AR FangXinShuH7GBK HV,Simplified Chinese GBK
 1424932858380,文鼎水瓶座_U,AR AquariusAB5 UL,Traditional Chinese Big-5
 1361442892741,文鼎板刻ＰＯＰ體_E,AR BanKePOPB5 EB,Traditional Chinese Big-5
@@ -983,6 +998,11 @@ font_id,name,name_en,Font Format
 1467272783992,文鼎注音窄字,AR ZhuYinNR Md,Traditional Chinese Big-5
 1434439201518,文鼎竹子體_M,AR ZhuZiB5 MD,Traditional Chinese Big-5
 1497900000000,文鼎黑體HK_B,AR HeiB5HK BD,Traditional Chinese Big-5 + HKSCS-2008
+1545792181103,文鼎晶熙潤黑HK_B,AR JingXiRunHeiB5HK BD,Traditional Chinese Big-5 + HKSCS-2008
+1545792181102,文鼎晶熙潤黑HK_D,AR JingXiRunHeiB5HK DB,Traditional Chinese Big-5 + HKSCS-2008
+1545792181104,文鼎晶熙潤黑HK_E,AR JingXiRunHeiB5HK EB,Traditional Chinese Big-5 + HKSCS-2008
+1545792181105,文鼎晶熙潤黑HK_H,AR JingXiRunHeiB5HK HV,Traditional Chinese Big-5 + HKSCS-2008
+1545792181101,文鼎晶熙潤黑HK_M,AR JingXiRunHeiB5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1497900000003,文鼎隸書HK_M,AR LiShuB5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1497900000001,文鼎明體HK_L,AR MingB5HK LT,Traditional Chinese Big-5 + HKSCS-2008
 1442389987040,文鼎UD晶熙黑體AktivBHK_D,AR UDJingXiHeiAktivBHK DB,Traditional Chinese Big-5 + HKSCS-2008

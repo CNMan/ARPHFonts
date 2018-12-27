@@ -231,6 +231,11 @@
 |AR JianGouGB BD.ttf|AR JianGouGB BD|ARJianGouGB-BD|AR JianGouGB BD|Regular|1.10|
 |AR JingJiB5 MD.ttf|AR JingJiB5 MD|ARJingJiB5-MD|AR JingJiB5 MD|Regular|1.00|
 |AR JingJiGB MD.ttf|AR JingJiGB MD|ARJingJiGB-MD|AR JingJiGB MD|Regular|1.00|
+|AR JingXiRunHeiB5HK BD.ttf|AR JingXiRunHeiB5HK BD|ARJingXiRunHeiB5HK-BD|AR JingXiRunHeiB5HK BD|Regular|1.00|
+|AR JingXiRunHeiB5HK DB.ttf|AR JingXiRunHeiB5HK DB|ARJingXiRunHeiB5HK-DB|AR JingXiRunHeiB5HK DB|Regular|1.00|
+|AR JingXiRunHeiB5HK EB.ttf|AR JingXiRunHeiB5HK EB|ARJingXiRunHeiB5HK-EB|AR JingXiRunHeiB5HK EB|Regular|1.00|
+|AR JingXiRunHeiB5HK HV.ttf|AR JingXiRunHeiB5HK HV|ARJingXiRunHeiB5HK-HV|AR JingXiRunHeiB5HK HV|Regular|1.00|
+|AR JingXiRunHeiB5HK MD.ttf|AR JingXiRunHeiB5HK MD|ARJingXiRunHeiB5HK-MD|AR JingXiRunHeiB5HK MD|Regular|1.00|
 |AR JULIAN.ttf|AR JULIAN|ARJULIAN|AR JULIAN|Regular|2.00|
 |AR KaiB5 BD.ttf|AR KaiB5 BD|ARKaiB5-BD|AR KaiB5 BD|Regular|1.00|
 |AR KaiB5 LT.ttf|AR KaiB5 LT|ARKaiB5-LT|AR KaiB5 LT|Regular|1.00|
@@ -296,7 +301,17 @@
 |AR NewHebeSansHe EB.ttf|AR NewHebeSansHe EB|ARNewHebeSansHe-EB|AR NewHebeSansHe EB|Regular|2.00|
 |AR NewHebeSansHe HV.ttf|AR NewHebeSansHe HV|ARNewHebeSansHe-HV|AR NewHebeSansHe HV|Regular|2.00|
 |AR NewHebeSansHe.ttf|AR NewHebeSansHe|ARNewHebeSansHe-Regular|AR NewHebeSansHe|Regular|2.00|
+|AR NewHebeSansKm BD.ttf|AR NewHebeSansKm BD|ARNewHebeSansKm-BD|AR NewHebeSansKm BD|Regular|2.00|
+|AR NewHebeSansKm DB.ttf|AR NewHebeSansKm DB|ARNewHebeSansKm-DB|AR NewHebeSansKm DB|Regular|2.00|
+|AR NewHebeSansKm EB.ttf|AR NewHebeSansKm EB|ARNewHebeSansKm-EB|AR NewHebeSansKm EB|Regular|2.00|
+|AR NewHebeSansKm HV.ttf|AR NewHebeSansKm HV|ARNewHebeSansKm-HV|AR NewHebeSansKm HV|Regular|2.00|
+|AR NewHebeSansKm.ttf|AR NewHebeSansKm|ARNewHebeSansKm-Regular|AR NewHebeSansKm|Regular|2.00|
 |AR New Hebe Sans Light.ttf|AR New Hebe Sans Light|ARNewHebeSans-Light|AR New Hebe Sans Light|Regular|1.00|
+|AR NewHebeSansLo BD.ttf|AR NewHebeSansLo BD|ARNewHebeSansLo-BD|AR NewHebeSansLo BD|Regular|2.00|
+|AR NewHebeSansLo DB.ttf|AR NewHebeSansLo DB|ARNewHebeSansLo-DB|AR NewHebeSansLo DB|Regular|2.00|
+|AR NewHebeSansLo EB.ttf|AR NewHebeSansLo EB|ARNewHebeSansLo-EB|AR NewHebeSansLo EB|Regular|2.00|
+|AR NewHebeSansLo HV.ttf|AR NewHebeSansLo HV|ARNewHebeSansLo-HV|AR NewHebeSansLo HV|Regular|2.00|
+|AR NewHebeSansLo.ttf|AR NewHebeSansLo|ARNewHebeSansLo-Regular|AR NewHebeSansLo|Regular|2.00|
 |AR NewHebeSansTh BD.ttf|AR NewHebeSansTh BD|ARNewHebeSansTh-BD|AR NewHebeSansTh BD|Regular|2.00|
 |AR NewHebeSansTh DB.ttf|AR NewHebeSansTh DB|ARNewHebeSansTh-DB|AR NewHebeSansTh DB|Regular|2.00|
 |AR NewHebeSansTh EB.ttf|AR NewHebeSansTh EB|ARNewHebeSansTh-EB|AR NewHebeSansTh EB|Regular|2.00|
@@ -467,6 +482,11 @@
 |ARUDJingXiHeiE1G30VF(Beta).ttf|ARUDJingXiHeiE1G30VF(Beta)|ARUDJingXiHeiE1G30VF-Beta|ARUDJingXiHeiE1G30VF(Beta)|Regular|1.20 - The font is released for beta test|
 |AR UDJingXiHeiE1GB HR.ttf|AR UDJingXiHeiE1GB HR|ARUDJingXiHeiE1GB-HR|AR UDJingXiHeiE1GB HR|Regular|1.00|
 |AR UDJingXiHeiE1GB TH.ttf|AR UDJingXiHeiE1GB TH|ARUDJingXiHeiE1GB-TH|AR UDJingXiHeiE1GB TH|Regular|1.00|
+|AR UDJingXiHeiE1KR BD.ttf|AR UDJingXiHeiE1KR BD|ARUDJingXiHeiE1KR-BD|AR UDJingXiHeiE1KR BD|Regular|1.00|
+|AR UDJingXiHeiE1KR DB.ttf|AR UDJingXiHeiE1KR DB|ARUDJingXiHeiE1KR-DB|AR UDJingXiHeiE1KR DB|Regular|1.00|
+|AR UDJingXiHeiE1KR EB.ttf|AR UDJingXiHeiE1KR EB|ARUDJingXiHeiE1KR-EB|AR UDJingXiHeiE1KR EB|Regular|1.00|
+|AR UDJingXiHeiE1KR HV.ttf|AR UDJingXiHeiE1KR HV|ARUDJingXiHeiE1KR-HV|AR UDJingXiHeiE1KR HV|Regular|1.00|
+|AR UDJingXiHeiE1KR MD.ttf|AR UDJingXiHeiE1KR MD|ARUDJingXiHeiE1KR-MD|AR UDJingXiHeiE1KR MD|Regular|1.00|
 |AR UDShuYuanHeiB5 BD.ttf|AR UDShuYuanHeiB5 BD|ARUDShuyuanheiB5-Bold|AR UDShuYuanHeiB5 BD|Regular|1.10|
 |AR UDShuYuanHeiB5 MD.ttf|AR UDShuYuanHeiB5 MD|ARUDShuYuanHeiB5-MD|AR UDShuYuanHeiB5 MD|Regular|1.10|
 |AR Verdure Sans Demibold.ttf|AR Verdure Sans Demibold|ARVerdureSans-Demibold|AR Verdure Sans Demibold|Regular|1.00|
