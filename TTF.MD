@@ -167,6 +167,11 @@
 |AR FangXinShuH7C95DGB HV.ttf|AR FangXinShuH7C95DGB HV|ARFangXinShuH7C95DGB-HV|AR FangXinShuH7C95DGB HV|Regular|1.30|
 |AR FangXinShuH7C95GB HV.ttf|AR FangXinShuH7C95GB HV|ARFangXinShuH7C95GB-HV|AR FangXinShuH7C95GB HV|Regular|1.30|
 |AR FangXinShuH7C95GB MD.ttf|AR FangXinShuH7C95GB MD|ARFangXinShuH7C95GB-MD|AR FangXinShuH7C95GB MD|Regular|1.00|
+|AR FangXinShuH7G30 BD.ttf|AR FangXinShuH7G30 BD|ARFangXinShuH7G30-BD|AR FangXinShuH7G30 BD|Regular|1.00|
+|AR FangXinShuH7G30 DB.ttf|AR FangXinShuH7G30 DB|ARFangXinShuH7G30-DB|AR FangXinShuH7G30 DB|Regular|1.00|
+|AR FangXinShuH7G30 EB.ttf|AR FangXinShuH7G30 EB|ARFangXinShuH7G30-EB|AR FangXinShuH7G30 EB|Regular|1.00|
+|AR FangXinShuH7G30 HV.ttf|AR FangXinShuH7G30 HV|ARFangXinShuH7G30-HV|AR FangXinShuH7G30 HV|Regular|1.00|
+|AR FangXinShuH7G30 MD.ttf|AR FangXinShuH7G30 MD|ARFangXinShuH7G30-MD|AR FangXinShuH7G30 MD|Regular|1.00|
 |AR FangXinShuH7GB BD.ttf|AR FangXinShuH7GB BD|ARFangXinShuH7GB-BD|AR FangXinShuH7GB BD|Regular|1.00|
 |AR FangXinShuH7GB DB.ttf|AR FangXinShuH7GB DB|ARFangXinShuH7GB-DB|AR FangXinShuH7GB DB|Regular|1.00|
 |AR FangXinShuH7GB EB.ttf|AR FangXinShuH7GB EB|ARFangXinShuH7GB-EB|AR FangXinShuH7GB EB|Regular|1.00|
@@ -482,6 +487,7 @@
 |ARUDJingXiHeiE1G30VF(Beta).ttf|ARUDJingXiHeiE1G30VF(Beta)|ARUDJingXiHeiE1G30VF-Beta|ARUDJingXiHeiE1G30VF(Beta)|Regular|1.20 - The font is released for beta test|
 |AR UDJingXiHeiE1GB HR.ttf|AR UDJingXiHeiE1GB HR|ARUDJingXiHeiE1GB-HR|AR UDJingXiHeiE1GB HR|Regular|1.00|
 |AR UDJingXiHeiE1GB TH.ttf|AR UDJingXiHeiE1GB TH|ARUDJingXiHeiE1GB-TH|AR UDJingXiHeiE1GB TH|Regular|1.00|
+|AR UDJingXiHeiE1GB UBL.ttf|AR UDJingXiHeiE1GB UBL|ARUDJingXiHeiE1GB-UBL|AR UDJingXiHeiE1GB UBL|Regular|1.00|
 |AR UDJingXiHeiE1KR BD.ttf|AR UDJingXiHeiE1KR BD|ARUDJingXiHeiE1KR-BD|AR UDJingXiHeiE1KR BD|Regular|1.00|
 |AR UDJingXiHeiE1KR DB.ttf|AR UDJingXiHeiE1KR DB|ARUDJingXiHeiE1KR-DB|AR UDJingXiHeiE1KR DB|Regular|1.00|
 |AR UDJingXiHeiE1KR EB.ttf|AR UDJingXiHeiE1KR EB|ARUDJingXiHeiE1KR-EB|AR UDJingXiHeiE1KR EB|Regular|1.00|

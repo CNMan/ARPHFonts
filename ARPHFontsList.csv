@@ -514,6 +514,11 @@ font_id,name,name_en,Font Format
 1434617285477,文鼎晶栩中粗黑G30,AR CrystalHeiG30 DB,Simplified Chinese GB18030
 1434617320818,文鼎晶栩中黑G30,AR CrystalHeiG30 MD,Simplified Chinese GB18030
 1436923366415,文鼎DC老外宋G30,AR DCLaoWaiSongG30,Simplified Chinese GB18030
+1548212887264,文鼎方新书H7G30_B,AR FangXinShuH7G30 BD,Simplified Chinese GB18030
+1548212887263,文鼎方新书H7G30_D,AR FangXinShuH7G30 DB,Simplified Chinese GB18030
+1548212887265,文鼎方新书H7G30_E,AR FangXinShuH7G30 EB,Simplified Chinese GB18030
+1548212887266,文鼎方新书H7G30_H,AR FangXinShuH7G30 HV,Simplified Chinese GB18030
+1548212887262,文鼎方新书H7G30_M,AR FangXinShuH7G30 MD,Simplified Chinese GB18030
 1434616586986,文鼎粗钢笔行楷G30,AR GangBiXingKaiG30 BD,Simplified Chinese GB18030
 1434617351262,文鼎中楷体G30,AR KaiG30 MD,Simplified Chinese GB18030
 1434617385214,文鼎大签字笔体G30,AR QianZiBiG30 EB,Simplified Chinese GB18030
@@ -702,6 +707,7 @@ font_id,name,name_en,Font Format
 1508809430003,文鼎DC云康钢笔行楷_B,AR DCYKPenXingKaiGB BD,Simplified Chinese GB2312+GB12345
 1542765204302,文鼎UD晶熙黑体E1_HR,AR UDJingXiHeiE1GB HR,Simplified Chinese GB2312+GB12345
 1542765204303,文鼎UD晶熙黑体E1_TH,AR UDJingXiHeiE1GB TH,Simplified Chinese GB2312+GB12345
+1548212887261,文鼎UD晶熙黑体E1_UBL,AR UDJingXiHeiE1GB UBL,Simplified Chinese GB2312+GB12345
 1500886655012,文鼎方新书H7GBK_H,AR FangXinShuH7GBK HV,Simplified Chinese GBK
 1424932858380,文鼎水瓶座_U,AR AquariusAB5 UL,Traditional Chinese Big-5
 1361442892741,文鼎板刻ＰＯＰ體_E,AR BanKePOPB5 EB,Traditional Chinese Big-5
