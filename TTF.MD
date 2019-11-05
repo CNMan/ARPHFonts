@@ -135,11 +135,22 @@
 |AR FangSongGB BD.ttf|AR FangSongGB BD|ARFangSongGB-BD|AR FangSongGB BD|Regular|1.00|
 |AR FangSongGB LT.ttf|AR FangSongGB LT|ARFangSongGB-LT|AR FangSongGB LT|Regular|1.00|
 |AR FangSongGB MD.ttf|AR FangSongGB MD|ARFangSongGB-MD|AR FangSongGB MD|Regular|1.00|
+|AR FangXinRunYuanB5 BD.ttf|AR FangXinRunYuanB5 BD|ARFangXinRunYuanB5-BD|AR FangXinRunYuanB5 BD|Regular|1.00|
+|AR FangXinRunYuanB5 DB.ttf|AR FangXinRunYuanB5 DB|ARFangXinRunYuanB5-DB|AR FangXinRunYuanB5 DB|Regular|1.00|
+|AR FangXinRunYuanB5 EB.ttf|AR FangXinRunYuanB5 EB|ARFangXinRunYuanB5-EB|AR FangXinRunYuanB5 EB|Regular|1.00|
+|AR FangXinRunYuanB5 HV.ttf|AR FangXinRunYuanB5 HV|ARFangXinRunYuanB5-HV|AR FangXinRunYuanB5 HV|Regular|1.00|
+|AR FangXinRunYuanB5 MD.ttf|AR FangXinRunYuanB5 MD|ARFangXinRunYuanB5-MD|AR FangXinRunYuanB5 MD|Regular|1.00|
+|AR FangXinRunYuanGB BD.ttf|AR FangXinRunYuanGB BD|ARFangXinRunYuanGB-BD|AR FangXinRunYuanGB BD|Regular|1.00|
+|AR FangXinRunYuanGB DB.ttf|AR FangXinRunYuanGB DB|ARFangXinRunYuanGB-DB|AR FangXinRunYuanGB DB|Regular|1.00|
+|AR FangXinRunYuanGB EB.ttf|AR FangXinRunYuanGB EB|ARFangXinRunYuanGB-EB|AR FangXinRunYuanGB EB|Regular|1.00|
+|AR FangXinRunYuanGB HV.ttf|AR FangXinRunYuanGB HV|ARFangXinRunYuanGB-HV|AR FangXinRunYuanGB HV|Regular|1.10|
+|AR FangXinRunYuanGB MD.ttf|AR FangXinRunYuanGB MD|ARFangXinRunYuanGB-MD|AR FangXinRunYuanGB MD|Regular|1.00|
 |AR FangXinShuH7B5 BD.ttf|AR FangXinShuH7B5 BD|ARFangXinShuH7B5-BD|AR FangXinShuH7B5 BD|Regular|1.00|
 |AR FangXinShuH7B5 DB.ttf|AR FangXinShuH7B5 DB|ARFangXinShuH7B5-DB|AR FangXinShuH7B5 DB|Regular|1.00|
 |AR FangXinShuH7B5 EB.ttf|AR FangXinShuH7B5 EB|ARFangXinShuH7B5-EB|AR FangXinShuH7B5 EB|Regular|1.00|
 |AR FangXinShuH7B5 HV.ttf||||||
 |AR FangXinShuH7B5 MD.ttf|AR FangXinShuH7B5 MD|ARFangXinShuH7B5-MD|AR FangXinShuH7B5 MD|Regular|1.10|
+|ARFangXinShuH7B5VF(Beta).ttf|ARFangXinShuH7B5VF(Beta)|ARFangXinShuH7B5VF-Beta|ARFangXinShuH7B5VF(Beta)|Regular|1.00|
 |AR FangXinShuH7C80B5 BD.ttf|AR FangXinShuH7C80B5 BD|ARFangXinShuH7C80B5-BD|AR FangXinShuH7C80B5 BD|Regular|1.00|
 |AR FangXinShuH7C80B5 DB.ttf|AR FangXinShuH7C80B5 DB|ARFangXinShuH7C80B5-DB|AR FangXinShuH7C80B5 DB|Regular|1.00|
 |AR FangXinShuH7C80B5 EB.ttf|AR FangXinShuH7C80B5 EB|ARFangXinShuH7C80B5-EB|AR FangXinShuH7C80B5 EB|Regular|1.00|
@@ -147,6 +158,11 @@
 |AR FangXinShuH7C80B5 MD.ttf|AR FangXinShuH7C80B5 MD|ARFangXinShuH7C80B5-MD|AR FangXinShuH7C80B5 MD|Regular|1.00|
 |AR FangXinShuH7C80DB5 HV.ttf|AR FangXinShuH7C80DB5 HV|ARFangXinShuH7C80DB5-HV|AR FangXinShuH7C80DB5 HV|Regular|1.30|
 |AR FangXinShuH7C80DGB HV.ttf|AR FangXinShuH7C80DGB HV|ARFangXinShuH7C80DGB-HV|AR FangXinShuH7C80DGB HV|Regular|1.30|
+|AR FangXinShuH7C80G30 BD.ttf|AR FangXinShuH7C80G30 BD|ARFangXinShuH7C80G30-BD|AR FangXinShuH7C80G30 BD|Regular|1.00|
+|AR FangXinShuH7C80G30 DB.ttf|AR FangXinShuH7C80G30 DB|ARFangXinShuH7C80G30-DB|AR FangXinShuH7C80G30 DB|Regular|1.00|
+|AR FangXinShuH7C80G30 EB.ttf|AR FangXinShuH7C80G30 EB|ARFangXinShuH7C80G30-EB|AR FangXinShuH7C80G30 EB|Regular|1.00|
+|AR FangXinShuH7C80G30 HV.ttf|AR FangXinShuH7C80G30 HV|ARFangXinShuH7C80G30-HV|AR FangXinShuH7C80G30 HV|Regular|1.00|
+|AR FangXinShuH7C80G30 MD.ttf|AR FangXinShuH7C80G30 MD|ARFangXinShuH7C80G30-MD|AR FangXinShuH7C80G30 MD|Regular|1.00|
 |AR FangXinShuH7C80GB HV.ttf|AR FangXinShuH7C80GB HV|ARFangXinShuH7C80GB-HV|AR FangXinShuH7C80GB HV|Regular|1.30|
 |AR FangXinShuH7C80GB MD.ttf|AR FangXinShuH7C80GB MD|ARFangXinShuH7C80GB-MD|AR FangXinShuH7C80GB MD|Regular|1.00|
 |AR FangXinShuH7C90B5 BD.ttf|AR FangXinShuH7C90B5 BD|ARFangXinShuH7C90B5-BD|AR FangXinShuH7C90B5 BD|Regular|1.00|
@@ -156,15 +172,25 @@
 |AR FangXinShuH7C90B5 MD.ttf|AR FangXinShuH7C90B5 MD|ARFangXinShuH7C90B5-MD|AR FangXinShuH7C90B5 MD|Regular|1.00|
 |AR FangXinShuH7C90DB5 HV.ttf|AR FangXinShuH7C90DB5 HV|ARFangXinShuH7C90DB5-HV|AR FangXinShuH7C90DB5 HV|Regular|1.30|
 |AR FangXinShuH7C90DGB HV.ttf|AR FangXinShuH7C90DGB HV|ARFangXinShuH7C90DGB-HV|AR FangXinShuH7C90DGB HV|Regular|1.30|
+|AR FangXinShuH7C90G30 BD.ttf|AR FangXinShuH7C90G30 BD|ARFangXinShuH7C90G30-BD|AR FangXinShuH7C90G30 BD|Regular|1.00|
+|AR FangXinShuH7C90G30 DB.ttf|AR FangXinShuH7C90G30 DB|ARFangXinShuH7C90G30-DB|AR FangXinShuH7C90G30 DB|Regular|1.00|
+|AR FangXinShuH7C90G30 EB.ttf|AR FangXinShuH7C90G30 EB|ARFangXinShuH7C90G30-EB|AR FangXinShuH7C90G30 EB|Regular|1.00|
+|AR FangXinShuH7C90G30 HV.ttf|AR FangXinShuH7C90G30 HV|ARFangXinShuH7C90G30-HV|AR FangXinShuH7C90G30 HV|Regular|1.00|
+|AR FangXinShuH7C90G30 MD.ttf|AR FangXinShuH7C90G30 MD|ARFangXinShuH7C90G30-MD|AR FangXinShuH7C90G30 MD|Regular|1.00|
 |AR FangXinShuH7C90GB HV.ttf|AR FangXinShuH7C90GB HV|ARFangXinShuH7C90GB-HV|AR FangXinShuH7C90GB HV|Regular|1.30|
 |AR FangXinShuH7C90GB MD.ttf|AR FangXinShuH7C90GB MD|ARFangXinShuH7C90GB-MD|AR FangXinShuH7C90GB MD|Regular|1.00|
 |AR FangXinShuH7C95B5 BD.ttf|AR FangXinShuH7C95B5 BD|ARFangXinShuH7C95B5-BD|AR FangXinShuH7C95B5 BD|Regular|1.00|
-|AR FangXinShuH7C95B5 DB.ttf|AR FangXinShuH7C90B5 DB|ARFangXinShuH7C95B5-DB|AR FangXinShuH7C95B5 DB|Regular|1.00|
-|AR FangXinShuH7C95B5 EB.ttf|AR FangXinShuH7C90B5 EB|ARFangXinShuH7C95B5-EB|AR FangXinShuH7C95B5 EB|Regular|1.00|
-|AR FangXinShuH7C95B5 HV.ttf|AR FangXinShuH7C90B5 HV|ARFangXinShuH7C95B5-HV|AR FangXinShuH7C95B5 HV|Regular|1.50|
-|AR FangXinShuH7C95B5 MD.ttf|AR FangXinShuH7C90B5 MD|ARFangXinShuH7C95B5-MD|AR FangXinShuH7C95B5 MD|Regular|1.00|
+|AR FangXinShuH7C95B5 DB.ttf|AR FangXinShuH7C95B5 DB|ARFangXinShuH7C95B5-DB|AR FangXinShuH7C95B5 DB|Regular|1.00|
+|AR FangXinShuH7C95B5 EB.ttf|AR FangXinShuH7C95B5 EB|ARFangXinShuH7C95B5-EB|AR FangXinShuH7C95B5 EB|Regular|1.00|
+|AR FangXinShuH7C95B5 HV.ttf|AR FangXinShuH7C95B5 HV|ARFangXinShuH7C95B5-HV|AR FangXinShuH7C95B5 HV|Regular|1.50|
+|AR FangXinShuH7C95B5 MD.ttf|AR FangXinShuH7C95B5 MD|ARFangXinShuH7C95B5-MD|AR FangXinShuH7C95B5 MD|Regular|1.00|
 |AR FangXinShuH7C95DB5 HV.ttf|AR FangXinShuH7C95DB5 HV|ARFangXinShuH7C95DB5-HV|AR FangXinShuH7C95DB5 HV|Regular|1.30|
 |AR FangXinShuH7C95DGB HV.ttf|AR FangXinShuH7C95DGB HV|ARFangXinShuH7C95DGB-HV|AR FangXinShuH7C95DGB HV|Regular|1.30|
+|AR FangXinShuH7C95G30 BD.ttf|AR FangXinShuH7C95G30 BD|ARFangXinShuH7C95G30-BD|AR FangXinShuH7C95G30 BD|Regular|1.00|
+|AR FangXinShuH7C95G30 DB.ttf|AR FangXinShuH7C95G30 DB|ARFangXinShuH7C95G30-DB|AR FangXinShuH7C95G30 DB|Regular|1.00|
+|AR FangXinShuH7C95G30 EB.ttf|AR FangXinShuH7C95G30 EB|ARFangXinShuH7C95G30-EB|AR FangXinShuH7C95G30 EB|Regular|1.00|
+|AR FangXinShuH7C95G30 HV.ttf|AR FangXinShuH7C95G30 HV|ARFangXinShuH7C95G30-HV|AR FangXinShuH7C95G30 HV|Regular|1.00|
+|AR FangXinShuH7C95G30 MD.ttf|AR FangXinShuH7C95G30 MD|ARFangXinShuH7C95G30-MD|AR FangXinShuH7C95G30 MD|Regular|1.00|
 |AR FangXinShuH7C95GB HV.ttf|AR FangXinShuH7C95GB HV|ARFangXinShuH7C95GB-HV|AR FangXinShuH7C95GB HV|Regular|1.30|
 |AR FangXinShuH7C95GB MD.ttf|AR FangXinShuH7C95GB MD|ARFangXinShuH7C95GB-MD|AR FangXinShuH7C95GB MD|Regular|1.00|
 |AR FangXinShuH7G30 BD.ttf|AR FangXinShuH7G30 BD|ARFangXinShuH7G30-BD|AR FangXinShuH7G30 BD|Regular|1.00|
@@ -172,6 +198,7 @@
 |AR FangXinShuH7G30 EB.ttf|AR FangXinShuH7G30 EB|ARFangXinShuH7G30-EB|AR FangXinShuH7G30 EB|Regular|1.00|
 |AR FangXinShuH7G30 HV.ttf|AR FangXinShuH7G30 HV|ARFangXinShuH7G30-HV|AR FangXinShuH7G30 HV|Regular|1.00|
 |AR FangXinShuH7G30 MD.ttf|AR FangXinShuH7G30 MD|ARFangXinShuH7G30-MD|AR FangXinShuH7G30 MD|Regular|1.00|
+|ARFangXinShuH7G30VF(Beta).ttf|ARFangXinShuH7G30VF(Beta)|ARFangXinShuH7G30VF-Beta|ARFangXinShuH7G30VF(Beta)|Regular|1.00 - The font is released for beta test|
 |AR FangXinShuH7GB BD.ttf|AR FangXinShuH7GB BD|ARFangXinShuH7GB-BD|AR FangXinShuH7GB BD|Regular|1.00|
 |AR FangXinShuH7GB DB.ttf|AR FangXinShuH7GB DB|ARFangXinShuH7GB-DB|AR FangXinShuH7GB DB|Regular|1.00|
 |AR FangXinShuH7GB EB.ttf|AR FangXinShuH7GB EB|ARFangXinShuH7GB-EB|AR FangXinShuH7GB EB|Regular|1.00|
@@ -241,6 +268,16 @@
 |AR JingXiRunHeiB5HK EB.ttf|AR JingXiRunHeiB5HK EB|ARJingXiRunHeiB5HK-EB|AR JingXiRunHeiB5HK EB|Regular|1.00|
 |AR JingXiRunHeiB5HK HV.ttf|AR JingXiRunHeiB5HK HV|ARJingXiRunHeiB5HK-HV|AR JingXiRunHeiB5HK HV|Regular|1.00|
 |AR JingXiRunHeiB5HK MD.ttf|AR JingXiRunHeiB5HK MD|ARJingXiRunHeiB5HK-MD|AR JingXiRunHeiB5HK MD|Regular|1.00|
+|AR JingXiRunHeiGB BD.ttf|AR JingXiRunHeiGB BD|ARJingXiRunHeiGB-BD|AR JingXiRunHeiGB BD|Regular|1.00|
+|AR JingXiRunHeiGB DB.ttf|AR JingXiRunHeiGB DB|ARJingXiRunHeiGB-DB|AR JingXiRunHeiGB DB|Regular|1.00|
+|AR JingXiRunHeiGB EB.ttf|AR JingXiRunHeiGB EB|ARJingXiRunHeiGB-EB|AR JingXiRunHeiGB EB|Regular|1.00|
+|AR JingXiRunHeiGB HV.ttf|AR JingXiRunHeiGB HV|ARJingXiRunHeiGB-HV|AR JingXiRunHeiGB HV|Regular|1.00|
+|AR JingXiRunHeiGB MD.ttf|AR JingXiRunHeiGB MD|ARJingXiRunHeiGB-MD|AR JingXiRunHeiGB MD|Regular|1.00|
+|AR JingXiRunHeiKR BD.ttf|AR JingXiRunHeiKR BD|ARJingXiRunHeiKR-BD|AR JingXiRunHeiKR BD|Regular|1.00|
+|AR JingXiRunHeiKR DB.ttf|AR JingXiRunHeiKR DB|ARJingXiRunHeiKR-DB|AR JingXiRunHeiKR DB|Regular|1.00|
+|AR JingXiRunHeiKR EB.ttf|AR JingXiRunHeiKR EB|ARJingXiRunHeiKR-EB|AR JingXiRunHeiKR EB|Regular|1.00|
+|AR JingXiRunHeiKR HV.ttf|AR JingXiRunHeiKR HV|ARJingXiRunHeiKR-HV|AR JingXiRunHeiKR HV|Regular|1.00|
+|AR JingXiRunHeiKR MD.ttf|AR JingXiRunHeiKR MD|ARJingXiRunHeiKR-MD|AR JingXiRunHeiKR MD|Regular|1.00|
 |AR JULIAN.ttf|AR JULIAN|ARJULIAN|AR JULIAN|Regular|2.00|
 |AR KaiB5 BD.ttf|AR KaiB5 BD|ARKaiB5-BD|AR KaiB5 BD|Regular|1.00|
 |AR KaiB5 LT.ttf|AR KaiB5 LT|ARKaiB5-LT|AR KaiB5 LT|Regular|1.00|
@@ -283,6 +320,8 @@
 |AR MingEXT MD.ttf|AR MingEXT MD|ARMingEXT-MD|AR MingEXT MD|Regular|1.20|
 |AR MingU30 DB.ttf|AR MingU30 DB|ARMingU30-DB|AR MingU30 DB|Regular|1.00|
 |AR MingU30 LT.ttf|AR MingU30 LT|ARMingU30-LT|AR MingU30 LT|Regular|1.00|
+|AR MochiC90GB BD.ttf|AR MochiC90GB BD|ARMochiC90GB-BD|AR MochiC90GB BD|Regular|1.00|
+|AR MochiC90GB LT.ttf|AR MochiC90GB LT|ARMochiC90GB-LT|AR MochiC90GB LT|Regular|1.00|
 |AR MoHuan401B5.ttf|AR MoHuan401B5|ARMoHuan401B5-Regular|AR MoHuan401B5|Regular|1.00|
 |AR MoHuan402B5.ttf|AR MoHuan402B5|ARMoHuan402B5-Regular|AR MoHuan402B5|Regular|1.00|
 |AR MoHuan501B5.ttf|AR MoHuan501B5|ARMoHuan501B5-Regular|AR MoHuan501B5|Regular|1.00|
@@ -352,9 +391,14 @@
 |AR Pop4B5 BD.ttf|AR Pop4B5 BD|ARPop4B5-BD|AR Pop4B5 BD|Regular|1.00|
 |AR Pop4GB BD.ttf|AR Pop4GB BD|ARPop4GB-BD|AR Pop4GB BD|Regular|1.00|
 |AR QianKunNiuB5 UL.ttf|AR QianKunNiuB5 UL|ARQianKunNiuB5-UL|AR QianKunNiuB5 UL|Regular|1.00|
+|AR QianZiBiB5 DB.ttf|AR QianZiBiB5 DB|ARQianZiBiB5-DB|AR QianZiBiB5 DB|Regular|1.00|
 |AR QianZiBiB5 EB.ttf|AR QianZiBiB5 EB|ARQianZiBiB5-EB|AR QianZiBiB5 EB|Regular|1.00|
+|AR QianZiBiG30 DB.ttf|AR QianZiBiG30 DB|ARQianZiBiG30-DB|AR QianZiBiG30 DB|Regular|1.00|
 |AR QiaoHeiB5 EB.ttf|AR QiaoHeiB5 EB|ARQiaoHeiB5-EB|AR QiaoHeiB5 EB|Regular|1.00|
 |AR QiaoHeiB5 UL.ttf|AR QiaoHeiB5 UL|ARQiaoHeiB5-UL|AR QiaoHeiB5 UL|Regular|1.00|
+|AR QiaoHeiGB BD.ttf|AR QiaoHeiGB BD|ARQiaoHeiGB-BD|AR QiaoHeiGB BD|Regular|1.20|
+|AR QiaoHeiGB EB.ttf|AR QiaoHeiGB EB|ARQiaoHeiGB-EB|AR QiaoHeiGB EB|Regular|1.20|
+|AR QiaoHeiGB HV.ttf|AR QiaoHeiGB HV|ARQiaoHeiGB-HV|AR QiaoHeiGB HV|Regular|1.20|
 |AR QinQinB5 UL.ttf|AR QinQinB5 UL|ARQinQinB5-UL|AR QinQinB5 UL|Regular|1.00|
 |AR RGothic1 Bold.ttf|AR RGothic1 Bold|ARRGothic1-Bold|AR RGothic1 Bold|Regular|2.10|
 |AR RGothic1 Euro Black.ttf|AR RGothic1 Euro Black|ARRGothic1Euro-Black|AR RGothic1 Euro Black|Regular|1.00|
@@ -387,19 +431,19 @@
 |AR Script3 Bold.ttf|AR Script3 Bold|ARScript3-Bold|AR Script3 Bold|Regular|2.10|
 |AR Script5 Bold.ttf|AR Script5 Bold|ARScript5-Bold|AR Script5 Bold|Regular|2.10|
 |AR Script6 Bold.ttf|AR Script6 Bold|ARScript6-Bold|AR Script6 Bold|Regular|2.10|
-|AR ShangHaiSongB5 LT.ttf|AR ShangHaiSongB5 LT|ARShangHaiSongB5-LT|AR ShangHaiSongB5 LT|Regular|1.00|
+|AR ShangHaiSongB5 LT.ttf|AR ShangHaiSongB5 LT|ARShangHaiSongB5-LT|AR ShangHaiSongB5 LT|Regular|1.20|
 |AR ShangHaiSongG30 LT.ttf|AR ShangHaiSongG30 LT|ARShangHaiSongG30-LT|AR ShangHaiSongG30 LT|Regular|1.00|
 |AR ShangHaiSongGB BD.ttf|AR ShangHaiSongGB BD|ARShangHaiSongGB-BD|AR ShangHaiSongGB BD|Regular|1.00|
 |AR ShangHaiSongGB LT.ttf|AR ShangHaiSongGB LT|ARShangHaiSongGB-LT|AR ShangHaiSongGB LT|Regular|1.00|
 |AR ShangHaiSongGB MD.ttf|AR ShangHaiSongGB MD|ARShangHaiSongGB-MD|AR ShangHaiSongGB MD|Regular|1.00|
-|AR ShangHaiSongU30 LT.ttf|AR ShangHaiSongU30 LT|ARShangHaiSongU30-LT|AR ShangHaiSongU30 LT|Regular|1.00|
+|AR ShangHaiSongU30 LT.ttf|AR ShangHaiSongU30 LT|ARShangHaiSongU30-LT|AR ShangHaiSongU30 LT|Regular|1.20|
 |AR SheiDeZiB5 MD.ttf|AR SheiDeZiB5 MD|ARSheiDeZiB5-MD|AR SheiDeZiB5 MD|Regular|1.00|
 |AR SheiDeZiGB MD.ttf|AR SheiDeZiGB MD|ARSheiDeZiGB-MD|AR SheiDeZiGB MD|Regular|1.00|
 |AR ShuiGuanB5 BD.ttf|AR ShuiGuanB5 BD|ARShuiGuanB5-BD|AR ShuiGuanB5 BD|Regular|1.00|
 |AR ShuiGuanGB BD.ttf|AR ShuiGuanGB BD|ARShuiGuanGB-BD|AR ShuiGuanGB BD|Regular|1.00|
 |AR ShuLinHeiGB LT.ttf|AR ShuLinHeiGB LT|ARShuLinHeiGB-LT|AR ShuLinHeiGB LT|Regular|1.00|
 |AR ShuLinHeiGB MD.ttf|AR ShuLinHeiGB MD|ARShuLinHeiGB-MD|AR ShuLinHeiGB MD|Regular|1.00|
-|AR ShuLinMingB5 BD.ttf|AR ShuLinMingB5 BD|ARShuLinMingB5-BD|AR ShuLinMingB5 BD|Regular|1.20 - This font set is licensed to "誠品股份有限公司" only|
+|AR ShuLinMingB5 BD.ttf|AR ShuLinMingB5 BD|ARShuLinMingB5-BD|AR ShuLinMingB5 BD|Regular|1.20|
 |AR ShuLinMingB5 EB.ttf|AR ShuLinMingB5 EB|ARShuLinMingB5-EB|AR ShuLinMingB5 EB|Regular|2.82|
 |AR ShuLinMingB5 LT.ttf|AR ShuLinMingB5 LT|ARShuLinMingB5-LT|AR ShuLinMingB5 LT|Regular|2.82|
 |AR ShuLinMingB5 MD.ttf|AR ShuLinMingB5 MD|ARShuLinMingB5-MD|AR ShuLinMingB5 MD|Regular|2.82|
@@ -410,7 +454,9 @@
 |AR ShuLinSongGB MD.ttf|AR ShuLinSongGB MD|ARShuLinSongGB-MD|AR ShuLinSongGB MD|Regular|2.90|
 |AR ShuLinSongGB UL.ttf|AR ShuLinSongGB UL|ARShuLinSongGB-UL|AR ShuLinSongGB UL|Regular|1.10|
 |AR ShuSongGB MD.ttf|AR ShuSongGB MD|ARShuSongGB-MD|AR ShuSongGB MD|Regular|1.00|
-|AR ShuYuanSongH16GB HV.ttf|AR ShuYuanSongH16GB HV|ARShuYuanSongH16GB-HV|AR ShuYuanSongH16GB HV|Regular|1.00|
+|AR ShuYuanHeiGB BD.ttf|AR ShuYuanHeiGB BD|ARShuYuanHeiGB-BD|AR ShuYuanHeiGB BD|Regular|1.00|
+|AR ShuYuanHeiGB MD.ttf|AR ShuYuanHeiGB MD|ARShuYuanHeiGB-MD|AR ShuYuanHeiGB MD|Regular|1.00|
+|AR ShuYuanSongH16GB HV.ttf|AR ShuYuanSongH16GB HV|ARShuYuanSongH16GB-HV|AR ShuYuanSongH16GB HV|Regular|2.00|
 |AR ShuYuanSongH32GB HV.ttf|AR ShuYuanSongH32GB HV|ARShuYuanSongH32GB-HV|AR ShuYuanSongH32GB HV|Regular|1.00|
 |AR ShuYuanSongH46GB HV.ttf|AR ShuYuanSongH46GB HV|ARShuYuanSongH46GB-HV|AR ShuYuanSongH46GB HV|Regular|1.00|
 |AR ShuYuanSongH62GB HV.ttf|AR ShuYuanSongH62GB HV|ARShuYuanSongH62GB-HV|AR ShuYuanSongH62GB HV|Regular|1.00|
@@ -466,7 +512,9 @@
 |AR UDJingXiHeiAktivJP EB.ttf|AR UDJingXiHeiAktivJP EB|ARUDJingXiHeiAktivJP-EB|AR UDJingXiHeiAktivJP EB|Regular|1.000|
 |AR UDJingXiHeiAktivJP HV.ttf|AR UDJingXiHeiAktivJP HV|ARUDJingXiHeiAktivJP-HV|AR UDJingXiHeiAktivJP HV|Regular|1.000|
 |AR UDJingXiHeiAktivJP LT.ttf|AR UDJingXiHeiAktivJP LT|ARUDJingXiHeiAktivJP-LT|AR UDJingXiHeiAktivJP LT|Regular|1.000|
+|AR UDJingXiHeiE1B5HK HR.ttf|AR UDJingXiHeiE1B5HK HR|ARUDJingXiHeiE1B5HK-HR|AR UDJingXiHeiE1B5HK HR|Regular|1.20|
 |AR UDJingXiHeiE1B5HK LT.ttf|AR UDJingXiHeiE1B5HK LT|ARUDJingXiHeiE1B5HK-LT|AR UDJingXiHeiE1B5HK LT|Regular|1.00|
+|AR UDJingXiHeiE1B5HK TH.ttf|AR UDJingXiHeiE1B5HK TH|ARUDJingXiHeiE1B5HK-TH|AR UDJingXiHeiE1B5HK TH|Regular|1.00|
 |ARUDJingXiHeiE1B5HKVF(Beta).ttf|ARUDJingXiHeiE1B5HKVF(Beta)|ARUDJingXiHeiE1B5HKVF-Beta|ARUDJingXiHeiE1B5HKVF(Beta)|Regular|1.00 - The font is released for beta test|
 |AR UDJingXiHeiE1C80G30 BD.ttf|AR UDJingXiHeiE1C80G30 BD|ARUDJingXiHeiE1C80G30-BD|AR UDJingXiHeiE1C80G30 BD|Regular|1.00|
 |AR UDJingXiHeiE1C80G30 DB.ttf|AR UDJingXiHeiE1C80G30 DB|ARUDJingXiHeiE1C80G30-DB|AR UDJingXiHeiE1C80G30 DB|Regular|1.00|
@@ -485,14 +533,23 @@
 |AR UDJingXiHeiE1C95G30 MD.ttf|AR UDJingXiHeiE1C95G30 MD|ARUDJingXiHeiE1C95G30-MD|AR UDJingXiHeiE1C95G30 MD|Regular|1.00|
 |AR UDJingXiHeiE1G30 LT.ttf|AR UDJingXiHeiE1G30 LT|ARUDJingXiHeiE1G30-LT|AR UDJingXiHeiE1G30 LT|Regular|1.00|
 |ARUDJingXiHeiE1G30VF(Beta).ttf|ARUDJingXiHeiE1G30VF(Beta)|ARUDJingXiHeiE1G30VF-Beta|ARUDJingXiHeiE1G30VF(Beta)|Regular|1.20 - The font is released for beta test|
-|AR UDJingXiHeiE1GB HR.ttf|AR UDJingXiHeiE1GB HR|ARUDJingXiHeiE1GB-HR|AR UDJingXiHeiE1GB HR|Regular|1.00|
-|AR UDJingXiHeiE1GB TH.ttf|AR UDJingXiHeiE1GB TH|ARUDJingXiHeiE1GB-TH|AR UDJingXiHeiE1GB TH|Regular|1.00|
-|AR UDJingXiHeiE1GB UBL.ttf|AR UDJingXiHeiE1GB UBL|ARUDJingXiHeiE1GB-UBL|AR UDJingXiHeiE1GB UBL|Regular|1.00|
+|AR UDJingXiHeiE1GB BL.ttf|AR UDJingXiHeiE1GB BL|ARUDJingXiHeiE1GB-BL|AR UDJingXiHeiE1GB BL|Regular|1.00|
+|AR UDJingXiHeiE1GB DBL.ttf|AR UDJingXiHeiE1GB DBL|ARUDJingXiHeiE1GB-DBL|AR UDJingXiHeiE1GB DBL|Regular|1.00|
+|AR UDJingXiHeiE1GB EH.ttf|AR UDJingXiHeiE1GB EH|ARUDJingXiHeiE1GB-EH|AR UDJingXiHeiE1GB EH|Regular|1.00|
+|AR UDJingXiHeiE1GB HR.ttf|AR UDJingXiHeiE1GB HR|ARUDJingXiHeiE1GB-HR|AR UDJingXiHeiE1GB HR|Regular|1.20|
+|AR UDJingXiHeiE1GB TH.ttf|AR UDJingXiHeiE1GB TH|ARUDJingXiHeiE1GB-TH|AR UDJingXiHeiE1GB TH|Regular|1.20|
+|AR UDJingXiHeiE1GB UBL.ttf|AR UDJingXiHeiE1GB UBL|ARUDJingXiHeiE1GB-UBL|AR UDJingXiHeiE1GB UBL|Regular|1.10|
 |AR UDJingXiHeiE1KR BD.ttf|AR UDJingXiHeiE1KR BD|ARUDJingXiHeiE1KR-BD|AR UDJingXiHeiE1KR BD|Regular|1.00|
 |AR UDJingXiHeiE1KR DB.ttf|AR UDJingXiHeiE1KR DB|ARUDJingXiHeiE1KR-DB|AR UDJingXiHeiE1KR DB|Regular|1.00|
 |AR UDJingXiHeiE1KR EB.ttf|AR UDJingXiHeiE1KR EB|ARUDJingXiHeiE1KR-EB|AR UDJingXiHeiE1KR EB|Regular|1.00|
 |AR UDJingXiHeiE1KR HV.ttf|AR UDJingXiHeiE1KR HV|ARUDJingXiHeiE1KR-HV|AR UDJingXiHeiE1KR HV|Regular|1.00|
 |AR UDJingXiHeiE1KR MD.ttf|AR UDJingXiHeiE1KR MD|ARUDJingXiHeiE1KR-MD|AR UDJingXiHeiE1KR MD|Regular|1.00|
+|AR UDJingXiHeiMicroG30 BD.ttf|AR UDJingXiHeiMicroG30 BD|ARUDJingXiHeiMicroG30-BD|AR UDJingXiHeiMicroG30 BD|Regular|1.00|
+|AR UDJingXiHeiMicroG30 DB.ttf|AR UDJingXiHeiMicroG30 DB|ARUDJingXiHeiMicroG30-DB|AR UDJingXiHeiMicroG30 DB|Regular|1.00|
+|AR UDJingXiHeiMicroG30 MD.ttf|AR UDJingXiHeiMicroG30 MD|ARUDJingXiHeiMicroG30-MD|AR UDJingXiHeiMicroG30 MD|Regular|1.00|
+|AR UDJingXiHeiMicroU30 BD.ttf|AR UDJingXiHeiMicroU30 BD|ARUDJingXiHeiMicroU30-BD|AR UDJingXiHeiMicroU30 BD|Regular|1.00|
+|AR UDJingXiHeiMicroU30 DB.ttf|AR UDJingXiHeiMicroU30 DB|ARUDJingXiHeiMicroU30-DB|AR UDJingXiHeiMicroU30 DB|Regular|1.00|
+|AR UDJingXiHeiMicroU30 MD.ttf|AR UDJingXiHeiMicroU30 MD|ARUDJingXiHeiMicroU30-MD|AR UDJingXiHeiMicroU30 MD|Regular|1.00|
 |AR UDShuYuanHeiB5 BD.ttf|AR UDShuYuanHeiB5 BD|ARUDShuyuanheiB5-Bold|AR UDShuYuanHeiB5 BD|Regular|1.10|
 |AR UDShuYuanHeiB5 MD.ttf|AR UDShuYuanHeiB5 MD|ARUDShuYuanHeiB5-MD|AR UDShuYuanHeiB5 MD|Regular|1.10|
 |AR Verdure Sans Demibold.ttf|AR Verdure Sans Demibold|ARVerdureSans-Demibold|AR Verdure Sans Demibold|Regular|1.00|
@@ -565,16 +622,20 @@
 |Bressay Display.ttf|Bressay Display|BressayDisplay-Regular|Bressay Display|Regular|1.000|
 |Bressay Italic.ttf|Bressay Italic|Bressay-Italic|Bressay|Italic|1.000|
 |Bressay.ttf|Bressay|Bressay-Regular|Bressay|Regular|1.000|
-|Co Headline Bold.ttf|Co Headline Bold|CoHeadline-Bold|Co Headline|Bold|2.001|
-|Co Headline Light.ttf|Co Headline Light|CoHeadline-Light|Co Headline Light|Regular|2.001|
-|Co Headline.ttf|Co Headline|CoHeadline-Regular|Co Headline|Regular|2.001|
+|Calmetta Bold.ttf|Calmetta Bold|Calmetta-Bold|Calmetta|Bold|1.000|
+|Calmetta Light.ttf|Calmetta Light|Calmetta-Light|Calmetta Light|Regular|1.000|
+|Calmetta.ttf|Calmetta|Calmetta-Regular|Calmetta|Regular|1.000|
+|Calmetta XBold.ttf|Calmetta XBold|Calmetta-XBold|Calmetta XBold|Regular|1.000|
+|Co Headline Bold.ttf|Co Headline Bold|CoHeadline-Bold|Co Headline|Bold|2.003|
+|Co Headline Light.ttf|Co Headline Light|CoHeadline-Light|Co Headline Light|Regular|2.003|
+|Co Headline.ttf|Co Headline|CoHeadline-Regular|Co Headline|Regular|2.003|
 |Cordale Bold Italic.ttf|Cordale Bold Italic|Cordale-BoldItalic|Cordale|Bold Italic|2.002|
 |Cordale Bold.ttf|Cordale Bold|Cordale-Bold|Cordale|Bold|2.002|
 |Cordale Italic.ttf|Cordale Italic|Cordale-Italic|Cordale|Italic|2.002|
 |Cordale.ttf|Cordale|Cordale-Regular|Cordale|Regular|2.002|
-|Co Text Bold.ttf|Co Text Bold|CoText-Bold|Co Text|Bold|2.001|
-|Co Text Light.ttf|Co Text Light|CoText-Light|Co Text Light|Regular|2.001|
-|Co Text.ttf|Co Text|CoText-Regular|Co Text|Regular|2.001|
+|Co Text Bold.ttf|Co Text Bold|CoText-Bold|Co Text|Bold|2.003|
+|Co Text Light.ttf|Co Text Light|CoText-Light|Co Text Light|Regular|2.003|
+|Co Text.ttf|Co Text|CoText-Regular|Co Text|Regular|2.003|
 |Dedica Bold.ttf|Dedica Bold|Dedica-Bold|Dedica|Bold|2.002|
 |Dedica Italic.ttf|Dedica Italic|Dedica-Italic|Dedica|Italic|2.002|
 |Dedica.ttf|Dedica|Dedica-Regular|Dedica|Regular|2.002|
@@ -601,6 +662,10 @@
 |Foco Light Italic.ttf|Foco Light Italic|Foco-LightItalic|Foco Light|Italic|1.101|
 |Foco Light.ttf|Foco Light|Foco-Light|Foco Light|Regular|1.101|
 |Foco.ttf|Foco|Foco-Regular|Foco|Regular|1.101|
+|Gelo Bold.ttf|Gelo Bold|Gelo-Bold|Gelo|Bold|1.000|
+|Gelo Light.ttf|Gelo Light|Gelo-Light|Gelo Light|Regular|1.000|
+|Gelo.ttf|Gelo|Gelo-Regular|Gelo|Regular|1.000|
+|Gelo XBold.ttf|Gelo XBold|Gelo-XBold|Gelo XBold|Regular|1.000|
 |Grueber Bold.ttf|Grueber Bold|Grueber-Bold|Grueber|Bold|1.001|
 |Grueber.ttf|Grueber|Grueber-Regular|Grueber|Regular|1.001|
 |GungSeo Medium.ttf|GungSeo Medium|GungSeo-Medium|GungSeo Medium|Regular|1.30|
@@ -622,6 +687,12 @@
 |Kings Caslon Display.ttf|Kings Caslon Display|KingsCaslonDisplay-Regular|Kings Caslon Display|Regular|2.001|
 |Kings Caslon Italic.ttf|Kings Caslon Italic|KingsCaslon-Italic|Kings Caslon|Italic|2.001|
 |Kings Caslon.ttf|Kings Caslon|KingsCaslon-Regular|Kings Caslon|Regular|2.001|
+|Lemance Bold Italic.ttf|Lemance Bold Italic|Lemance-BoldItalic|Lemance|Bold Italic|1.000|
+|Lemance Bold.ttf|Lemance Bold|Lemance-Bold|Lemance|Bold|1.000|
+|Lemance Italic.ttf|Lemance Italic|Lemance-Italic|Lemance|Italic|1.000|
+|Lemance Light Italic.ttf|Lemance Light Italic|Lemance-LightItalic|Lemance Light|Italic|1.000|
+|Lemance Light.ttf|Lemance Light|Lemance-Light|Lemance Light|Regular|1.000|
+|Lemance.ttf|Lemance|Lemance-Regular|Lemance|Regular|1.000|
 |Lexia Advertising Italic.ttf|Lexia Advertising Italic|Lexia-AdvertisingItalic|Lexia Advertising|Italic|2.200|
 |Lexia Advertising.ttf|Lexia Advertising|Lexia-Advertising|Lexia Advertising|Regular|2.200|
 |Lexia Black Italic.ttf|Lexia Black Italic|Lexia-BlackItalic|Lexia Black|Italic|2.200|
@@ -631,6 +702,12 @@
 |Lexia Italic.ttf|Lexia Italic|Lexia-Italic|Lexia|Italic|2.200|
 |Lexia Light Italic.ttf|Lexia Light Italic|Lexia-LightItalic|Lexia Light|Italic|2.200|
 |Lexia Light.ttf|Lexia Light|Lexia-Light|Lexia Light|Regular|2.200|
+|Lexia Mono Bold Italic.ttf|Lexia Mono Bold Italic|LexiaMono-BoldItalic|Lexia Mono|Bold Italic|1.000|
+|Lexia Mono Bold.ttf|Lexia Mono Bold|LexiaMono-Bold|Lexia Mono|Bold|1.000|
+|Lexia Mono Italic.ttf|Lexia Mono Italic|LexiaMono-Italic|Lexia Mono|Italic|1.000|
+|Lexia Mono Light Italic.ttf|Lexia Mono Light Italic|LexiaMono-LightItalic|Lexia Mono Light|Italic|1.000|
+|Lexia Mono Light.ttf|Lexia Mono Light|LexiaMono-Light|Lexia Mono Light|Regular|1.000|
+|Lexia Mono.ttf|Lexia Mono|LexiaMono-Regular|Lexia Mono|Regular|1.000|
 |Lexia Thin Italic.ttf|Lexia Thin Italic|Lexia-ThinItalic|Lexia Thin|Italic|2.200|
 |Lexia Thin.ttf|Lexia Thin|Lexia-Thin|Lexia Thin|Regular|2.200|
 |Lexia.ttf|Lexia|Lexia-Regular|Lexia|Regular|2.200|
@@ -640,6 +717,20 @@
 |Magpie Bold.ttf|Magpie Bold|Magpie-Bold|Magpie|Bold|1.102|
 |Magpie Italic.ttf|Magpie Italic|Magpie-Italic|Magpie|Italic|1.102|
 |Magpie.ttf|Magpie|Magpie-Regular|Magpie|Regular|1.102|
+|Mokoko Black Italic.ttf|Mokoko Black Italic|Mokoko-BlackItalic|Mokoko Black|Italic|1.000|
+|Mokoko Black.ttf|Mokoko Black|Mokoko-Black|Mokoko Black|Regular|1.000|
+|Mokoko Bold Italic.ttf|Mokoko Bold Italic|Mokoko-BoldItalic|Mokoko|Bold Italic|1.000|
+|Mokoko Bold.ttf|Mokoko Bold|Mokoko-Bold|Mokoko|Bold|1.000|
+|Mokoko Extra Bold Italic.ttf|Mokoko Extra Bold Italic|Mokoko-ExtraBoldItalic|Mokoko XBd|Italic|1.000|
+|Mokoko Extra Bold.ttf|Mokoko Extra Bold|Mokoko-ExtraBold|Mokoko XBd|Regular|1.000|
+|Mokoko Italic.ttf|Mokoko Italic|Mokoko-Italic|Mokoko|Italic|1.000|
+|Mokoko Light Italic.ttf|Mokoko Light Italic|Mokoko-LightItalic|Mokoko Light|Italic|1.000|
+|Mokoko Light.ttf|Mokoko Light|Mokoko-Light|Mokoko Light|Regular|1.000|
+|Mokoko Medium Italic.ttf|Mokoko Medium Italic|Mokoko-MediumItalic|Mokoko Medium|Italic|1.000|
+|Mokoko Medium.ttf|Mokoko Medium|Mokoko-Medium|Mokoko Medium|Regular|1.000|
+|Mokoko Regular.ttf|Mokoko Regular|Mokoko-Regular|Mokoko|Regular|1.000|
+|Mokoko Thin Italic.ttf|Mokoko Thin Italic|Mokoko-ThinItalic|Mokoko Thin|Italic|1.000|
+|Mokoko Thin.ttf|Mokoko Thin|Mokoko-Thin|Mokoko Thin|Regular|1.000|
 |Objektiv Mk1 Black Italic.ttf|Objektiv Mk1 Black Italic|ObjektivMk1-BlackItalic|Objektiv Mk1 Black|Italic|1.001|
 |Objektiv Mk1 Black.ttf|Objektiv Mk1 Black|ObjektivMk1-Black|Objektiv Mk1 Black|Regular|1.001|
 |Objektiv Mk1 Bold Italic.ttf|Objektiv Mk1 Bold Italic|ObjektivMk1-BoldItalic|Objektiv Mk1|Bold Italic|1.001|
@@ -654,12 +745,15 @@
 |Objektiv Mk1.ttf|Objektiv Mk1|ObjektivMk1-Regular|Objektiv Mk1|Regular|1.001|
 |Objektiv Mk1 XBold Italic.ttf|Objektiv Mk1 XBold Italic|ObjektivMk1-XBoldItalic|Objektiv Mk1 XBold|Italic|1.001|
 |Objektiv Mk1 XBold.ttf|Objektiv Mk1 XBold|ObjektivMk1-XBold|Objektiv Mk1 XBold|Regular|1.001|
-|Oscine Bold Italic.ttf|Oscine Bold Italic|Oscine-BoldItalic|Oscine|Bold Italic|1.100|
-|Oscine Bold.ttf|Oscine Bold|Oscine-Bold|Oscine|Bold|1.100|
-|Oscine Italic.ttf|Oscine Italic|Oscine-Italic|Oscine|Italic|1.100|
-|Oscine Light Italic.ttf|Oscine Light Italic|Oscine-LightItalic|Oscine Light|Italic|1.100|
-|Oscine Light.ttf|Oscine Light|Oscine-Light|Oscine Light|Regular|1.100|
+|Oscine Bold Italic.ttf|Oscine Bold Italic|Oscine-BoldItalic|Oscine|Bold Italic|2.000|
+|Oscine Bold.ttf|Oscine Bold|Oscine-Bold|Oscine|Bold|2.000|
+|Oscine Italic.ttf|Oscine Italic|Oscine-Italic|Oscine|Italic|2.000|
+|Oscine Light Italic.ttf|Oscine Light Italic|Oscine-LightItalic|Oscine Light|Italic|2.000|
+|Oscine Light.ttf|Oscine Light|Oscine-Light|Oscine Light|Regular|2.000|
+|Oscine Regular.ttf|Oscine Regular|Oscine-Regular|Oscine|Regular|2.000|
 |Oscine.ttf|Oscine|Oscine-Regular|Oscine|Regular|1.100|
+|Oscine XBold Italic.ttf|Oscine XBold Italic|Oscine-XBoldItalic|Oscine XBold|Italic|2.000|
+|Oscine XBold.ttf|Oscine XBold|Oscine-XBold|Oscine XBold|Regular|2.000|
 |Plume Ad Black Italic.ttf|Plume Ad Black Italic|PlumeAd-BlackItalic|Plume Ad Black|Italic|1.010|
 |Plume Ad Black.ttf|Plume Ad Black|PlumeAd-Black|Plume Ad Black|Regular|1.010|
 |Plume Bold Italic.ttf|Plume Bold Italic|Plume-BoldItalic|Plume|Bold Italic|1.011|
@@ -726,6 +820,32 @@
 |Tondo Signage.ttf|Tondo Signage|Tondo-Signage|Tondo Signage|Regular|1.013|
 |Tondo.ttf|Tondo|Tondo-Regular|Tondo|Regular|1.013|
 |Tornac.ttf|Tornac|Tornac-Regular|Tornac|Regular|1.010|
+|Venn Bold.ttf|Venn Bold|Venn-Bold|Venn|Bold|1.000|
+|Venn Cd Bold.ttf|Venn Cd Bold|VennCd-Bold|Venn Cd|Bold|1.000|
+|Venn Cd Light.ttf|Venn Cd Light|VennCd-Light|Venn Cd Light|Regular|1.000|
+|Venn Cd Medium.ttf|Venn Cd Medium|VennCd-Medium|Venn Cd Medium|Regular|1.000|
+|Venn Cd.ttf|Venn Cd|VennCd-Regular|Venn Cd|Regular|1.000|
+|Venn Cd XBold.ttf|Venn Cd XBold|VennCd-XBold|Venn Cd XBold|Regular|1.000|
+|Venn Ex Bold.ttf|Venn Ex Bold|VennEx-Bold|Venn Ex|Bold|1.000|
+|Venn Ex Light.ttf|Venn Ex Light|VennEx-Light|Venn Ex Light|Regular|1.000|
+|Venn Ex Medium.ttf|Venn Ex Medium|VennEx-Medium|Venn Ex Medium|Regular|1.000|
+|Venn Ex.ttf|Venn Ex|VennEx-Regular|Venn Ex|Regular|1.000|
+|Venn Ex XBold.ttf|Venn Ex XBold|VennEx-XBold|Venn Ex XBold|Regular|1.000|
+|Venn Light.ttf|Venn Light|Venn-Light|Venn Light|Regular|1.000|
+|Venn Medium.ttf|Venn Medium|Venn-Medium|Venn Medium|Regular|1.000|
+|Venn SemiCd Bold.ttf|Venn SemiCd Bold|VennSemiCd-Bold|Venn SemiCd|Bold|1.000|
+|Venn SemiCd Light.ttf|Venn SemiCd Light|VennSemiCd-Light|Venn SemiCd Light|Regular|1.000|
+|Venn SemiCd Medium.ttf|Venn SemiCd Medium|VennSemiCd-Medium|Venn SemiCd Medium|Regular|1.000|
+|Venn SemiCd.ttf|Venn SemiCd|VennSemiCd-Regular|Venn SemiCd|Regular|1.000|
+|Venn SemiCd XBold.ttf|Venn SemiCd XBold|VennSemiCd-XBold|Venn SemiCd XBold|Regular|1.000|
+|Venn SemiEx Bold.ttf|Venn SemiEx Bold|VennSemiEx-Bold|Venn SemiEx|Bold|1.000|
+|Venn SemiEx Light.ttf|Venn SemiEx Light|VennSemiEx-Light|Venn SemiEx Light|Regular|1.000|
+|Venn SemiEx Medium.ttf|Venn SemiEx Medium|VennSemiEx-Medium|Venn SemiEx Medium|Regular|1.000|
+|Venn SemiEx.ttf|Venn SemiEx|VennSemiEx-Regular|Venn SemiEx|Regular|1.000|
+|Venn SemiEx XBold.ttf|Venn SemiEx XBold|VennSemiEx-XBold|Venn SemiEx XBold|Regular|1.000|
+|Venn.ttf|Venn|Venn-Regular|Venn|Regular|1.000|
+|Venn VF.ttf|Venn VF|VennVF-Regular|Venn VF|Regular|1.000|
+|Venn XBold.ttf|Venn XBold|Venn-XBold|Venn XBold|Regular|1.000|
 |Verveine.ttf|Verveine|Verveine-Regular|Verveine|Regular|1.003|
 |Viato Bold Italic.ttf|Viato Bold Italic|Viato-BoldItalic|Viato|Bold Italic|2.001|
 |Viato Bold.ttf|Viato Bold|Viato-Bold|Viato|Bold|2.001|
