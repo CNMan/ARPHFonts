@@ -146,10 +146,15 @@
 |AR FangXinRunYuanGB EB.ttf|AR FangXinRunYuanGB EB|ARFangXinRunYuanGB-EB|AR FangXinRunYuanGB EB|Regular|1.00|
 |AR FangXinRunYuanGB HV.ttf|AR FangXinRunYuanGB HV|ARFangXinRunYuanGB-HV|AR FangXinRunYuanGB HV|Regular|1.10|
 |AR FangXinRunYuanGB MD.ttf|AR FangXinRunYuanGB MD|ARFangXinRunYuanGB-MD|AR FangXinRunYuanGB MD|Regular|1.00|
+|AR FangXinShuH7B5 BD & AR FangXinShuH7PB5 BD.ttc||||||
 |AR FangXinShuH7B5 BD.ttf|AR FangXinShuH7B5 BD|ARFangXinShuH7B5-BD|AR FangXinShuH7B5 BD|Regular|1.00|
+|AR FangXinShuH7B5 DB & AR FangXinShuH7PB5 DB.ttc||||||
 |AR FangXinShuH7B5 DB.ttf|AR FangXinShuH7B5 DB|ARFangXinShuH7B5-DB|AR FangXinShuH7B5 DB|Regular|1.00|
+|AR FangXinShuH7B5 EB & AR FangXinShuH7PB5 EB.ttc||||||
 |AR FangXinShuH7B5 EB.ttf|AR FangXinShuH7B5 EB|ARFangXinShuH7B5-EB|AR FangXinShuH7B5 EB|Regular|1.00|
+|AR FangXinShuH7B5 HV & AR FangXinShuH7PB5 HV.ttc||||||
 |AR FangXinShuH7B5 HV.ttf||||||
+|AR FangXinShuH7B5 MD & AR FangXinShuH7PB5 MD.ttc||||||
 |AR FangXinShuH7B5 MD.ttf|AR FangXinShuH7B5 MD|ARFangXinShuH7B5-MD|AR FangXinShuH7B5 MD|Regular|1.10|
 |ARFangXinShuH7B5VF(Beta).ttf|ARFangXinShuH7B5VF(Beta)|ARFangXinShuH7B5VF-Beta|ARFangXinShuH7B5VF(Beta)|Regular|1.00|
 |AR FangXinShuH7C80B5 BD.ttf|AR FangXinShuH7C80B5 BD|ARFangXinShuH7C80B5-BD|AR FangXinShuH7C80B5 BD|Regular|1.00|
@@ -208,9 +213,9 @@
 |AR FangXinShuH7GB MD.ttf|AR FangXinShuH7GB MD|ARFangXinShuH7GB-MD|AR FangXinShuH7GB MD|Regular|1.00|
 |AR Fruda Sans-Flat.ttf|AR Fruda Sans Flat|ARFrudaSansFlat-Regular|AR Fruda Sans Flat|Regular|1.20|
 |AR Fruda Sans Vi.ttf|AR Fruda Sans Vi|ARFrudaSansVi|AR Fruda Sans Vi|Regular|1.00|
-|AR GangBiXingKaiB5 BD.ttf|AR GangBiXingKaiB5 BD|ARGangBiXingKaiB5-BD|AR GangBiXingKaiB5 BD|Regular|1.00|
-|AR GangBiXingKaiB5 LT.ttf|AR GangBiXingKaiB5 LT|ARGangBiXingKaiB5-LT|AR GangBiXingKaiB5 LT|Regular|1.00|
-|AR GangBiXingKaiB5 MD.ttf|AR GangBiXingKaiB5 MD|ARGangBiXingKaiB5-MD|AR GangBiXingKaiB5 MD|Regular|1.00|
+|AR GangBiXingKaiB5 BD.ttf|AR GangBiXingKaiB5 BD|ARGangBiXingKaiB5-BD|AR GangBiXingKaiB5 BD|Regular|2.00|
+|AR GangBiXingKaiB5 LT.ttf|AR GangBiXingKaiB5 LT|ARGangBiXingKaiB5-LT|AR GangBiXingKaiB5 LT|Regular|2.00|
+|AR GangBiXingKaiB5 MD.ttf|AR GangBiXingKaiB5 MD|ARGangBiXingKaiB5-MD|AR GangBiXingKaiB5 MD|Regular|2.00|
 |AR GangBiXingKaiGB EB.ttf|AR GangBiXingKaiGB EB|ARGangBiXingKaiGB-EB|AR GangBiXingKaiGB EB|Regular|1.20|
 |AR GangBiXingKaiGB LT.ttf|AR GangBiXingKaiGB LT|ARGangBiXingKaiGB-LT|AR GangBiXingKaiGB LT|Regular|1.20|
 |AR GangBiXingKaiGB MD.ttf|AR GangBiXingKaiGB MD|ARGangBiXingKaiGB-MD|AR GangBiXingKaiGB MD|Regular|1.20|
@@ -230,7 +235,7 @@
 |AR GuangGaoGB BD.ttf|AR GuangGaoGB BD|ARGuangGaoGB-BD|AR GuangGaoGB BD|Regular|1.00|
 |AR GuangGaoGB EB.ttf|AR GuangGaoGB EB|ARGuangGaoGB-EB|AR GuangGaoGB EB|Regular|1.00|
 |AR GuGuJiB5 UL.ttf|AR GuGuJiB5 UL|ARGuGuJiB5-UL|AR GuGuJiB5 UL|Regular|1.00|
-|AR GuYinB5 BD.ttf|AR GuYinB5 BD|ARGuYinB5-BD|AR GuYinB5 BD|Regular|1.00|
+|AR GuYinB5 BD.ttf|AR GuYinB5 BD|ARGuYinB5-BD|AR GuYinB5 BD|Regular|2.00|
 |AR GuYinGB BD.ttf|AR GuYinGB BD|ARGuYinGB-BD|AR GuYinGB BD|Regular|1.10|
 |AR HaiBaoB5 BD.ttf|AR HaiBaoB5 BD|ARHaiBaoB5-BD|AR HaiBaoB5 BD|Regular|1.00|
 |AR HaiBaoGB BD.ttf|AR HaiBaoGB BD|ARHaiBaoGB-BD|AR HaiBaoGB BD|Regular|1.00|
@@ -294,17 +299,17 @@
 |AR KanTingLiuGB UL.ttf|AR KanTingLiuGB UL|ARKanTingLiuGB-UL|AR KanTingLiuGB UL|Regular|1.00|
 |AR KongDieYuanB5 UL.ttf|AR KongDieYuanB5 UL|ARKongDieYuanB5-UL|AR KongDieYuanB5 UL|Regular|1.00|
 |AR LaoShangHaiSongGB LT.ttf|AR LaoShangHaiSongGB LT|ARLaoShangHaiSongGB-LT|AR LaoShangHaiSongGB LT|Regular|1.00|
-|AR LiShuB5 BD.ttf|AR LiShuB5 BD|ARLiShuB5-BD|AR LiShuB5 BD|Regular|1.00|
-|AR LiShuB5 DB.ttf|AR LiShuB5 DB|ARLiShuB5-DB|AR LiShuB5 DB|Regular|1.00|
-|AR LiShuB5HK MD.ttf|AR LiShuB5HK MD|ARLiShuB5HK-MD|AR LiShuB5HK MD|Regular|1.00|
-|AR LiShuB5 MD.ttf|AR LiShuB5 MD|ARLiShuB5-MD|AR LiShuB5 MD|Regular|1.10|
+|AR LiShuB5 BD.ttf|AR LiShuB5 BD|ARLiShuB5-BD|AR LiShuB5 BD|Regular|2.00|
+|AR LiShuB5 DB.ttf|AR LiShuB5 DB|ARLiShuB5-DB|AR LiShuB5 DB|Regular|2.00|
+|AR LiShuB5HK MD.ttf|AR LiShuB5HK MD|ARLiShuB5HK-MD|AR LiShuB5HK MD|Regular|2.00|
+|AR LiShuB5 MD.ttf|AR LiShuB5 MD|ARLiShuB5-MD|AR LiShuB5 MD|Regular|2.00|
 |AR LiShuB5S MD.ttf|AR LiShuB5S MD|ARLiShuB5S-MD|AR LiShuB5S MD|Regular|1.00|
 |AR LiShuGB BD.ttf|AR LiShuGB BD|ARLiShuGB-BD|AR LiShuGB BD|Regular|1.20|
 |AR LiShuGB MD.ttf|AR LiShuGB MD|ARLiShuGB-MD|AR LiShuGB MD|Regular|1.00|
-|AR LiShuU30 MD.ttf|AR LiShuU30 MD|ARLiShuU30-MD|AR LiShuU30 MD|Regular|1.00|
-|AR MaoKaiB5 BD.ttf|AR MaoKaiB5 BD|ARMaoKaiB5-BD|AR MaoKaiB5 BD|Regular|1.00|
-|AR MaoKaiB5 EB.ttf|AR MaoKaiB5 EB|ARMaoKaiB5-EB|AR MaoKaiB5 EB|Regular|1.00|
-|AR MaoKaiB5 HV.ttf|AR MaoKaiB5 HV|ARMaoKaiB5-HV|AR MaoKaiB5 HV|Regular|1.00|
+|AR LiShuU30 MD.ttf|AR LiShuU30 MD|ARLiShuU30-MD|AR LiShuU30 MD|Regular|2.00|
+|AR MaoKaiB5 BD.ttf|AR MaoKaiB5 BD|ARMaoKaiB5-BD|AR MaoKaiB5 BD|Regular|2.00|
+|AR MaoKaiB5 EB.ttf|AR MaoKaiB5 EB|ARMaoKaiB5-EB|AR MaoKaiB5 EB|Regular|2.00|
+|AR MaoKaiB5 HV.ttf|AR MaoKaiB5 HV|ARMaoKaiB5-HV|AR MaoKaiB5 HV|Regular|2.00|
 |AR MaoKaiGB BD.ttf|AR MaoKaiGB BD|ARMaoKaiGB-BD|AR MaoKaiGB BD|Regular|1.10|
 |AR MaoKaiGB EB.ttf|AR MaoKaiGB EB|ARMaoKaiGB-EB|AR MaoKaiGB EB|Regular|1.10|
 |AR MaoKaiGB HV.ttf|AR MaoKaiGB HV|ARMaoKaiGB-HV|AR MaoKaiGB HV|Regular|1.10|
@@ -321,6 +326,7 @@
 |AR MingEXT MD.ttf|AR MingEXT MD|ARMingEXT-MD|AR MingEXT MD|Regular|1.20|
 |AR MingU30 DB.ttf|AR MingU30 DB|ARMingU30-DB|AR MingU30 DB|Regular|1.00|
 |AR MingU30 LT.ttf|AR MingU30 LT|ARMingU30-LT|AR MingU30 LT|Regular|1.00|
+|AR MochiC90B5 BD.ttf|AR MochiC90B5 BD|ARMochiC90B5-BD|AR MochiC90B5 BD|Regular|1.00 - "此版本只提供Big-5第一字面：5408個漢字及符號"|
 |AR MochiC90GB BD.ttf|AR MochiC90GB BD|ARMochiC90GB-BD|AR MochiC90GB BD|Regular|1.00|
 |AR MochiC90GB LT.ttf|AR MochiC90GB LT|ARMochiC90GB-LT|AR MochiC90GB LT|Regular|1.00|
 |AR MoHuan401B5.ttf|AR MoHuan401B5|ARMoHuan401B5-Regular|AR MoHuan401B5|Regular|1.00|
@@ -392,8 +398,8 @@
 |AR Pop4B5 BD.ttf|AR Pop4B5 BD|ARPop4B5-BD|AR Pop4B5 BD|Regular|1.00|
 |AR Pop4GB BD.ttf|AR Pop4GB BD|ARPop4GB-BD|AR Pop4GB BD|Regular|1.00|
 |AR QianKunNiuB5 UL.ttf|AR QianKunNiuB5 UL|ARQianKunNiuB5-UL|AR QianKunNiuB5 UL|Regular|1.00|
-|AR QianZiBiB5 DB.ttf|AR QianZiBiB5 DB|ARQianZiBiB5-DB|AR QianZiBiB5 DB|Regular|1.00|
-|AR QianZiBiB5 EB.ttf|AR QianZiBiB5 EB|ARQianZiBiB5-EB|AR QianZiBiB5 EB|Regular|1.00|
+|AR QianZiBiB5 DB.ttf|AR QianZiBiB5 DB|ARQianZiBiB5-DB|AR QianZiBiB5 DB|Regular|2.00|
+|AR QianZiBiB5 EB.ttf|AR QianZiBiB5 EB|ARQianZiBiB5-EB|AR QianZiBiB5 EB|Regular|2.00|
 |AR QianZiBiG30 DB.ttf|AR QianZiBiG30 DB|ARQianZiBiG30-DB|AR QianZiBiG30 DB|Regular|1.00|
 |AR QiaoHeiB5 EB.ttf|AR QiaoHeiB5 EB|ARQiaoHeiB5-EB|AR QiaoHeiB5 EB|Regular|1.00|
 |AR QiaoHeiB5 UL.ttf|AR QiaoHeiB5 UL|ARQiaoHeiB5-UL|AR QiaoHeiB5 UL|Regular|1.00|
@@ -439,7 +445,7 @@
 |AR ShangHaiSongGB LT.ttf|AR ShangHaiSongGB LT|ARShangHaiSongGB-LT|AR ShangHaiSongGB LT|Regular|1.00|
 |AR ShangHaiSongGB MD.ttf|AR ShangHaiSongGB MD|ARShangHaiSongGB-MD|AR ShangHaiSongGB MD|Regular|1.00|
 |AR ShangHaiSongU30 LT.ttf|AR ShangHaiSongU30 LT|ARShangHaiSongU30-LT|AR ShangHaiSongU30 LT|Regular|1.20|
-|AR SheiDeZiB5 MD.ttf|AR SheiDeZiB5 MD|ARSheiDeZiB5-MD|AR SheiDeZiB5 MD|Regular|1.00|
+|AR SheiDeZiB5 MD.ttf|AR SheiDeZiB5 MD|ARSheiDeZiB5-MD|AR SheiDeZiB5 MD|Regular|2.00|
 |AR SheiDeZiGB MD.ttf|AR SheiDeZiGB MD|ARSheiDeZiGB-MD|AR SheiDeZiGB MD|Regular|1.00|
 |AR ShuiGuanB5 BD.ttf|AR ShuiGuanB5 BD|ARShuiGuanB5-BD|AR ShuiGuanB5 BD|Regular|1.00|
 |AR ShuiGuanGB BD.ttf|AR ShuiGuanGB BD|ARShuiGuanGB-BD|AR ShuiGuanGB BD|Regular|1.00|
@@ -497,7 +503,8 @@
 |AR TSWenQingPenGB MD.ttf|AR TSWenQingPenGB MD|ARTSWenQingPenGB-MD|AR TSWenQingPenGB MD|Regular|2.00|
 |AR TXCaiYunGB UL.ttf|AR TXCaiYunGB UL|ARTXCaiYunGB-UL|AR TXCaiYunGB UL|Regular|1.20|
 |AR TXGuYinGB BD.ttf|AR TXGuYinGB BD|ARTXGuYinGB-BD|AR TXGuYinGB BD|Regular|1.30|
-|AR TXNuanXinB5 DB.ttf|AR TXNuanXinB5 DB|ARTXNuanXinB5-DB|AR TXNuanXinB5 DB|Regular|1.00|
+|AR TXNuanXinB5 DB.ttf|AR TXNuanXinB5 DB|ARTXNuanXinB5-DB|AR TXNuanXinB5 DB|Regular|2.00|
+|AR TXNuanXinB5 LT.ttf|AR TXNuanXinB5 LT|ARTXNuanXinB5-LT|AR TXNuanXinB5 LT|Regular|2.00|
 |AR TXTieTiaoGB BD.ttf|AR TXTieTiaoGB BD|ARTXTieTiaoGB-BD|AR TXTieTiaoGB BD|Regular|1.00|
 |AR UDJingXiHeiAktivBHK DB.ttf|AR UDJingXiHeiAktivBHK DB|ARUDJingXiHeiAktivBHK-DB|AR UDJingXiHeiAktivBHK DB|Regular|1.100|
 |AR UDJingXiHeiAktivBHK EB.ttf|AR UDJingXiHeiAktivBHK EB|ARUDJingXiHeiAktivBHK-EB|AR UDJingXiHeiAktivBHK EB|Regular|1.100|
@@ -515,10 +522,23 @@
 |AR UDJingXiHeiAktivJP EB.ttf|AR UDJingXiHeiAktivJP EB|ARUDJingXiHeiAktivJP-EB|AR UDJingXiHeiAktivJP EB|Regular|1.000|
 |AR UDJingXiHeiAktivJP HV.ttf|AR UDJingXiHeiAktivJP HV|ARUDJingXiHeiAktivJP-HV|AR UDJingXiHeiAktivJP HV|Regular|1.000|
 |AR UDJingXiHeiAktivJP LT.ttf|AR UDJingXiHeiAktivJP LT|ARUDJingXiHeiAktivJP-LT|AR UDJingXiHeiAktivJP LT|Regular|1.000|
+|AR UDJingXiHeiB5HK BD & AR UDJingXiHeiPB5HK BD.ttc||||||
+|AR UDJingXiHeiB5HK DB & AR UDJingXiHeiPB5HK DB.ttc||||||
+|AR UDJingXiHeiB5HK EB & AR UDJingXiHeiPB5HK EB.ttc||||||
+|AR UDJingXiHeiB5HK HV & AR UDJingXiHeiPB5HK HV.ttc||||||
+|AR UDJingXiHeiB5HK MD & AR UDJingXiHeiPB5HK MD.ttc||||||
+|AR UDJingXiHeiE1B5HK BD & AR UDJingXiHeiPE1B5HK BD.ttc||||||
+|AR UDJingXiHeiE1B5HK BL.ttf|AR UDJingXiHeiE1B5HK BL|ARUDJingXiHeiE1B5HK-BL|AR UDJingXiHeiE1B5HK BL|Regular|1.00|
+|AR UDJingXiHeiE1B5HK DB & AR UDJingXiHeiPE1B5HK DB.ttc||||||
+|AR UDJingXiHeiE1B5HK DBL.ttf|AR UDJingXiHeiE1B5HK DBL|ARUDJingXiHeiE1B5HK-DBL|AR UDJingXiHeiE1B5HK DBL|Regular|1.00|
+|AR UDJingXiHeiE1B5HK EB & AR UDJingXiHeiPE1B5HK EB.ttc||||||
+|AR UDJingXiHeiE1B5HK EH.ttf|AR UDJingXiHeiE1B5HK EH|ARUDJingXiHeiE1B5HK-EH|AR UDJingXiHeiE1B5HK EH|Regular|1.00|
 |AR UDJingXiHeiE1B5HK HR.ttf|AR UDJingXiHeiE1B5HK HR|ARUDJingXiHeiE1B5HK-HR|AR UDJingXiHeiE1B5HK HR|Regular|1.20|
+|AR UDJingXiHeiE1B5HK HV & AR UDJingXiHeiPE1B5HK HV.ttc||||||
 |AR UDJingXiHeiE1B5HK LT.ttf|AR UDJingXiHeiE1B5HK LT|ARUDJingXiHeiE1B5HK-LT|AR UDJingXiHeiE1B5HK LT|Regular|1.00|
+|AR UDJingXiHeiE1B5HK MD & AR UDJingXiHeiPE1B5HK MD.ttc||||||
 |AR UDJingXiHeiE1B5HK TH.ttf|AR UDJingXiHeiE1B5HK TH|ARUDJingXiHeiE1B5HK-TH|AR UDJingXiHeiE1B5HK TH|Regular|1.00|
-|AR UDJingXiHeiE1B5HK UBL.ttf|AR UDJingXiHeiE1B5HK UBL|ARUDJingXiHeiE1B5HK-UBL|AR UDJingXiHeiE1B5HK UBL|Regular|1.00|
+|AR UDJingXiHeiE1B5HK UBL.ttf|AR UDJingXiHeiE1B5HK UBL|ARUDJingXiHeiE1B5HK-UBL|AR UDJingXiHeiE1B5HK UBL|Regular|1.10|
 |ARUDJingXiHeiE1B5HKVF(Beta).ttf|ARUDJingXiHeiE1B5HKVF(Beta)|ARUDJingXiHeiE1B5HKVF-Beta|ARUDJingXiHeiE1B5HKVF(Beta)|Regular|1.00 - The font is released for beta test|
 |AR UDJingXiHeiE1C80G30 BD.ttf|AR UDJingXiHeiE1C80G30 BD|ARUDJingXiHeiE1C80G30-BD|AR UDJingXiHeiE1C80G30 BD|Regular|1.00|
 |AR UDJingXiHeiE1C80G30 DB.ttf|AR UDJingXiHeiE1C80G30 DB|ARUDJingXiHeiE1C80G30-DB|AR UDJingXiHeiE1C80G30 DB|Regular|1.00|
@@ -548,6 +568,11 @@
 |AR UDJingXiHeiE1KR EB.ttf|AR UDJingXiHeiE1KR EB|ARUDJingXiHeiE1KR-EB|AR UDJingXiHeiE1KR EB|Regular|1.00|
 |AR UDJingXiHeiE1KR HV.ttf|AR UDJingXiHeiE1KR HV|ARUDJingXiHeiE1KR-HV|AR UDJingXiHeiE1KR HV|Regular|1.00|
 |AR UDJingXiHeiE1KR MD.ttf|AR UDJingXiHeiE1KR MD|ARUDJingXiHeiE1KR-MD|AR UDJingXiHeiE1KR MD|Regular|1.00|
+|AR UDJingXiHeiE1U30 BD & AR UDJingXiHeiPE1U30 BD.ttc||||||
+|AR UDJingXiHeiE1U30 DB & AR UDJingXiHeiPE1U30 DB.ttc||||||
+|AR UDJingXiHeiE1U30 EB & AR UDJingXiHeiPE1U30 EB.ttc||||||
+|AR UDJingXiHeiE1U30 HV & AR UDJingXiHeiPE1U30 HV.ttc||||||
+|AR UDJingXiHeiE1U30 MD & AR UDJingXiHeiPE1U30 MD.ttc||||||
 |AR UDJingXiHeiMicroC80B5HK BD.ttf|AR UDJingXiHeiMicroC80B5HK BD|ARUDJingXiHeiMicroC80B5HK-BD|AR UDJingXiHeiMicroC80B5HK BD|Regular|1.00|
 |AR UDJingXiHeiMicroC80B5HK DB.ttf|AR UDJingXiHeiMicroC80B5HK DB|ARUDJingXiHeiMicroC80B5HK-DB|AR UDJingXiHeiMicroC80B5HK DB|Regular|1.00|
 |AR UDJingXiHeiMicroC80B5HK MD.ttf|AR UDJingXiHeiMicroC80B5HK MD|ARUDJingXiHeiMicroC80B5HK-MD|AR UDJingXiHeiMicroC80B5HK MD|Regular|1.00|
@@ -557,32 +582,51 @@
 |AR UDJingXiHeiMicroU30 BD.ttf|AR UDJingXiHeiMicroU30 BD|ARUDJingXiHeiMicroU30-BD|AR UDJingXiHeiMicroU30 BD|Regular|1.00|
 |AR UDJingXiHeiMicroU30 DB.ttf|AR UDJingXiHeiMicroU30 DB|ARUDJingXiHeiMicroU30-DB|AR UDJingXiHeiMicroU30 DB|Regular|1.00|
 |AR UDJingXiHeiMicroU30 MD.ttf|AR UDJingXiHeiMicroU30 MD|ARUDJingXiHeiMicroU30-MD|AR UDJingXiHeiMicroU30 MD|Regular|1.00|
+|AR UDJingXiHeiPingG30 DB.ttf|AR UDJingXiHeiPingG30 DB|ARUDJingXiHeiPingG30-DB|AR UDJingXiHeiPingG30 DB|Regular|1.000|
+|AR UDJingXiHeiPingG30 EB.ttf|AR UDJingXiHeiPingG30 EB|ARUDJingXiHeiPingG30-EB|AR UDJingXiHeiPingG30 EB|Regular|1.000|
+|AR UDJingXiHeiPingG30 LT.ttf|AR UDJingXiHeiPingG30 LT|ARUDJingXiHeiPingG30-LT|AR UDJingXiHeiPingG30 LT|Regular|1.000|
+|AR UDJingXiHeiPingG30 MD.ttf|AR UDJingXiHeiPingG30 MD|ARUDJingXiHeiPingG30-MD|AR UDJingXiHeiPingG30 MD|Regular|1.000|
+|AR UDJingXiHeiPingGB HR.ttf|AR UDJingXiHeiPingGB HR|ARUDJingXiHeiPingGB-HR|AR UDJingXiHeiPingGB HR|Regular|1.000|
+|AR UDJingXiHeiPingGB TH.ttf|AR UDJingXiHeiPingGB TH|ARUDJingXiHeiPingGB-TH|AR UDJingXiHeiPingGB TH|Regular|1.000|
+|AR UDJingXiHeiU30 BD & AR UDJingXiHeiPU30 BD.ttc||||||
+|AR UDJingXiHeiU30 DB & AR UDJingXiHeiPU30 DB.ttc||||||
+|AR UDJingXiHeiU30 EB & AR UDJingXiHeiPU30 EB.ttc||||||
+|AR UDJingXiHeiU30 HV & AR UDJingXiHeiPU30 HV.ttc||||||
+|AR UDJingXiHeiU30 MD & AR UDJingXiHeiPU30 MD.ttc||||||
 |AR UDShuYuanHeiB5 BD.ttf|AR UDShuYuanHeiB5 BD|ARUDShuyuanheiB5-Bold|AR UDShuYuanHeiB5 BD|Regular|1.10|
 |AR UDShuYuanHeiB5 MD.ttf|AR UDShuYuanHeiB5 MD|ARUDShuYuanHeiB5-MD|AR UDShuYuanHeiB5 MD|Regular|1.10|
 |AR Verdure Sans Demibold.ttf|AR Verdure Sans Demibold|ARVerdureSans-Demibold|AR Verdure Sans Demibold|Regular|1.00|
 |AR Verdure Sans.ttf|AR Verdure Sans|ARVerdureSans|AR Verdure Sans|Regular|1.00|
 |AR Verdure Sans Vi.ttf|AR Verdure Sans Vi|ARVerdureSans|AR Verdure Sans Vi|Regular|1.00|
+|AR VF FXShuB5 WrW.ttf|AR VF FXShuB5 WrW|ARVFFXShuB5-WrW|AR VF FXShuB5 WrW|Regular|1.00|
+|AR VF FXShuG30 WrW.ttf|AR VF FXShuG30 WrW|ARVFFXShuG30-WrW|AR VF FXShuG30 WrW|Regular|1.00|
+|AR VF JXHeiB5 Wl.ttf|AR VF JXHeiB5 Wl|ARVFJXHeiB5-Wl|AR VF JXHeiB5 Wl|Regular|1.00|
+|AR VF JXHeiB5 WrW.ttf|AR VF JXHeiB5 WrW|ARVFJXHeiB5-WrW|AR VF JXHeiB5 WrW|Regular|1.00|
+|AR VF JXHeiG30 Wr.ttf|AR VF JXHeiG30 Wr|ARVFJXHeiG30-Wr|AR VF JXHeiG30 Wr|Regular|1.00|
+|AR VF JXHeiG30 WrW.ttf|AR VF JXHeiG30 WrW|ARVFJXHeiG30-WrW|AR VF JXHeiG30 WrW|Regular|1.00|
+|AR VF JXHeiGB Wl.ttf|AR VF JXHeiGB Wl|ARVFJXHeiGB-Wl|AR VF JXHeiGB Wl|Regular|1.00|
+|AR VF JXHeiGB Wu.ttf|AR VF JXHeiGB Wu|ARVFJXHeiGB-Wu|AR VF JXHeiGB Wu|Regular|1.00|
 |AR WangWangGouB5 UL.ttf|AR WangWangGouB5 UL|ARWangWangGouB5-UL|AR WangWangGouB5 UL|Regular|1.00|
-|AR WeiBeiB5 BD.ttf|AR WeiBeiB5 BD|ARWeiBeiB5-BD|AR WeiBeiB5 BD|Regular|1.00|
+|AR WeiBeiB5 BD.ttf|AR WeiBeiB5 BD|ARWeiBeiB5-BD|AR WeiBeiB5 BD|Regular|2.00|
 |AR WeiBeiB5S BD.ttf|AR WeiBeiB5S BD|ARWeiBeiB5S-BD|AR WeiBeiB5S BD|Regular|1.00|
 |AR WeiBeiG30 BD.ttf|AR WeiBeiG30 BD|ARWeiBeiG30-BD|AR WeiBeiG30 BD|Regular|1.00|
 |AR WeiBeiGB BD.ttf|AR WeiBeiGB BD|ARWeiBeiGB-BD|AR WeiBeiGB BD|Regular|1.00|
 |AR WeiBeiGB EB.ttf|AR WeiBeiGB EB|ARWeiBeiGB-EB|AR WeiBeiGB EB|Regular|1.00|
 |AR WeiBeiGB MD.ttf|AR WeiBeiGB MD|ARWeiBeiGB-MD|AR WeiBeiGB MD|Regular|1.00|
-|AR WeiBeiU30 BD.ttf|AR WeiBeiU30 BD|ARWeiBeiU30-BD|AR WeiBeiU30 BD|Regular|1.00|
+|AR WeiBeiU30 BD.ttf|AR WeiBeiU30 BD|ARWeiBeiU30-BD|AR WeiBeiU30 BD|Regular|2.00|
 |AR XiangChangB5 BD.ttf|AR XiangChangB5 BD|ARXiangChangB5-BD|AR XiangChangB5 BD|Regular|1.00|
 |AR XiangChangGB BD.ttf|AR XiangChangGB BD|ARXiangChangGB-BD|AR XiangChangGB BD|Regular|1.00|
 |AR XiaoSaB5 MD.ttf|AR XiaoSaB5 MD|ARXiaoSaB5-MD|AR XiaoSaB5 MD|Regular|1.00|
 |AR XiaoSaGB MD.ttf|AR XiaoSaGB MD|ARXiaoSaGB-MD|AR XiaoSaGB MD|Regular|1.10|
 |AR XiaoXiaoHuB5 UL.ttf|AR XiaoXiaoHuB5 UL|ARXiaoXiaoHuB5-UL|AR XiaoXiaoHuB5 UL|Regular|1.00|
 |AR XinChaoPOPB5 HV.ttf|AR XinChaoPOPB5 HV|ARXinChaoPOPB5-HV|AR XinChaoPOPB5 HV|Regular|1.00|
-|AR XingKaiB5 BD.ttf|AR XingKaiB5 BD|ARXingKaiB5-BD|AR XingKaiB5 BD|Regular|1.00|
-|AR XingKaiB5 LT.ttf|AR XingKaiB5 LT|ARXingKaiB5-LT|AR XingKaiB5 LT|Regular|1.00|
+|AR XingKaiB5 BD.ttf|AR XingKaiB5 BD|ARXingKaiB5-BD|AR XingKaiB5 BD|Regular|2.00|
+|AR XingKaiB5 LT.ttf|AR XingKaiB5 LT|ARXingKaiB5-LT|AR XingKaiB5 LT|Regular|2.00|
 |AR XingKaiB5S BD.ttf|AR XingKaiB5S BD|ARXingKaiB5S-BD|AR XingKaiB5S BD|Regular|1.00|
-|AR XingKaiBeiB5 BD.ttf|AR XingKaiBeiB5 BD|ARXingKaiBeiB5-BD|AR XingKaiBeiB5 BD|Regular|1.00|
+|AR XingKaiBeiB5 BD.ttf|AR XingKaiBeiB5 BD|ARXingKaiBeiB5-BD|AR XingKaiBeiB5 BD|Regular|2.00|
 |AR XingKaiBeiGB BD.ttf|AR XingKaiBeiGB BD|ARXingKaiBeiGB-BD|AR XingKaiBeiGB BD|Regular|1.00|
 |AR XingKaiGB BD.ttf|AR XingKaiGB BD|ARXingKaiGB-BD|AR XingKaiGB BD|Regular|1.00|
-|AR XingShuB5 MD.ttf|AR XingShuB5 MD|ARXingShuB5-MD|AR XingShuB5 MD|Regular|1.00|
+|AR XingShuB5 MD.ttf|AR XingShuB5 MD|ARXingShuB5-MD|AR XingShuB5 MD|Regular|2.00|
 |AR XingShuB5S MD.ttf|AR XingShuB5S MD|ARXingShuB5S-MD|AR XingShuB5S MD|Regular|1.00|
 |AR XingShuGB MD.ttf|AR XingShuGB MD|ARXingShuGB-MD|AR XingShuGB MD|Regular|1.00|
 |AR XinHeiGB UL.ttf|AR XinHeiGB UL|ARXinHeiGB-UL|AR XinHeiGB UL|Regular|1.00|
@@ -591,10 +635,10 @@
 |AR XiZiGB UL.ttf|AR XiZiGB UL|ARXiZiGB-UL|AR XiZiGB UL|Regular|1.00|
 |AR XuKanTingLiuB5 HV.ttf|AR XuKanTingLiuB5 HV|ARXuKanTingLiuB5-HV|AR XuKanTingLiuB5 HV|Regular|1.00|
 |AR YangGB HV.ttf|AR YangGB HV|ARYangGB-HV|AR YangGB HV|Regular|1.00|
-|AR YanKaiB5 HV.ttf|AR YanKaiB5 HV|ARYanKaiB5-HV|AR YanKaiB5 HV|Regular|1.00|
-|AR YanKaiB5 UL.ttf|AR YanKaiB5 UL|ARYanKaiB5-UL|AR YanKaiB5 UL|Regular|1.00|
+|AR YanKaiB5 HV.ttf|AR YanKaiB5 HV|ARYanKaiB5-HV|AR YanKaiB5 HV|Regular|2.00|
+|AR YanKaiB5 UL.ttf|AR YanKaiB5 UL|ARYanKaiB5-UL|AR YanKaiB5 UL|Regular|2.00|
 |AR YanKaiGB HV.ttf|AR YanKaiGB HV|ARYanKaiGB-HV|AR YanKaiGB HV|Regular|1.00|
-|AR YanKaiGungB5 UL.ttf|AR YanKaiGungB5 UL|ARYanKaiGungB5-UL|AR YanKaiGungB5 UL|Regular|1.00|
+|AR YanKaiGungB5 UL.ttf|AR YanKaiGungB5 UL|ARYanKaiGungB5-UL|AR YanKaiGungB5 UL|Regular|2.00|
 |AR YanShuiB5 EB.ttf|AR YanShuiB5 EB|ARYanShuiB5-EB|AR YanShuiB5 EB|Regular|1.00|
 |AR YanShuiGB EB.ttf|AR YanShuiGB EB|ARYanShuiGB-EB|AR YanShuiGB EB|Regular|1.00|
 |AR YuanB5 BD.ttf|AR YuanB5 BD|ARYuanB5-BD|AR YuanB5 BD|Regular|1.00|
@@ -622,6 +666,7 @@
 |AR ZanMeiB5 UL.ttf|AR ZanMeiB5 UL|ARZanMeiB5-UL|AR ZanMeiB5 UL|Regular|1.00|
 |AR ZhuZiB5 MD.ttf|AR ZhuZiB5 MD|ARZhuZiB5-MD|AR ZhuZiB5 MD|Regular|1.00|
 |AR ZhuZiGB MD.ttf|AR ZhuZiGB MD|ARZhuZiGB-MD|AR ZhuZiGB MD|Regular|1.00|
+|Ballare Regular.ttf|Ballare Regular|Ballare-Regular|Ballare|Regular|1.000|
 |Blenny Black.ttf|Blenny Black|Blenny-Black|Blenny Black|Regular|1.000|
 |Bligh Bold.ttf|Bligh Bold|Bligh-Bold|Bligh|Bold|1.001|
 |Bligh Light.ttf|Bligh Light|Bligh-Light|Bligh Light|Regular|1.001|
