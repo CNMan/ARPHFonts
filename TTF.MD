@@ -505,6 +505,8 @@
 |AR TXGuYinGB BD.ttf|AR TXGuYinGB BD|ARTXGuYinGB-BD|AR TXGuYinGB BD|Regular|1.30|
 |AR TXNuanXinB5 DB.ttf|AR TXNuanXinB5 DB|ARTXNuanXinB5-DB|AR TXNuanXinB5 DB|Regular|2.00|
 |AR TXNuanXinB5 LT.ttf|AR TXNuanXinB5 LT|ARTXNuanXinB5-LT|AR TXNuanXinB5 LT|Regular|2.00|
+|AR TXNuanXinGB DB.ttf|AR TXNuanXinGB DB|ARTXNuanXinGB-DB|AR TXNuanXinGB DB|Regular|1.00|
+|AR TXNuanXinGB LT.ttf|AR TXNuanXinGB LT|ARTXNuanXinGB-LT|AR TXNuanXinGB LT|Regular|1.00|
 |AR TXTieTiaoGB BD.ttf|AR TXTieTiaoGB BD|ARTXTieTiaoGB-BD|AR TXTieTiaoGB BD|Regular|1.00|
 |AR UDJingXiHeiAktivBHK DB.ttf|AR UDJingXiHeiAktivBHK DB|ARUDJingXiHeiAktivBHK-DB|AR UDJingXiHeiAktivBHK DB|Regular|1.100|
 |AR UDJingXiHeiAktivBHK EB.ttf|AR UDJingXiHeiAktivBHK EB|ARUDJingXiHeiAktivBHK-EB|AR UDJingXiHeiAktivBHK EB|Regular|1.100|
@@ -586,8 +588,16 @@
 |AR UDJingXiHeiPingG30 EB.ttf|AR UDJingXiHeiPingG30 EB|ARUDJingXiHeiPingG30-EB|AR UDJingXiHeiPingG30 EB|Regular|1.000|
 |AR UDJingXiHeiPingG30 LT.ttf|AR UDJingXiHeiPingG30 LT|ARUDJingXiHeiPingG30-LT|AR UDJingXiHeiPingG30 LT|Regular|1.000|
 |AR UDJingXiHeiPingG30 MD.ttf|AR UDJingXiHeiPingG30 MD|ARUDJingXiHeiPingG30-MD|AR UDJingXiHeiPingG30 MD|Regular|1.000|
+|AR UDJingXiHeiPingGB DBL.ttf|AR UDJingXiHeiPingGB DBL|ARUDJingXiHeiPingGB-DBL|AR UDJingXiHeiPingGB DBL|Regular|1.000|
+|AR UDJingXiHeiPingGB EH.ttf|AR UDJingXiHeiPingGB EH|ARUDJingXiHeiPingGB-EH|AR UDJingXiHeiPingGB EH|Regular|1.000|
 |AR UDJingXiHeiPingGB HR.ttf|AR UDJingXiHeiPingGB HR|ARUDJingXiHeiPingGB-HR|AR UDJingXiHeiPingGB HR|Regular|1.000|
 |AR UDJingXiHeiPingGB TH.ttf|AR UDJingXiHeiPingGB TH|ARUDJingXiHeiPingGB-TH|AR UDJingXiHeiPingGB TH|Regular|1.000|
+|AR UDJingXiHeiPingJP DB.ttf|AR UDJingXiHeiPingJP DB|ARUDJingXiHeiPingJP-DB|AR UDJingXiHeiPingJP DB|Regular|1.000|
+|AR UDJingXiHeiPingJP EB.ttf|AR UDJingXiHeiPingJP EB|ARUDJingXiHeiPingJP-EB|AR UDJingXiHeiPingJP EB|Regular|1.000|
+|AR UDJingXiHeiPingJP MD.ttf|AR UDJingXiHeiPingJP MD|ARUDJingXiHeiPingJP-MD|AR UDJingXiHeiPingJP MD|Regular|1.000|
+|AR UDJingXiHeiPingKR DB.ttf|AR UDJingXiHeiPingKR DB|ARUDJingXiHeiPingKR-DB|AR UDJingXiHeiPingKR DB|Regular|1.000|
+|AR UDJingXiHeiPingKR EB.ttf|AR UDJingXiHeiPingKR EB|ARUDJingXiHeiPingKR-EB|AR UDJingXiHeiPingKR EB|Regular|1.000|
+|AR UDJingXiHeiPingKR MD.ttf|AR UDJingXiHeiPingKR MD|ARUDJingXiHeiPingKR-MD|AR UDJingXiHeiPingKR MD|Regular|1.000|
 |AR UDJingXiHeiU30 BD & AR UDJingXiHeiPU30 BD.ttc||||||
 |AR UDJingXiHeiU30 DB & AR UDJingXiHeiPU30 DB.ttc||||||
 |AR UDJingXiHeiU30 EB & AR UDJingXiHeiPU30 EB.ttc||||||
@@ -643,6 +653,7 @@
 |AR YanShuiGB EB.ttf|AR YanShuiGB EB|ARYanShuiGB-EB|AR YanShuiGB EB|Regular|1.00|
 |AR YuanB5 BD.ttf|AR YuanB5 BD|ARYuanB5-BD|AR YuanB5 BD|Regular|1.00|
 |AR YuanB5 EB.ttf|AR YuanB5 EB|ARYuanB5-EB|AR YuanB5 EB|Regular|1.10|
+|AR YuanB5HK LT.ttf|AR YuanB5HK LT|ARYuanB5HK-LT|AR YuanB5HK LT|Regular|1.00|
 |AR YuanB5HK MD.ttf|AR YuanB5HK MD|ARYuanB5HK-MD|AR YuanB5HK MD|Regular|1.00|
 |AR YuanB5 HV.ttf|AR YuanB5 HV|ARYuanB5-HV|AR YuanB5 HV|Regular|1.10|
 |AR YuanB5 LT.ttf|AR YuanB5 LT|ARYuanB5-LT|AR YuanB5 LT|Regular|1.00|
@@ -658,8 +669,13 @@
 |AR YuanLiB5 BD.ttf|AR YuanLiB5 BD|ARYuanLiB5-BD|AR YuanLiB5 BD|Regular|1.00|
 |AR YuanLiGB BD.ttf|AR YuanLiGB BD|ARYuanLiGB-BD|AR YuanLiGB BD|Regular|1.00|
 |AR YuanMicroB5 BD.ttf|AR YuanMicroB5 BD|ARYuanMicroB5-BD|AR YuanMicroB5 BD|Regular|1.00|
+|AR YuanMicroB5HK LT.ttf|AR YuanMicroB5HK LT|ARYuanMicroB5HK-LT|AR YuanMicroB5HK LT|Regular|1.00|
+|AR YuanMicroB5HK MD.ttf|AR YuanMicroB5HK MD|ARYuanMicroB5HK-MD|AR YuanMicroB5HK MD|Regular|1.00|
 |AR YuanMicroB5 LT.ttf|AR YuanMicroB5 LT|ARYuanMicroB5-LT|AR YuanMicroB5 LT|Regular|1.00|
 |AR YuanMicroB5 MD.ttf|AR YuanMicroB5 MD|ARYuanMicroB5-MD|AR YuanMicroB5 MD|Regular|1.00|
+|AR YuanMicroGB BD.ttf|AR YuanMicroGB BD|ARYuanMicroGB-BD|AR YuanMicroGB BD|Regular|1.00|
+|AR YuanMicroGB LT.ttf|AR YuanMicroGB LT|ARYuanMicroGB-LT|AR YuanMicroGB LT|Regular|1.00|
+|AR YuanMicroGB MD.ttf|AR YuanMicroGB MD|ARYuanMicroGB-MD|AR YuanMicroGB MD|Regular|1.00|
 |AR YuanQiZhuB5 UL.ttf|AR YuanQiZhuB5 UL|ARYuanQiZhuB5-UL|AR YuanQiZhuB5 UL|Regular|1.00|
 |AR YunHeiGB BD.ttf|AR YunHeiGB BD|ARYunHeiGB-BD|AR YunHeiGB BD|Regular|1.00|
 |AR YuShuShuB5 UL.ttf|AR YuShuShuB5 UL|ARYuShuShuB5-UL|AR YuShuShuB5 UL|Regular|1.00|
