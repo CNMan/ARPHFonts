@@ -286,6 +286,7 @@
 |AR JingXiRunHeiKR MD.ttf|AR JingXiRunHeiKR MD|ARJingXiRunHeiKR-MD|AR JingXiRunHeiKR MD|Regular|1.00|
 |AR JULIAN.ttf|AR JULIAN|ARJULIAN|AR JULIAN|Regular|2.00|
 |AR KaiB5 BD.ttf|AR KaiB5 BD|ARKaiB5-BD|AR KaiB5 BD|Regular|1.00|
+|AR KaiB5HK MD.ttf|AR KaiB5HK MD|ARKaiB5HK-MD|AR KaiB5HK MD|Regular|1.00|
 |AR KaiB5 LT.ttf|AR KaiB5 LT|ARKaiB5-LT|AR KaiB5 LT|Regular|1.00|
 |AR KaiB5 MD.ttf|AR KaiB5 MD|ARKaiB5-MD|AR KaiB5 MD|Regular|1.00|
 |AR KaiB5S MD.ttf|AR KaiB5S MD|ARKaiB5S-MD|AR KaiB5S MD|Regular|1.00|
@@ -490,6 +491,10 @@
 |AR StdSongU30 MD.ttf|AR StdSongU30 MD|ARStdSongU30-MD|AR StdSongU30 MD|Regular|1.00|
 |AR StoneB5 EB.ttf|AR StoneB5 EB|ARStoneB5-EB|AR StoneB5 EB|Regular|1.00|
 |AR StoneGB EB.ttf|AR StoneGB EB|ARStoneGB-EB|AR StoneGB EB|Regular|1.00|
+|AR SYSongGB Display H16 MD.ttf|AR SYSongGB Display H16 MD|ARSYSongGBDisplayH16-MD|AR SYSongGB Display H16 MD|Regular|1.00|
+|AR SYSongGB Display H32 MD.ttf|AR SYSongGB Display H32 MD|ARSYSongGBDisplayH32-MD|AR SYSongGB Display H32 MD|Regular|1.00|
+|AR SYSongGB Display H46 MD.ttf|AR SYSongGB Display H46 MD|ARSYSongGBDisplayH46-MD|AR SYSongGB Display H46 MD|Regular|1.00|
+|AR SYSongGB Display H62 MD.ttf|AR SYSongGB Display H62 MD|ARSYSongGBDisplayH62-MD|AR SYSongGB Display H62 MD|Regular|1.00|
 |AR TanHuangB5 BD.ttf|AR TanHuangB5 BD|ARTanHuangB5-BD|AR TanHuangB5 BD|Regular|1.00|
 |AR TanHuangGB BD.ttf|AR TanHuangGB BD|ARTanHuangGB-BD|AR TanHuangGB BD|Regular|1.00|
 |AR TaurusAB5 UL.ttf|AR TaurusAB5 UL|ARTaurusAB5-UL|AR TaurusAB5 UL|Regular|1.00|
@@ -578,6 +583,9 @@
 |AR UDJingXiHeiMicroC80B5HK BD.ttf|AR UDJingXiHeiMicroC80B5HK BD|ARUDJingXiHeiMicroC80B5HK-BD|AR UDJingXiHeiMicroC80B5HK BD|Regular|1.00|
 |AR UDJingXiHeiMicroC80B5HK DB.ttf|AR UDJingXiHeiMicroC80B5HK DB|ARUDJingXiHeiMicroC80B5HK-DB|AR UDJingXiHeiMicroC80B5HK DB|Regular|1.00|
 |AR UDJingXiHeiMicroC80B5HK MD.ttf|AR UDJingXiHeiMicroC80B5HK MD|ARUDJingXiHeiMicroC80B5HK-MD|AR UDJingXiHeiMicroC80B5HK MD|Regular|1.00|
+|AR UDJingXiHeiMicroC80G30 BD.ttf|AR UDJingXiHeiMicroC80G30 BD|ARUDJingXiHeiMicroC80G30-BD|AR UDJingXiHeiMicroC80G30 BD|Regular|1.00|
+|AR UDJingXiHeiMicroC80G30 DB.ttf|AR UDJingXiHeiMicroC80G30 DB|ARUDJingXiHeiMicroC80G30-DB|AR UDJingXiHeiMicroC80G30 DB|Regular|1.00|
+|AR UDJingXiHeiMicroC80G30 MD.ttf|AR UDJingXiHeiMicroC80G30 MD|ARUDJingXiHeiMicroC80G30-MD|AR UDJingXiHeiMicroC80G30 MD|Regular|1.00|
 |AR UDJingXiHeiMicroG30 BD.ttf|AR UDJingXiHeiMicroG30 BD|ARUDJingXiHeiMicroG30-BD|AR UDJingXiHeiMicroG30 BD|Regular|1.00|
 |AR UDJingXiHeiMicroG30 DB.ttf|AR UDJingXiHeiMicroG30 DB|ARUDJingXiHeiMicroG30-DB|AR UDJingXiHeiMicroG30 DB|Regular|1.00|
 |AR UDJingXiHeiMicroG30 MD.ttf|AR UDJingXiHeiMicroG30 MD|ARUDJingXiHeiMicroG30-MD|AR UDJingXiHeiMicroG30 MD|Regular|1.00|
