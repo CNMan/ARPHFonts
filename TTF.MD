@@ -322,6 +322,7 @@
 |AR HuaBanB5 UL.ttf|AR HuaBanB5 UL|ARHuaBanB5-UL|AR HuaBanB5 UL|Regular|1.00|
 |AR HuaBanGB UL.ttf|AR HuaBanGB UL|ARHuaBanGB-UL|AR HuaBanGB UL|Regular|1.00|
 |AR HuaCaoB5 EB.ttf|AR HuaCaoB5 EB|ARHuaCaoB5-EB|AR HuaCaoB5 EB|Regular|1.00|
+|AR HuaLiB5 EH.ttf|AR HuaLiB5 EH|ARHuaLiB5-EH|AR HuaLiB5 EH|Regular|0.01|
 |AR HuaTsauZuinn Eb & AR HuaTsauZuinn1 Eb & AR HuaTsauZuinn2 Eb & AR HuaTsauZuinn3 Eb & AR HuaTsauZuinn4 Eb & AR HuaTsauZuinn5 Eb.ttc||||||
 |AR HuoChaiB5 BD.ttf|AR HuoChaiB5 BD|ARHuoChaiB5-BD|AR HuoChaiB5 BD|Regular|1.00|
 |AR HuoChaiGB BD.ttf|AR HuoChaiGB BD|ARHuoChaiGB-BD|AR HuoChaiGB BD|Regular|1.00|
@@ -453,11 +454,17 @@
 |AR MochiGB H32C90 DB.ttf|AR MochiGB H32C90 DB|ARMochiGBH32C90-DB|AR MochiGB H32C90 DB|Regular|1.00|
 |AR MochiGB H32C90 MD.ttf|AR MochiGB H32C90 MD|ARMochiGBH32C90-MD|AR MochiGB H32C90 MD|Regular|1.00|
 |AR MoHuan401B5.ttf|AR MoHuan401B5|ARMoHuan401B5-Regular|AR MoHuan401B5|Regular|1.00|
+|AR MoHuan401GB.ttf|AR MoHuan401GB|ARMoHuan401GB-Regular|AR MoHuan401GB|Regular|1.00|
 |AR MoHuan402B5.ttf|AR MoHuan402B5|ARMoHuan402B5-Regular|AR MoHuan402B5|Regular|1.00|
+|AR MoHuan402GB.ttf|AR MoHuan402GB|ARMoHuan402GB-Regular|AR MoHuan402GB|Regular|1.00|
 |AR MoHuan501B5.ttf|AR MoHuan501B5|ARMoHuan501B5-Regular|AR MoHuan501B5|Regular|1.00|
+|AR MoHuan501GB.ttf|AR MoHuan501GB|ARMoHuan501GB-Regular|AR MoHuan501GB|Regular|1.00|
 |AR MoHuan502B5.ttf|AR MoHuan502B5|ARMoHuan502B5-Regular|AR MoHuan502B5|Regular|1.00|
+|AR MoHuan502GB.ttf|AR MoHuan502GB|ARMoHuan502GB-Regular|AR MoHuan502GB|Regular|1.00|
 |AR MoHuan701B5.ttf|AR MoHuan701B5|ARMoHuan701B5-Regular|AR MoHuan701B5|Regular|1.00|
+|AR MoHuan701GB.ttf|AR MoHuan701GB|ARMoHuan701GB-Regular|AR MoHuan701GB|Regular|1.00|
 |AR MoHuan702B5.ttf|AR MoHuan702B5|ARMoHuan702B5-Regular|AR MoHuan702B5|Regular|1.00|
+|AR MoHuan702GB.ttf|AR MoHuan702GB|ARMoHuan702GB-Regular|AR MoHuan702GB|Regular|1.00|
 |AR MyungjoKR MD.ttf|AR MyungjoKR MD|ARMyungjoKR-MD|AR MyungjoKR MD|Regular|2.80|
 |AR NaGoMiPOPGB BD & AR NaGoMiPOPPGB BD.ttc||||||
 |AR NagomipopJP BD & AR NagomipopPJP BD.ttc||||||
@@ -690,7 +697,13 @@
 |AR SYSongB5 Display H32 HV.ttf|AR SYSongB5 Display H32 HV|ARSYSongB5DisplayH32-HV|AR SYSongB5 Display H32 HV|Regular|1.00|
 |AR SYSongB5 Display H46 HV.ttf|AR SYSongB5 Display H46 HV|ARSYSongB5DisplayH46-HV|AR SYSongB5 Display H46 HV|Regular|1.00|
 |AR SYSongB5 Display H62 HV.ttf|AR SYSongB5 Display H62 HV|ARSYSongB5DisplayH62-HV|AR SYSongB5 Display H62 HV|Regular|1.00|
+|AR SYSongB5HK Display H16 MD.ttf|AR SYSongB5HK Display H16 MD|ARSYSongB5HKDisplayH16-MD|AR SYSongB5HK Display H16 MD|Regular|1.00|
+|AR SYSongB5HK Display H32 MD.ttf|AR SYSongB5HK Display H32 MD|ARSYSongB5HKDisplayH32-MD|AR SYSongB5HK Display H32 MD|Regular|1.00|
+|AR SYSongB5HK Display H46 MD.ttf|AR SYSongB5HK Display H46 MD|ARSYSongB5HKDisplayH46-MD|AR SYSongB5HK Display H46 MD|Regular|1.00|
+|AR SYSongB5HK Display H62 MD.ttf|AR SYSongB5HK Display H62 MD|ARSYSongB5HKDisplayH62-MD|AR SYSongB5HK Display H62 MD|Regular|1.00|
+|AR SYSongB5HK Text H32 HV & AR SYSongPB5HK Text H32 HV.ttc||||||
 |AR SYSongB5HK Text H32 MD & AR SYSongPB5HK Text H32 MD.ttc||||||
+|AR SYSongB5HK Text H46 HV & AR SYSongPB5HK Text H46 HV.ttc||||||
 |AR SYSongB5HK Text H46 MD & AR SYSongPB5HK Text H46 MD.ttc||||||
 |AR SYSongB5 Text H32 HV & AR SYSongPB5 Text H32 HV.ttc||||||
 |AR SYSongB5 Text H46 HV & AR SYSongPB5 Text H46 HV.ttc||||||
